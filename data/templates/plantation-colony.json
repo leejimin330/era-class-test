@@ -1,0 +1,228 @@
+{
+  "id": "plantation-colony",
+  "name": "카리브해 플랜테이션 식민지",
+  "classes": [
+    {
+      "id": "planter",
+      "name": "플랜테이션 농장주",
+      "share": 0.02,
+      "shareConfidence": "mid",
+      "lifespan": [
+        25,
+        55
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          17
+        ],
+        "charm": [
+          10,
+          17
+        ],
+        "luck": [
+          11,
+          18
+        ]
+      },
+      "jobs": [
+        "설탕 농장 경영",
+        "노예 매입",
+        "식민지 의회 활동"
+      ],
+      "meals": [
+        "수입 와인",
+        "구운 고기",
+        "설탕 디저트"
+      ],
+      "historyTips": [
+        "18세기 카리브해 설탕은 유럽에서 가장 수익성 높은 식민지 상품이었다."
+      ],
+      "sources": [
+        "Klein (2010) The Atlantic Slave Trade"
+      ]
+    },
+    {
+      "id": "merchant",
+      "name": "상인·관리인",
+      "share": 0.03,
+      "shareConfidence": "mid",
+      "lifespan": [
+        22,
+        50
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          16
+        ],
+        "charm": [
+          11,
+          17
+        ],
+        "luck": [
+          8,
+          16
+        ]
+      },
+      "jobs": [
+        "설탕·럼 수출",
+        "농장 감독",
+        "항구 관리"
+      ],
+      "meals": [
+        "밀빵",
+        "소금 생선",
+        "럼"
+      ],
+      "historyTips": [
+        "플랜테이션 감독관은 농장주가 유럽에 머무는 동안 농장을 대신 운영하기도 했다."
+      ],
+      "sources": [
+        "Klein (2010) The Atlantic Slave Trade"
+      ]
+    },
+    {
+      "id": "free-colored",
+      "name": "자유 유색인",
+      "share": 0.05,
+      "shareConfidence": "mid",
+      "lifespan": [
+        22,
+        55
+      ],
+      "statBase": {
+        "body": [
+          9,
+          15
+        ],
+        "mind": [
+          9,
+          15
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          6,
+          13
+        ]
+      },
+      "jobs": [
+        "장인",
+        "소규모 농장",
+        "상점"
+      ],
+      "meals": [
+        "쌀과 콩",
+        "소금 생선",
+        "플랜틴"
+      ],
+      "historyTips": [
+        "생도맹그(아이티)의 자유 유색인 중에는 농장과 노예를 소유한 부유층도 있었다."
+      ],
+      "sources": [
+        "Klein (2010) The Atlantic Slave Trade"
+      ]
+    },
+    {
+      "id": "poor-white",
+      "name": "백인 빈민·선원",
+      "share": 0.05,
+      "shareConfidence": "mid",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          8,
+          15
+        ],
+        "mind": [
+          5,
+          13
+        ],
+        "charm": [
+          5,
+          12
+        ],
+        "luck": [
+          2,
+          8
+        ]
+      },
+      "jobs": [
+        "선원",
+        "계약 노동",
+        "하급 군인"
+      ],
+      "meals": [
+        "소금 고기",
+        "비스킷",
+        "럼"
+      ],
+      "historyTips": [
+        "카리브해에 온 유럽인 하층민은 황열병과 말라리아로 많이 사망했다."
+      ],
+      "sources": [
+        "Klein (2010) The Atlantic Slave Trade"
+      ]
+    },
+    {
+      "id": "enslaved",
+      "name": "노예",
+      "share": 0.85,
+      "shareConfidence": "high",
+      "lifespan": [
+        16,
+        40
+      ],
+      "statBase": {
+        "body": [
+          10,
+          16
+        ],
+        "mind": [
+          4,
+          12
+        ],
+        "charm": [
+          4,
+          11
+        ],
+        "luck": [
+          1,
+          6
+        ]
+      },
+      "jobs": [
+        "사탕수수 베기",
+        "설탕 공장 노동",
+        "가사 노동"
+      ],
+      "meals": [
+        "옥수수·카사바 배급",
+        "소금 생선 조금",
+        "직접 기른 채소"
+      ],
+      "historyTips": [
+        "대서양 노예무역으로 1,200만 명 이상의 아프리카인이 배에 실려 아메리카로 끌려갔다.",
+        "카리브해 설탕 농장은 노동 강도가 극심해 노예 사망률이 매우 높았다."
+      ],
+      "sources": [
+        "Eltis & Richardson (2010) Atlas of the Transatlantic Slave Trade",
+        "Klein (2010) The Atlantic Slave Trade"
+      ]
+    }
+  ]
+}

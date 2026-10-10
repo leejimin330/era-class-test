@@ -10451,14 +10451,14 @@
     },
     {
       "id": "ce1750-caribbean",
-      "name": "카리브해 식민지 플랜테이션",
+      "name": "카리브해 플랜테이션 식민지",
       "kind": "region",
       "population": 1.2,
       "populationConfidence": "low",
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "tribal-farming"
+      "classTemplate": "plantation-colony"
     },
     {
       "id": "ce1750-americas",

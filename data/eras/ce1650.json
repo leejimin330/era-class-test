@@ -1,0 +1,8708 @@
+{
+  "id": "ce1650",
+  "group": "history",
+  "year": 1650,
+  "name": "1650년의 세계",
+  "yearLabel": "1650년경",
+  "fictional": false,
+  "worldPopulation": 509.7,
+  "sources": [
+    "McEvedy & Jones (1978) Atlas of World Population History",
+    "Biraben (1980) An Essay Concerning Mankind's Evolution",
+    "Parker (2013) Global Crisis: War, Climate Change and Catastrophe in the Seventeenth Century",
+    "지역 합산 약 5억 1,000만(17세기 위기로 정체)"
+  ],
+  "polities": [
+    {
+      "id": "ce1650-qing",
+      "name": "청(입관 직후)",
+      "kind": "polity",
+      "population": 120,
+      "populationConfidence": "low",
+      "sources": [
+        "Ho Ping-ti (1959) Studies on the Population of China",
+        "Rowe (2009) China's Last Empire: The Great Qing"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "순치제와 섭정 도르곤",
+          "share": 1e-08,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "조회 주재",
+            "제천 의례",
+            "순행",
+            "상소 검토"
+          ],
+          "meals": [
+            "돼지고기 요리",
+            "쌀밥",
+            "차",
+            "술"
+          ],
+          "historyTips": [
+            "청은 1644년 베이징에 입성했고, 섭정 도르곤이 1650년 세상을 떠났다."
+          ],
+          "sources": [
+            "Rowe (2009) China's Last Empire: The Great Qing",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "신사·관료",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직 근무",
+            "과거 공부",
+            "장원 관리",
+            "시문 짓기"
+          ],
+          "meals": [
+            "돼지고기 요리",
+            "쌀밥",
+            "차",
+            "술"
+          ],
+          "historyTips": [
+            "청은 1645년 한인 남성에게 변발을 강요했다."
+          ],
+          "sources": [
+            "Rowe (2009) China's Last Empire: The Great Qing",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려·도사",
+          "share": 0.008,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사찰·도관 의례",
+            "독경",
+            "장례 의식"
+          ],
+          "meals": [
+            "쌀밥이나 밀국수",
+            "두부",
+            "절인 채소",
+            "차"
+          ],
+          "historyTips": [
+            "불교와 도교 사원은 토지와 신도를 거느린 큰 세력이었다."
+          ],
+          "sources": [
+            "Rowe (2009) China's Last Empire: The Great Qing",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "변경 수비",
+            "운하·성 경비",
+            "원정"
+          ],
+          "meals": [
+            "쌀밥이나 밀국수",
+            "두부",
+            "절인 채소",
+            "차"
+          ],
+          "historyTips": [
+            "중국 왕조들은 북방 유목민 방어에 막대한 군사비를 썼다."
+          ],
+          "sources": [
+            "Rowe (2009) China's Last Empire: The Great Qing",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "비단 직조",
+            "도자기 굽기",
+            "인쇄·제지",
+            "운하 수운"
+          ],
+          "meals": [
+            "쌀밥이나 밀국수",
+            "두부",
+            "절인 채소",
+            "차"
+          ],
+          "historyTips": [
+            "중국 도자기와 비단은 육로와 바닷길로 세계 곳곳에 수출됐다."
+          ],
+          "sources": [
+            "Rowe (2009) China's Last Empire: The Great Qing",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민·소작농",
+          "share": 0.86999999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·밀 농사",
+            "요역 동원",
+            "조세 납부",
+            "양잠"
+          ],
+          "meals": [
+            "조밥이나 거친 쌀",
+            "절인 채소",
+            "묽은 죽"
+          ],
+          "historyTips": [
+            "명말청초 전란과 기근으로 중국 인구는 크게 줄었다."
+          ],
+          "sources": [
+            "Rowe (2009) China's Last Empire: The Great Qing",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노비·천민",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "가내 노비",
+            "관청 잡역",
+            "광산 노역"
+          ],
+          "meals": [
+            "조밥이나 거친 쌀",
+            "절인 채소",
+            "묽은 죽"
+          ],
+          "historyTips": [
+            "중국에도 빚이나 형벌로 노비가 된 사람들이 있었다."
+          ],
+          "sources": [
+            "Rowe (2009) China's Last Empire: The Great Qing",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-joseon",
+      "name": "조선",
+      "kind": "polity",
+      "population": 10,
+      "populationConfidence": "low",
+      "sources": [
+        "권태환·신용하 (1977) 조선왕조시대 인구추정에 관한 일시론"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "국왕 효종과 왕실",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "조회",
+            "종묘·사직 제사",
+            "사냥과 순행"
+          ],
+          "meals": [
+            "쌀밥",
+            "고기 구이",
+            "술",
+            "떡"
+          ],
+          "historyTips": [
+            "효종은 북벌을 준비했고, 1654·1658년 청의 요청으로 조총병을 보내 러시아군과 싸웠다(나선정벌)."
+          ],
+          "sources": [
+            "권태환·신용하 (1977) 조선왕조시대 인구추정에 관한 일시론",
+            "한국사(국사편찬위원회) / 조선왕조실록",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "양반",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직",
+            "토지·노비 관리",
+            "시문 짓기"
+          ],
+          "meals": [
+            "쌀밥",
+            "고기 구이",
+            "술",
+            "떡"
+          ],
+          "historyTips": [
+            "한반도 왕조의 지배층은 관직과 토지, 노비를 기반으로 세력을 유지했다."
+          ],
+          "sources": [
+            "권태환·신용하 (1977) 조선왕조시대 인구추정에 관한 일시론",
+            "한국사(국사편찬위원회) / 조선왕조실록",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사찰 법회",
+            "불경 간행",
+            "왕실 기도"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "불교는 삼국 시대 이후 국가의 보호를 받으며 크게 번성했다."
+          ],
+          "sources": [
+            "권태환·신용하 (1977) 조선왕조시대 인구추정에 관한 일시론",
+            "한국사(국사편찬위원회) / 조선왕조실록",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "중인·향리",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "국경 수비",
+            "산성 쌓기",
+            "원정"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "한반도 왕조들은 산성을 거점으로 하는 방어 전략을 오랫동안 썼다."
+          ],
+          "sources": [
+            "권태환·신용하 (1977) 조선왕조시대 인구추정에 관한 일시론",
+            "한국사(국사편찬위원회) / 조선왕조실록",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "기와·도자기 제작",
+            "직조",
+            "시장 장사"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "한반도의 기와·도자기 기술은 일본에도 전해졌다."
+          ],
+          "sources": [
+            "권태환·신용하 (1977) 조선왕조시대 인구추정에 관한 일시론",
+            "한국사(국사편찬위원회) / 조선왕조실록",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "상민(농민)",
+          "share": 0.559998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·보리·조 농사",
+            "조세·공물 납부",
+            "역(노역) 동원"
+          ],
+          "meals": [
+            "조밥",
+            "나물",
+            "소금 장"
+          ],
+          "historyTips": [
+            "병자호란(1636) 후 조선 농촌은 복구에 힘썼다."
+          ],
+          "sources": [
+            "권태환·신용하 (1977) 조선왕조시대 인구추정에 관한 일시론",
+            "한국사(국사편찬위원회) / 조선왕조실록",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노비",
+          "share": 0.3,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "주인 농사",
+            "가사 노동",
+            "공물 생산"
+          ],
+          "meals": [
+            "조밥",
+            "나물",
+            "소금 장"
+          ],
+          "historyTips": [
+            "한반도 왕조에서 노비 신분은 대개 부모로부터 세습됐다."
+          ],
+          "sources": [
+            "권태환·신용하 (1977) 조선왕조시대 인구추정에 관한 일시론",
+            "한국사(국사편찬위원회) / 조선왕조실록",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-japan",
+      "name": "에도 일본",
+      "kind": "polity",
+      "population": 20,
+      "populationConfidence": "mid",
+      "sources": [
+        "Hayami (2001) The Historical Demography of Pre-modern Japan"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "쇼군 도쿠가와 이에미쓰·이에쓰나",
+          "share": 1e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "정무 결재",
+            "와카 짓기"
+          ],
+          "meals": [
+            "백미",
+            "생선 구이",
+            "사케",
+            "과일"
+          ],
+          "historyTips": [
+            "1651년 낭인들이 막부 전복을 꾀한 게이안 사건이 일어났다."
+          ],
+          "sources": [
+            "Hayami (2001) The Historical Demography of Pre-modern Japan",
+            "Farris (2006) Japan's Medieval Population",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "다이묘·상급 무사",
+          "share": 0.004,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직",
+            "장원 관리",
+            "궁정 연회"
+          ],
+          "meals": [
+            "백미",
+            "생선 구이",
+            "사케",
+            "과일"
+          ],
+          "historyTips": [
+            "헤이안 귀족 문화에서는 와카(시)를 잘 짓는 것이 출세의 조건이었다."
+          ],
+          "sources": [
+            "Hayami (2001) The Historical Demography of Pre-modern Japan",
+            "Farris (2006) Japan's Medieval Population",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려·신관",
+          "share": 0.015,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사찰 법회",
+            "신사 제사",
+            "경전 필사"
+          ],
+          "meals": [
+            "현미",
+            "된장국",
+            "채소 절임"
+          ],
+          "historyTips": [
+            "일본 불교 사찰은 장원과 승병을 거느린 큰 세력이었다."
+          ],
+          "sources": [
+            "Hayami (2001) The Historical Demography of Pre-modern Japan",
+            "Farris (2006) Japan's Medieval Population",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "무사·아시가루",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "무사로 복무",
+            "장원 경비",
+            "전투"
+          ],
+          "meals": [
+            "현미",
+            "된장국",
+            "채소 절임"
+          ],
+          "historyTips": [
+            "일본의 무사 계층은 지방 장원을 지키던 무장 세력에서 성장했다."
+          ],
+          "sources": [
+            "Hayami (2001) The Historical Demography of Pre-modern Japan",
+            "Farris (2006) Japan's Medieval Population",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "칼·갑옷 제작",
+            "목공",
+            "시장 장사"
+          ],
+          "meals": [
+            "현미",
+            "된장국",
+            "채소 절임"
+          ],
+          "historyTips": [
+            "에도 시대 초기 에도·오사카·교토가 큰 도시로 성장했다."
+          ],
+          "sources": [
+            "Hayami (2001) The Historical Demography of Pre-modern Japan",
+            "Farris (2006) Japan's Medieval Population",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.825999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼농사",
+            "연공 납부",
+            "부역"
+          ],
+          "meals": [
+            "잡곡밥",
+            "채소",
+            "소금"
+          ],
+          "historyTips": [
+            "막부는 1639년 포르투갈 배의 입항을 금지하며 '쇄국' 체제를 굳혔다."
+          ],
+          "sources": [
+            "Hayami (2001) The Historical Demography of Pre-modern Japan",
+            "Farris (2006) Japan's Medieval Population",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "천민",
+          "share": 0.015,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "예속 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "잡곡밥",
+            "채소",
+            "소금"
+          ],
+          "historyTips": [
+            "고대 일본 율령제에는 양민과 천민을 나누는 신분 구분이 있었다."
+          ],
+          "sources": [
+            "Hayami (2001) The Historical Demography of Pre-modern Japan",
+            "Farris (2006) Japan's Medieval Population",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-ottoman",
+      "name": "오스만 제국",
+      "kind": "polity",
+      "population": 22,
+      "populationConfidence": "low",
+      "sources": [
+        "İnalcık (1994) An Economic and Social History of the Ottoman Empire"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "술탄 메흐메트 4세",
+          "share": 2e-07,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "총독 임명",
+            "원정"
+          ],
+          "meals": [
+            "양고기 필라프",
+            "꿀 과자",
+            "셔벗",
+            "대추야자"
+          ],
+          "historyTips": [
+            "메흐메트 4세는 1648년 일곱 살에 즉위했고, 1656년부터 쾨프륄뤼 가문 재상들이 실권을 쥐었다."
+          ],
+          "sources": [
+            "İnalcık (1994) An Economic and Social History of the Ottoman Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "군사 귀족·관료",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "이크타(봉토) 관리",
+            "군 지휘",
+            "궁정 관직"
+          ],
+          "meals": [
+            "양고기 필라프",
+            "꿀 과자",
+            "셔벗",
+            "대추야자"
+          ],
+          "historyTips": [
+            "이슬람 왕조들은 군인에게 토지의 세금 수입을 주는 '이크타'를 운영했다."
+          ],
+          "sources": [
+            "İnalcık (1994) An Economic and Social History of the Ottoman Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "울라마",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "샤리아 법 해석",
+            "마드라사 교육",
+            "모스크 설교"
+          ],
+          "meals": [
+            "밀빵",
+            "렌즈콩 스튜",
+            "요구르트",
+            "대추야자"
+          ],
+          "historyTips": [
+            "울라마는 이슬람 법학자로서 재판과 교육을 맡았다."
+          ],
+          "sources": [
+            "İnalcık (1994) An Economic and Social History of the Ottoman Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "군인",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "기병 복무",
+            "국경 수비",
+            "원정"
+          ],
+          "meals": [
+            "밀빵",
+            "렌즈콩 스튜",
+            "요구르트",
+            "대추야자"
+          ],
+          "historyTips": [
+            "노예 출신 군인 '맘루크'는 여러 이슬람 왕조의 핵심 병력이었다."
+          ],
+          "sources": [
+            "İnalcık (1994) An Economic and Social History of the Ottoman Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "직조·카펫",
+            "유리·도자기",
+            "바자르 상점",
+            "대상 무역"
+          ],
+          "meals": [
+            "밀빵",
+            "렌즈콩 스튜",
+            "요구르트",
+            "대추야자"
+          ],
+          "historyTips": [
+            "바그다드·카이로·다마스쿠스의 바자르는 장거리 교역망의 중심이었다."
+          ],
+          "sources": [
+            "İnalcık (1994) An Economic and Social History of the Ottoman Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.8299998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "대추야자 재배",
+            "지세 납부"
+          ],
+          "meals": [
+            "보리빵",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "17세기 오스만 농촌은 기후 악화와 반란으로 어려움을 겪었다."
+          ],
+          "sources": [
+            "İnalcık (1994) An Economic and Social History of the Ottoman Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "가사 노동",
+            "농장 노동",
+            "군 노예 훈련"
+          ],
+          "meals": [
+            "보리빵",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "이슬람 세계의 노예는 가사·군사 등 다양한 역할을 했고, 해방은 종교적 선행으로 권장됐다."
+          ],
+          "sources": [
+            "İnalcık (1994) An Economic and Social History of the Ottoman Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-safavid",
+      "name": "사파비 왕조 이란",
+      "kind": "polity",
+      "population": 8,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "샤 아바스 2세",
+          "share": 1e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "총독 임명",
+            "원정"
+          ],
+          "meals": [
+            "양고기 필라프",
+            "꿀 과자",
+            "셔벗",
+            "대추야자"
+          ],
+          "historyTips": [
+            "아바스 2세 시기 이스파한은 '세상의 절반'이라 불릴 만큼 번영했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "군사 귀족·관료",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "이크타(봉토) 관리",
+            "군 지휘",
+            "궁정 관직"
+          ],
+          "meals": [
+            "양고기 필라프",
+            "꿀 과자",
+            "셔벗",
+            "대추야자"
+          ],
+          "historyTips": [
+            "이슬람 왕조들은 군인에게 토지의 세금 수입을 주는 '이크타'를 운영했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "울라마",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "샤리아 법 해석",
+            "마드라사 교육",
+            "모스크 설교"
+          ],
+          "meals": [
+            "밀빵",
+            "렌즈콩 스튜",
+            "요구르트",
+            "대추야자"
+          ],
+          "historyTips": [
+            "울라마는 이슬람 법학자로서 재판과 교육을 맡았다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "군인",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "기병 복무",
+            "국경 수비",
+            "원정"
+          ],
+          "meals": [
+            "밀빵",
+            "렌즈콩 스튜",
+            "요구르트",
+            "대추야자"
+          ],
+          "historyTips": [
+            "노예 출신 군인 '맘루크'는 여러 이슬람 왕조의 핵심 병력이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "직조·카펫",
+            "유리·도자기",
+            "바자르 상점",
+            "대상 무역"
+          ],
+          "meals": [
+            "밀빵",
+            "렌즈콩 스튜",
+            "요구르트",
+            "대추야자"
+          ],
+          "historyTips": [
+            "바그다드·카이로·다마스쿠스의 바자르는 장거리 교역망의 중심이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.829999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "대추야자 재배",
+            "지세 납부"
+          ],
+          "meals": [
+            "보리빵",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "이란 농민은 카나트 관개로 밀을 길렀다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "가사 노동",
+            "농장 노동",
+            "군 노예 훈련"
+          ],
+          "meals": [
+            "보리빵",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "이슬람 세계의 노예는 가사·군사 등 다양한 역할을 했고, 해방은 종교적 선행으로 권장됐다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-mughal",
+      "name": "무굴 제국",
+      "kind": "polity",
+      "population": 125,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India",
+        "Richards (1993) The Mughal Empire"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "황제 샤 자한과 무굴 왕가",
+          "share": 2e-08,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁과 동맹",
+            "사원 후원"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 커리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "샤 자한은 왕비를 기려 타지마할을 지었고(1653년경 완공), 1648년 새 수도 샤자하나바드를 세웠다."
+          ],
+          "sources": [
+            "Habib (1999) The Agrarian System of Mughal India",
+            "Richards (1993) The Mughal Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족·영지 보유자",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "영지 관리",
+            "기병·코끼리 부대 지휘",
+            "궁정 출사"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 커리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "인도 왕국들의 귀족은 영지 수입으로 병력을 유지할 의무를 졌다."
+          ],
+          "sources": [
+            "Habib (1999) The Agrarian System of Mughal India",
+            "Richards (1993) The Mughal Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "브라만·학자",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사원 의례",
+            "산스크리트 경전 교육",
+            "왕실 자문"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "브라만은 제사와 학문을 독점하며 사회 위계의 꼭대기에 섰다."
+          ],
+          "sources": [
+            "Habib (1999) The Agrarian System of Mughal India",
+            "Richards (1993) The Mughal Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "요새 수비",
+            "원정",
+            "코끼리 부대 복무"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "인도 군대에서 전투 코끼리는 수천 년간 상징적 병력이었다."
+          ],
+          "sources": [
+            "Habib (1999) The Agrarian System of Mughal India",
+            "Richards (1993) The Mughal Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.09,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "면직물 직조",
+            "금속 세공",
+            "해상·대상 교역"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "인도 면직물은 고대부터 로마·동남아로 수출되는 고급품이었다."
+          ],
+          "sources": [
+            "Habib (1999) The Agrarian System of Mughal India",
+            "Richards (1993) The Mughal Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.71999998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·밀·기장 농사",
+            "소 돌보기",
+            "지세 납부"
+          ],
+          "meals": [
+            "거친 곡물",
+            "달",
+            "버터밀크"
+          ],
+          "historyTips": [
+            "무굴 농민은 수확의 3분의 1 이상을 지세로 냈다."
+          ],
+          "sources": [
+            "Habib (1999) The Agrarian System of Mughal India",
+            "Richards (1993) The Mughal Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "천대받은 노동 계층",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "천대받은 노동(청소·가죽)",
+            "가사 노동",
+            "농업 품팔이"
+          ],
+          "meals": [
+            "거친 곡물",
+            "달",
+            "버터밀크"
+          ],
+          "historyTips": [
+            "카스트 위계 속에서 '부정하다'고 여겨진 노동을 맡은 사람들은 오랫동안 차별받았다."
+          ],
+          "sources": [
+            "Habib (1999) The Agrarian System of Mughal India",
+            "Richards (1993) The Mughal Empire",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-deccan",
+      "name": "골콘다·비자푸르 술탄국",
+      "kind": "polity",
+      "population": 15,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "데칸 술탄들",
+          "share": 1e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "총독 임명",
+            "원정"
+          ],
+          "meals": [
+            "양고기 필라프",
+            "꿀 과자",
+            "셔벗",
+            "대추야자"
+          ],
+          "historyTips": [
+            "코이누르 다이아몬드는 골콘다 광산에서 나온 것으로 전해진다."
+          ],
+          "sources": [
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "군사 귀족·관료",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "이크타(봉토) 관리",
+            "군 지휘",
+            "궁정 관직"
+          ],
+          "meals": [
+            "양고기 필라프",
+            "꿀 과자",
+            "셔벗",
+            "대추야자"
+          ],
+          "historyTips": [
+            "이슬람 왕조들은 군인에게 토지의 세금 수입을 주는 '이크타'를 운영했다."
+          ],
+          "sources": [
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "울라마",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "샤리아 법 해석",
+            "마드라사 교육",
+            "모스크 설교"
+          ],
+          "meals": [
+            "밀빵",
+            "렌즈콩 스튜",
+            "요구르트",
+            "대추야자"
+          ],
+          "historyTips": [
+            "울라마는 이슬람 법학자로서 재판과 교육을 맡았다."
+          ],
+          "sources": [
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "군인",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "기병 복무",
+            "국경 수비",
+            "원정"
+          ],
+          "meals": [
+            "밀빵",
+            "렌즈콩 스튜",
+            "요구르트",
+            "대추야자"
+          ],
+          "historyTips": [
+            "노예 출신 군인 '맘루크'는 여러 이슬람 왕조의 핵심 병력이었다."
+          ],
+          "sources": [
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "직조·카펫",
+            "유리·도자기",
+            "바자르 상점",
+            "대상 무역"
+          ],
+          "meals": [
+            "밀빵",
+            "렌즈콩 스튜",
+            "요구르트",
+            "대추야자"
+          ],
+          "historyTips": [
+            "바그다드·카이로·다마스쿠스의 바자르는 장거리 교역망의 중심이었다."
+          ],
+          "sources": [
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.829999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "대추야자 재배",
+            "지세 납부"
+          ],
+          "meals": [
+            "보리빵",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "데칸 농민은 기장·면화를 길렀다."
+          ],
+          "sources": [
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "가사 노동",
+            "농장 노동",
+            "군 노예 훈련"
+          ],
+          "meals": [
+            "보리빵",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "이슬람 세계의 노예는 가사·군사 등 다양한 역할을 했고, 해방은 종교적 선행으로 권장됐다."
+          ],
+          "sources": [
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-india",
+      "name": "기타 인도",
+      "kind": "region",
+      "population": 10,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "ce1650-france",
+      "name": "프랑스",
+      "kind": "polity",
+      "population": 19,
+      "populationConfidence": "mid",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Parker (2013) Global Crisis: War, Climate Change and Catastrophe in the Seventeenth Century"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "어린 국왕 루이 14세와 섭정",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "1648~1653년 귀족과 고등법원이 왕권에 맞선 '프롱드의 난'이 일어났다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.775998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "17세기 중반 프랑스 농민은 전쟁 비용을 대는 무거운 세금에 시달렸다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-britain",
+      "name": "잉글랜드 공화국과 브리튼 제도",
+      "kind": "polity",
+      "population": 7.5,
+      "populationConfidence": "mid",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Parker (2013) Global Crisis: War, Climate Change and Catastrophe in the Seventeenth Century"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "올리버 크롬웰과 국무회의",
+          "share": 1e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "잉글랜드는 1649년 국왕 찰스 1세를 처형하고 공화국이 됐다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.775999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "내전과 크롬웰의 아일랜드 정복으로 아일랜드 인구가 크게 줄었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-hre",
+      "name": "신성로마제국",
+      "kind": "polity",
+      "population": 15,
+      "populationConfidence": "low",
+      "sources": [
+        "Wilson (2009) Europe's Tragedy: A History of the Thirty Years War"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "황제 페르디난트 3세",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "1648년 베스트팔렌 조약으로 30년 전쟁이 끝났다."
+          ],
+          "sources": [
+            "Wilson (2009) Europe's Tragedy: A History of the Thirty Years War",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "Wilson (2009) Europe's Tragedy: A History of the Thirty Years War",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "Wilson (2009) Europe's Tragedy: A History of the Thirty Years War",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "Wilson (2009) Europe's Tragedy: A History of the Thirty Years War",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "Wilson (2009) Europe's Tragedy: A History of the Thirty Years War",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.775998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "30년 전쟁으로 독일 지역 인구는 지역에 따라 20~40%가량 줄었다고 추정된다."
+          ],
+          "sources": [
+            "Wilson (2009) Europe's Tragedy: A History of the Thirty Years War",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "Wilson (2009) Europe's Tragedy: A History of the Thirty Years War",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-italy",
+      "name": "이탈리아 국가들",
+      "kind": "polity",
+      "population": 11,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "이탈리아 군주들",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "1630년 북이탈리아 페스트로 밀라노 인구의 상당수가 사망했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.77599,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "이탈리아 경제는 17세기 들어 북유럽에 밀리며 쇠퇴했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-spain",
+      "name": "스페인",
+      "kind": "polity",
+      "population": 7,
+      "populationConfidence": "mid",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "국왕 펠리페 4세",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "궁정 화가 벨라스케스는 1656년 『시녀들』을 그렸다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.775998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "스페인은 잦은 전쟁과 전염병으로 인구가 줄었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-portugal",
+      "name": "포르투갈",
+      "kind": "polity",
+      "population": 1.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "국왕 주앙 4세",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "포르투갈은 1640년 스페인에서 다시 독립했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.77599,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "포르투갈은 1654년 브라질에서 네덜란드를 몰아냈다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-dutch",
+      "name": "네덜란드 공화국",
+      "kind": "polity",
+      "population": 1.9,
+      "populationConfidence": "high",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "홀란트 주와 공화국 지도자들",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "네덜란드는 1648년 베스트팔렌 조약으로 독립을 공식 인정받았다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "렘브란트가 이 시기 암스테르담에서 활동했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민·어민",
+          "share": 0.77599,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "1637년 튤립 알뿌리 하나가 집 한 채 값까지 치솟았다가 폭락했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-poland-lithuania",
+      "name": "폴란드-리투아니아",
+      "kind": "polity",
+      "population": 10,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "국왕 얀 2세 카지미에시",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "1648년 흐멜니츠키 봉기에 이어 1655년 스웨덴 침공('대홍수')이 닥친다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농노·예속 농민",
+          "share": 0.775998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "폴란드 농민은 주 여러 날 영주 직영지에서 부역했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-russia",
+      "name": "러시아 차르국",
+      "kind": "polity",
+      "population": 9,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "차르 알렉세이",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "1649년 법전(울로제니예)은 농민을 영주의 땅에 영구히 묶어 농노제를 완성했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농노·예속 농민",
+          "share": 0.775998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "러시아 농노는 이제 도망치면 언제든 끌려올 수 있었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-sweden",
+      "name": "스웨덴 제국",
+      "kind": "polity",
+      "population": 2.5,
+      "populationConfidence": "mid",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "여왕 크리스티나",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "철학자 데카르트는 크리스티나 여왕의 초청으로 스톡홀름에 갔다가 1650년 그곳에서 숨졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.775995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "스웨덴 농민은 의회에 대표를 보내는 '농민 신분'을 가졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-denmark",
+      "name": "덴마크-노르웨이",
+      "kind": "polity",
+      "population": 1.3,
+      "populationConfidence": "mid",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "국왕 프레데리크 3세",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "프레데리크 3세는 1660년 절대왕정을 세운다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.012,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·용병",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성 수비",
+            "원정",
+            "용병 계약"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 후기로 갈수록 봉건 기사보다 돈 받는 용병의 비중이 커졌다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 상인·장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.775995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "덴마크 셸란섬 농민은 태어난 영지를 떠날 수 없는 제도(보르네스카브)에 묶여 있었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "하인·빈민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "McEvedy & Jones (1978) Atlas of World Population History",
+            "Blum (1978) The End of the Old Order in Rural Europe",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-daiviet",
+      "name": "대월(찐·응우옌 대립기)",
+      "kind": "polity",
+      "population": 6,
+      "populationConfidence": "low",
+      "sources": [
+        "Reid (1988–93) Southeast Asia in the Age of Commerce"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "레 황제와 찐 씨·응우옌 씨",
+          "share": 3e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "불교·힌두 의례 후원",
+            "무역 독점",
+            "사원 건설"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 카레",
+            "열대 과일"
+          ],
+          "historyTips": [
+            "찐 씨와 응우옌 씨는 1627~1672년 여러 차례 전쟁을 벌였다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "인력 동원 관리",
+            "무역 대리",
+            "지방 통치"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 카레",
+            "열대 과일"
+          ],
+          "historyTips": [
+            "동남아 국가의 권력은 땅보다 사람(노동력)을 얼마나 거느리느냐에 달려 있었다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려·종교 지도자",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사원 의례",
+            "경전 교육",
+            "탁발"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 소스",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아 왕국들은 힌두교·불교를 받아들여 거대한 사원을 지었다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "코끼리 부대",
+            "하천 함대",
+            "요새 수비"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 소스",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아 왕국들은 전투 코끼리를 귀하게 여겼다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "직조",
+            "금속 세공",
+            "향신료 교역"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 소스",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아는 향신료 무역의 중심지였다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.699997,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "논농사",
+            "부역",
+            "하천 어로"
+          ],
+          "meals": [
+            "찹쌀밥",
+            "말린 생선",
+            "채소"
+          ],
+          "historyTips": [
+            "남부 응우옌 영역 농민은 메콩 삼각주 쪽으로 개척해 나갔다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "예속민",
+          "share": 0.15,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "채무 노역",
+            "가사 노동",
+            "사원 노동"
+          ],
+          "meals": [
+            "찹쌀밥",
+            "말린 생선",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아의 예속민 상당수는 빚 때문에 노동을 바치는 채무 예속민이었다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-ayutthaya",
+      "name": "아유타야 왕국",
+      "kind": "polity",
+      "population": 2.5,
+      "populationConfidence": "low",
+      "sources": [
+        "Reid (1988–93) Southeast Asia in the Age of Commerce"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "왕 쁘라삿텅",
+          "share": 3e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "불교·힌두 의례 후원",
+            "무역 독점",
+            "사원 건설"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 카레",
+            "열대 과일"
+          ],
+          "historyTips": [
+            "아유타야에는 일본인·네덜란드인·페르시아인 상인 거류지가 있었다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "인력 동원 관리",
+            "무역 대리",
+            "지방 통치"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 카레",
+            "열대 과일"
+          ],
+          "historyTips": [
+            "동남아 국가의 권력은 땅보다 사람(노동력)을 얼마나 거느리느냐에 달려 있었다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려·종교 지도자",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사원 의례",
+            "경전 교육",
+            "탁발"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 소스",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아 왕국들은 힌두교·불교를 받아들여 거대한 사원을 지었다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "코끼리 부대",
+            "하천 함대",
+            "요새 수비"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 소스",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아 왕국들은 전투 코끼리를 귀하게 여겼다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "직조",
+            "금속 세공",
+            "향신료 교역"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 소스",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아는 향신료 무역의 중심지였다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.699997,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "논농사",
+            "부역",
+            "하천 어로"
+          ],
+          "meals": [
+            "찹쌀밥",
+            "말린 생선",
+            "채소"
+          ],
+          "historyTips": [
+            "시암 평민은 해마다 부역을 바쳤다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "예속민",
+          "share": 0.15,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "채무 노역",
+            "가사 노동",
+            "사원 노동"
+          ],
+          "meals": [
+            "찹쌀밥",
+            "말린 생선",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아의 예속민 상당수는 빚 때문에 노동을 바치는 채무 예속민이었다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-mataram",
+      "name": "마타람 술탄국(자와)",
+      "kind": "polity",
+      "population": 4,
+      "populationConfidence": "low",
+      "sources": [
+        "Reid (1988–93) Southeast Asia in the Age of Commerce"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "술탄 아망쿠랏 1세",
+          "share": 3e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "불교·힌두 의례 후원",
+            "무역 독점",
+            "사원 건설"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 카레",
+            "열대 과일"
+          ],
+          "historyTips": [
+            "네덜란드 동인도회사는 1619년 바타비아(자카르타)를 거점으로 삼았다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "인력 동원 관리",
+            "무역 대리",
+            "지방 통치"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 카레",
+            "열대 과일"
+          ],
+          "historyTips": [
+            "동남아 국가의 권력은 땅보다 사람(노동력)을 얼마나 거느리느냐에 달려 있었다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려·종교 지도자",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사원 의례",
+            "경전 교육",
+            "탁발"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 소스",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아 왕국들은 힌두교·불교를 받아들여 거대한 사원을 지었다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "코끼리 부대",
+            "하천 함대",
+            "요새 수비"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 소스",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아 왕국들은 전투 코끼리를 귀하게 여겼다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "직조",
+            "금속 세공",
+            "향신료 교역"
+          ],
+          "meals": [
+            "쌀밥",
+            "생선 소스",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아는 향신료 무역의 중심지였다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.699997,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "논농사",
+            "부역",
+            "하천 어로"
+          ],
+          "meals": [
+            "찹쌀밥",
+            "말린 생선",
+            "채소"
+          ],
+          "historyTips": [
+            "자와 농민은 벼를 길렀다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "예속민",
+          "share": 0.15,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "채무 노역",
+            "가사 노동",
+            "사원 노동"
+          ],
+          "meals": [
+            "찹쌀밥",
+            "말린 생선",
+            "채소"
+          ],
+          "historyTips": [
+            "동남아의 예속민 상당수는 빚 때문에 노동을 바치는 채무 예속민이었다."
+          ],
+          "sources": [
+            "Reid (1988–93) Southeast Asia in the Age of Commerce",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-southeast-asia",
+      "name": "기타 동남아시아(버마 등)",
+      "kind": "region",
+      "population": 13,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "ce1650-morocco",
+      "name": "모로코",
+      "kind": "polity",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "모로코 술탄",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "교역로 통제",
+            "전쟁 결정"
+          ],
+          "meals": [
+            "고기 스튜",
+            "기장죽",
+            "꿀술"
+          ],
+          "historyTips": [
+            "모로코는 1666년 알라위 왕조 아래 다시 통일된다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족·족장",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "지방 통치",
+            "공물 수납",
+            "원로회 참석"
+          ],
+          "meals": [
+            "고기 스튜",
+            "기장죽",
+            "꿀술"
+          ],
+          "historyTips": [
+            "아프리카 왕국들의 통치는 원로회·족장과의 협상 위에 서 있었다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자·학자",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "조상 의례",
+            "점술",
+            "치유 의식"
+          ],
+          "meals": [
+            "기장죽",
+            "콩",
+            "채소 스튜"
+          ],
+          "historyTips": [
+            "아프리카 여러 사회에서 조상 숭배와 점술은 정치와 깊이 연결됐다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "기병·전사",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "호위",
+            "원정",
+            "교역로 경비"
+          ],
+          "meals": [
+            "기장죽",
+            "콩",
+            "채소 스튜"
+          ],
+          "historyTips": [
+            "사헬 지대의 왕국들은 기병으로 넓은 지역을 지배했다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "철 제련",
+            "직조",
+            "금·소금 교역"
+          ],
+          "meals": [
+            "기장죽",
+            "콩",
+            "채소 스튜"
+          ],
+          "historyTips": [
+            "아프리카에서는 수천 년 전부터 독자적 철 제련 기술이 발달했다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.749995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "기장·수수·얌 농사",
+            "가축 돌보기",
+            "공물 납부"
+          ],
+          "meals": [
+            "수수죽",
+            "채소",
+            "콩"
+          ],
+          "historyTips": [
+            "모로코 농민은 보리를 길렀다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농사",
+            "운반",
+            "가사 노동"
+          ],
+          "meals": [
+            "수수죽",
+            "채소",
+            "콩"
+          ],
+          "historyTips": [
+            "아프리카 사회의 예속민은 전쟁 포로나 빚 때문에 그렇게 되는 경우가 많았다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-ethiopia",
+      "name": "에티오피아 제국",
+      "kind": "polity",
+      "population": 3.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "황제 파실리데스",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "교역로 통제",
+            "전쟁 결정"
+          ],
+          "meals": [
+            "고기 스튜",
+            "기장죽",
+            "꿀술"
+          ],
+          "historyTips": [
+            "파실리데스는 1636년 곤다르를 수도로 정하고 성을 쌓았다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족·족장",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "지방 통치",
+            "공물 수납",
+            "원로회 참석"
+          ],
+          "meals": [
+            "고기 스튜",
+            "기장죽",
+            "꿀술"
+          ],
+          "historyTips": [
+            "아프리카 왕국들의 통치는 원로회·족장과의 협상 위에 서 있었다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자·학자",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "조상 의례",
+            "점술",
+            "치유 의식"
+          ],
+          "meals": [
+            "기장죽",
+            "콩",
+            "채소 스튜"
+          ],
+          "historyTips": [
+            "아프리카 여러 사회에서 조상 숭배와 점술은 정치와 깊이 연결됐다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "기병·전사",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "호위",
+            "원정",
+            "교역로 경비"
+          ],
+          "meals": [
+            "기장죽",
+            "콩",
+            "채소 스튜"
+          ],
+          "historyTips": [
+            "사헬 지대의 왕국들은 기병으로 넓은 지역을 지배했다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "철 제련",
+            "직조",
+            "금·소금 교역"
+          ],
+          "meals": [
+            "기장죽",
+            "콩",
+            "채소 스튜"
+          ],
+          "historyTips": [
+            "아프리카에서는 수천 년 전부터 독자적 철 제련 기술이 발달했다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.749995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "기장·수수·얌 농사",
+            "가축 돌보기",
+            "공물 납부"
+          ],
+          "meals": [
+            "수수죽",
+            "채소",
+            "콩"
+          ],
+          "historyTips": [
+            "고원 농민은 테프를 길렀다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농사",
+            "운반",
+            "가사 노동"
+          ],
+          "meals": [
+            "수수죽",
+            "채소",
+            "콩"
+          ],
+          "historyTips": [
+            "아프리카 사회의 예속민은 전쟁 포로나 빚 때문에 그렇게 되는 경우가 많았다."
+          ],
+          "sources": [
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-kongo",
+      "name": "콩고 왕국",
+      "kind": "polity",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "Manning (1990) Slavery and African Life"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "콩고 왕 가르시아 2세",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "교역로 통제",
+            "전쟁 결정"
+          ],
+          "meals": [
+            "고기 스튜",
+            "기장죽",
+            "꿀술"
+          ],
+          "historyTips": [
+            "콩고 왕국은 1665년 포르투갈군과의 음브윌라 전투에서 패해 분열된다."
+          ],
+          "sources": [
+            "Manning (1990) Slavery and African Life",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족·족장",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "지방 통치",
+            "공물 수납",
+            "원로회 참석"
+          ],
+          "meals": [
+            "고기 스튜",
+            "기장죽",
+            "꿀술"
+          ],
+          "historyTips": [
+            "아프리카 왕국들의 통치는 원로회·족장과의 협상 위에 서 있었다."
+          ],
+          "sources": [
+            "Manning (1990) Slavery and African Life",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자·학자",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "조상 의례",
+            "점술",
+            "치유 의식"
+          ],
+          "meals": [
+            "기장죽",
+            "콩",
+            "채소 스튜"
+          ],
+          "historyTips": [
+            "아프리카 여러 사회에서 조상 숭배와 점술은 정치와 깊이 연결됐다."
+          ],
+          "sources": [
+            "Manning (1990) Slavery and African Life",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "기병·전사",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "호위",
+            "원정",
+            "교역로 경비"
+          ],
+          "meals": [
+            "기장죽",
+            "콩",
+            "채소 스튜"
+          ],
+          "historyTips": [
+            "사헬 지대의 왕국들은 기병으로 넓은 지역을 지배했다."
+          ],
+          "sources": [
+            "Manning (1990) Slavery and African Life",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "철 제련",
+            "직조",
+            "금·소금 교역"
+          ],
+          "meals": [
+            "기장죽",
+            "콩",
+            "채소 스튜"
+          ],
+          "historyTips": [
+            "아프리카에서는 수천 년 전부터 독자적 철 제련 기술이 발달했다."
+          ],
+          "sources": [
+            "Manning (1990) Slavery and African Life",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.749995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "기장·수수·얌 농사",
+            "가축 돌보기",
+            "공물 납부"
+          ],
+          "meals": [
+            "수수죽",
+            "채소",
+            "콩"
+          ],
+          "historyTips": [
+            "콩고 농민은 카사바와 옥수수를 길렀다."
+          ],
+          "sources": [
+            "Manning (1990) Slavery and African Life",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농사",
+            "운반",
+            "가사 노동"
+          ],
+          "meals": [
+            "수수죽",
+            "채소",
+            "콩"
+          ],
+          "historyTips": [
+            "아프리카 사회의 예속민은 전쟁 포로나 빚 때문에 그렇게 되는 경우가 많았다."
+          ],
+          "sources": [
+            "Manning (1990) Slavery and African Life",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-africa",
+      "name": "기타 사하라 이남 아프리카",
+      "kind": "region",
+      "population": 40,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "ce1650-newspain",
+      "name": "누에바 에스파냐(멕시코)",
+      "kind": "polity",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "Cook & Borah / Newson — 원주민 인구 붕괴 연구"
+      ],
+      "classes": [
+        {
+          "id": "viceroy",
+          "name": "부왕",
+          "share": 2e-06,
+          "shareConfidence": "mid",
+          "lifespan": [
+            30,
+            65
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "은 세입 관리",
+            "왕실 칙령 집행"
+          ],
+          "meals": [
+            "초콜릿 음료",
+            "스페인식 스튜",
+            "흰 밀빵"
+          ],
+          "historyTips": [
+            "17세기 멕시코 원주민 인구는 바닥을 찍고 천천히 회복하기 시작했다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "스페인인·크리오요 엘리트",
+          "share": 0.04,
+          "shareConfidence": "mid",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "광산 투자",
+            "대농장 경영",
+            "시 의회"
+          ],
+          "meals": [
+            "초콜릿",
+            "고기 스튜",
+            "밀빵",
+            "와인"
+          ],
+          "historyTips": [
+            "스페인 식민지 사회는 본토 출신과 현지 태생 사이에도 위계가 있었다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "clergy",
+          "name": "성직자·수도사",
+          "share": 0.008,
+          "shareConfidence": "mid",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "선교",
+            "교구 미사",
+            "학교·병원 운영"
+          ],
+          "meals": [
+            "밀빵",
+            "초콜릿",
+            "콩"
+          ],
+          "historyTips": [
+            "교회는 식민지의 큰 토지 소유자였다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "mestizo",
+          "name": "메스티소·도시민",
+          "share": 0.15,
+          "shareConfidence": "mid",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "장인",
+            "노새 운송",
+            "소상업"
+          ],
+          "meals": [
+            "토르티야",
+            "콩",
+            "칠리"
+          ],
+          "historyTips": [
+            "식민지에서는 원주민·유럽인·아프리카인의 혼혈 인구가 빠르게 늘었다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "indigenous",
+          "name": "원주민 농민",
+          "share": 0.771998,
+          "shareConfidence": "mid",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "옥수수·감자 농사",
+            "공물·노역",
+            "광산 강제 노동"
+          ],
+          "meals": [
+            "토르티야나 감자",
+            "콩",
+            "칠리"
+          ],
+          "historyTips": [
+            "원주민 공동체는 대농장(아시엔다) 확대로 땅을 잃어갔다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "enslaved",
+          "name": "아프리카계 노예",
+          "share": 0.03,
+          "shareConfidence": "mid",
+          "lifespan": [
+            16,
+            40
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "설탕 농장",
+            "가사 노동",
+            "광산"
+          ],
+          "meals": [
+            "옥수수죽",
+            "콩",
+            "남은 음식"
+          ],
+          "historyTips": [
+            "스페인령 아메리카에는 대서양 노예무역으로 아프리카인이 끌려왔다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-peru",
+      "name": "페루 부왕령",
+      "kind": "polity",
+      "population": 2.5,
+      "populationConfidence": "low",
+      "sources": [
+        "Cook & Borah / Newson — 원주민 인구 붕괴 연구"
+      ],
+      "classes": [
+        {
+          "id": "viceroy",
+          "name": "부왕",
+          "share": 2e-06,
+          "shareConfidence": "mid",
+          "lifespan": [
+            30,
+            65
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "은 세입 관리",
+            "왕실 칙령 집행"
+          ],
+          "meals": [
+            "초콜릿 음료",
+            "스페인식 스튜",
+            "흰 밀빵"
+          ],
+          "historyTips": [
+            "포토시 은 생산은 17세기 중반부터 줄어들기 시작했다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "elite",
+          "name": "스페인인·크리오요 엘리트",
+          "share": 0.04,
+          "shareConfidence": "mid",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "광산 투자",
+            "대농장 경영",
+            "시 의회"
+          ],
+          "meals": [
+            "초콜릿",
+            "고기 스튜",
+            "밀빵",
+            "와인"
+          ],
+          "historyTips": [
+            "스페인 식민지 사회는 본토 출신과 현지 태생 사이에도 위계가 있었다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "clergy",
+          "name": "성직자·수도사",
+          "share": 0.008,
+          "shareConfidence": "mid",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "선교",
+            "교구 미사",
+            "학교·병원 운영"
+          ],
+          "meals": [
+            "밀빵",
+            "초콜릿",
+            "콩"
+          ],
+          "historyTips": [
+            "교회는 식민지의 큰 토지 소유자였다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "mestizo",
+          "name": "메스티소·도시민",
+          "share": 0.15,
+          "shareConfidence": "mid",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "장인",
+            "노새 운송",
+            "소상업"
+          ],
+          "meals": [
+            "토르티야",
+            "콩",
+            "칠리"
+          ],
+          "historyTips": [
+            "식민지에서는 원주민·유럽인·아프리카인의 혼혈 인구가 빠르게 늘었다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "indigenous",
+          "name": "원주민 농민",
+          "share": 0.771998,
+          "shareConfidence": "mid",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "옥수수·감자 농사",
+            "공물·노역",
+            "광산 강제 노동"
+          ],
+          "meals": [
+            "토르티야나 감자",
+            "콩",
+            "칠리"
+          ],
+          "historyTips": [
+            "원주민 공동체는 은광 노역(미타)에 시달렸다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "enslaved",
+          "name": "아프리카계 노예",
+          "share": 0.03,
+          "shareConfidence": "mid",
+          "lifespan": [
+            16,
+            40
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "설탕 농장",
+            "가사 노동",
+            "광산"
+          ],
+          "meals": [
+            "옥수수죽",
+            "콩",
+            "남은 음식"
+          ],
+          "historyTips": [
+            "스페인령 아메리카에는 대서양 노예무역으로 아프리카인이 끌려왔다."
+          ],
+          "sources": [
+            "Cook & Borah / Newson — 원주민 인구 붕괴 연구",
+            "계급 비율은 연구 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1650-americas",
+      "name": "기타 아메리카 원주민과 식민지",
+      "kind": "region",
+      "population": 7,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "ce1650-steppe",
+      "name": "몽골·중앙아시아 유목민",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "ce1650-arabia",
+      "name": "아라비아",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "ce1650-foragers",
+      "name": "전 세계 수렵채집민",
+      "kind": "region",
+      "population": 2.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "hunter-gatherer"
+    }
+  ]
+}
