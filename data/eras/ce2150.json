@@ -1,0 +1,1142 @@
+{
+  "id": "ce2150",
+  "group": "future",
+  "year": 2150,
+  "name": "2150년의 세계",
+  "yearLabel": "2150년",
+  "fictional": true,
+  "worldPopulation": 9000,
+  "sources": [
+    "fictional (Gemini 초안, Claude 교정)"
+  ],
+  "polities": [
+    {
+      "id": "ce2150-coastal-wall",
+      "name": "지구 연안 방벽 도시 연합",
+      "kind": "polity",
+      "population": 4500,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "wall-council-head",
+          "name": "방벽 의회 총감",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            85,
+            120
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              13,
+              19
+            ],
+            "charm": [
+              14,
+              20
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "방벽 증축 예산 의결",
+            "해수 배수 펌프 관제",
+            "우주 이민 쿼터 배정"
+          ],
+          "meals": [
+            "합성 연어 스테이크",
+            "배양 과일 샐러드",
+            "고급 스파클링 워터"
+          ],
+          "historyTips": [
+            "2150년 해수면 상승으로 지구 해안가는 거대한 콘크리트 방벽으로 둘러싸여 있었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "pump-engineer",
+          "name": "배수 펌프장 엔지니어",
+          "share": 0.18,
+          "shareConfidence": "low",
+          "lifespan": [
+            50,
+            78
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              10,
+              15
+            ],
+            "charm": [
+              7,
+              12
+            ],
+            "luck": [
+              6,
+              12
+            ]
+          },
+          "jobs": [
+            "초대형 펌프 모터 교체",
+            "해수 침식 수리",
+            "수위 데이터 센서 교정"
+          ],
+          "meals": [
+            "해조류 단백질 스튜",
+            "합성 커피",
+            "영양 캡슐"
+          ],
+          "historyTips": [
+            "도시가 침수되지 않도록 펌프장은 365일 쉬지 않고 작동했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "coastal-resident",
+          "name": "방벽 하층 거주민",
+          "share": 0.6,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            68
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              7,
+              13
+            ],
+            "charm": [
+              6,
+              12
+            ],
+            "luck": [
+              2,
+              8
+            ]
+          },
+          "jobs": [
+            "방벽 벽면 이끼 제거",
+            "하수 처리 분류",
+            "배달 드론 점검"
+          ],
+          "meals": [
+            "합성 단백질 죽",
+            "재활용수 음료",
+            "비타민 젤리"
+          ],
+          "historyTips": [
+            "하층 주민들은 해가 들지 않는 방벽 그늘 아래 지하 주거 구역에서 살았다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "lottery-applicant",
+          "name": "우주 이민 추첨 대기자",
+          "share": 0.219998,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            65
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              8,
+              14
+            ],
+            "charm": [
+              7,
+              13
+            ],
+            "luck": [
+              1,
+              10
+            ]
+          },
+          "jobs": [
+            "이민 티켓 응모 노동",
+            "신체검사 서류 준비",
+            "희망 소음 측정 알바"
+          ],
+          "meals": [
+            "구호용 에너지 바",
+            "비타민 강화수",
+            "합성 감자 칩"
+          ],
+          "historyTips": [
+            "지구 인구의 상당수가 우주 정거장이나 화성으로 떠나는 당첨 로또를 매달 구매했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2150-inland-farm",
+      "name": "내륙 수직농장 국가",
+      "kind": "polity",
+      "population": 4425,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "agri-monarch",
+          "name": "수직농장 총괄 최고책임자",
+          "share": 3e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            80,
+            115
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              13,
+              19
+            ],
+            "charm": [
+              13,
+              19
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "지구 식량 수출 가격 설정",
+            "유전자 변형 특허 관리",
+            "수경재배 빌딩 신축"
+          ],
+          "meals": [
+            "진짜 과일 모듬",
+            "자연산 한우 스테이크",
+            "신선한 우유"
+          ],
+          "historyTips": [
+            "지구 전체 식량 생산의 80%가 내륙의 100층 높이 수직농장들에서 나왔다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "hydro-crop-worker",
+          "name": "수경재배 시설 작업원",
+          "share": 0.65,
+          "shareConfidence": "low",
+          "lifespan": [
+            40,
+            72
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              7,
+              13
+            ],
+            "charm": [
+              6,
+              12
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "LED 수경 파이프 이물질 제거",
+            "수확 로봇 보조",
+            "영양액 비율 맞추기"
+          ],
+          "meals": [
+            "신선한 채소 비빔밥",
+            "합성 콩 고기",
+            "곡물 차"
+          ],
+          "historyTips": [
+            "작업원들은 매일 분홍빛 LED 조명 아래에서 근무하여 시력 보호 안경이 필수였다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "pest-control-tech",
+          "name": "바이오 방제 기사",
+          "share": 0.2,
+          "shareConfidence": "low",
+          "lifespan": [
+            45,
+            75
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              9,
+              14
+            ],
+            "charm": [
+              7,
+              12
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "변종 해충 유전자 분석",
+            "나노 방제 드론 조종",
+            "밀폐 구역 소독"
+          ],
+          "meals": [
+            "배양 닭고기 샐러드",
+            "이온 음료",
+            "영양 보충 바"
+          ],
+          "historyTips": [
+            "수직농장 내부에 해충 하나라도 들어오면 농장 한 층 전체를 폐쇄해야 했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "inland-logistics",
+          "name": "식량 수송 하역원",
+          "share": 0.149997,
+          "shareConfidence": "low",
+          "lifespan": [
+            38,
+            70
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              7,
+              12
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "우주 엘리베이터 수송선 적재",
+            "신선도 유지 용기 포장",
+            "화물 트럭 운전"
+          ],
+          "meals": [
+            "합성 단백질 빵",
+            "특제 탄산수",
+            "비타민 정제"
+          ],
+          "historyTips": [
+            "생산된 식량은 가공을 거쳐 매일 적도 우주 엘리베이터로 운송되었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2150-equator-elevator",
+      "name": "적도 우주 엘리베이터 특구",
+      "kind": "polity",
+      "population": 60,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "elevator-dynasty-owner",
+          "name": "우주 엘리베이터 가문 수장",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            85,
+            120
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              14,
+              19
+            ],
+            "charm": [
+              14,
+              20
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "지구-궤도 운송 운임 설정",
+            "케이블 탄소나노튜브 보수 승인",
+            "귀족 연회 개최"
+          ],
+          "meals": [
+            "지구 자연산 해산물",
+            "우주 숙성 와인",
+            "유기농 과일 탕후루"
+          ],
+          "historyTips": [
+            "우주 엘리베이터 하나를 소유한 가문은 어지간한 국가보다 훨씬 더 풍족했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "climber-operator",
+          "name": "승강기 관제사",
+          "share": 0.15,
+          "shareConfidence": "low",
+          "lifespan": [
+            55,
+            80
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              12,
+              17
+            ],
+            "charm": [
+              8,
+              13
+            ],
+            "luck": [
+              8,
+              14
+            ]
+          },
+          "jobs": [
+            "초속 200km 승강기 속도 제어",
+            "낙뢰 방지 자기장 모니터링",
+            "승객 중력 적응 점검"
+          ],
+          "meals": [
+            "고급 에스프레소",
+            "합성 샌드위치",
+            "열량 칼로리 바"
+          ],
+          "historyTips": [
+            "지상에서 저궤도까지 승강기를 타고 올라가는 데는 약 12시간이 걸렸다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "cable-maintenance-worker",
+          "name": "초고도 케이블 정비원",
+          "share": 0.55,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            68
+          ],
+          "statBase": {
+            "body": [
+              13,
+              19
+            ],
+            "mind": [
+              8,
+              13
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "성층권 고도 케이블 외벽 점검",
+            "우주 쓰레기 충돌 부위 용접",
+            "자기장 센서 교체"
+          ],
+          "meals": [
+            "우주용 튜브 짜먹는 죽",
+            "고탄수화물 젤리",
+            "농축 이온 음료"
+          ],
+          "historyTips": [
+            "성층권 밖에서 케이블을 정비하는 일은 지구상에서 가장 위험한 직업으로 꼽혔다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "terminal-porter",
+          "name": "엘리베이터 터미널 짐꾼",
+          "share": 0.299995,
+          "shareConfidence": "low",
+          "lifespan": [
+            40,
+            72
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              7,
+              12
+            ],
+            "charm": [
+              6,
+              12
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "우주 화물 컨테이너 고정",
+            "이민자 수하물 검사",
+            "무중력 운송 렉 점검"
+          ],
+          "meals": [
+            "합성 단백질 도시락",
+            "특제 스포츠 음료",
+            "건조 포도"
+          ],
+          "historyTips": [
+            "터미널은 우주로 떠나려는 사람들과 수송 화물로 늘 북새통을 이뤘다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2150-orbit-station-union",
+      "name": "저궤도 정거장 연합",
+      "kind": "polity",
+      "population": 12,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "station-commander",
+          "name": "궤도 정거장 연합 사령관",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            70,
+            105
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              13,
+              19
+            ],
+            "charm": [
+              12,
+              18
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "산소 배급 정책 최종 결재",
+            "태양풍 방어막 조정",
+            "지구 정부 외교 협상"
+          ],
+          "meals": [
+            "우주 재배 방울토마토",
+            "동결건조 칠면조 조각",
+            "정제 레몬수"
+          ],
+          "historyTips": [
+            "궤도 정거장에서는 산소가 가장 강력한 화폐이자 권력의 상징이었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "life-support-tech",
+          "name": "산소·수자원 순환 기사",
+          "share": 0.25,
+          "shareConfidence": "low",
+          "lifespan": [
+            50,
+            75
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              11,
+              16
+            ],
+            "charm": [
+              7,
+              12
+            ],
+            "luck": [
+              6,
+              12
+            ]
+          },
+          "jobs": [
+            "이산화탄소 스크러버 필터 교체",
+            "소변 재활용 정수기 점검",
+            "산소 누출 모니터링"
+          ],
+          "meals": [
+            "튜브형 영양 페이스트",
+            "우주용 동결건조 스프",
+            "재활용 순환수"
+          ],
+          "historyTips": [
+            "정거장의 수자원 순환율은 99.8%로 땀과 뇨까지 모두 다시 마셨다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "zero-g-worker",
+          "name": "저중력 도크 수리공",
+          "share": 0.54999,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            65
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              8,
+              13
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "우주선 도킹 해치 수리",
+            "태양광 날개 먼지 털기",
+            "외벽 헐거워진 나사 조이기"
+          ],
+          "meals": [
+            "고에너지 우주 식량 블록",
+            "튜브 비타민 음료",
+            "말린 사과 칩"
+          ],
+          "historyTips": [
+            "오랜 저중력 생활로 인해 수리공들은 뼈 밀도가 낮아지는 직업병을 앓았다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "oxygen-ration-dweller",
+          "name": "산소 할당제 서민",
+          "share": 0.2,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            60
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              7,
+              13
+            ],
+            "charm": [
+              6,
+              12
+            ],
+            "luck": [
+              2,
+              8
+            ]
+          },
+          "jobs": [
+            "정거장 이끼 재배 단지 관리",
+            "수동 환기 펌프 가동",
+            "폐기물 압축"
+          ],
+          "meals": [
+            "합성 이끼 젤리",
+            "저가 우주 죽",
+            "할당량 정수"
+          ],
+          "historyTips": [
+            "운동을 너무 심하게 해서 산소를 많이 소비하면 추가 산소 요금이 청구되었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2150-mars-colony-1",
+      "name": "화성 1기 식민지",
+      "kind": "polity",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "mars-governor",
+          "name": "화성 식민지 총독",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            75,
+            110
+          ],
+          "statBase": {
+            "body": [
+              9,
+              14
+            ],
+            "mind": [
+              13,
+              18
+            ],
+            "charm": [
+              13,
+              19
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "테라포밍 진행률 보고",
+            "지구 지원금 협상",
+            "돔 기지 확장 승인"
+          ],
+          "meals": [
+            "화성 온실 재배 딸기",
+            "배양 안심 스테이크",
+            "고급 합성 와인"
+          ],
+          "historyTips": [
+            "화성 총독은 지구로부터 20분 떨어진 통신 시차 속에서 독자적인 권력을 휘둘렀다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "terraforming-engineer",
+          "name": "대기 테라포밍 기사",
+          "share": 0.2,
+          "shareConfidence": "low",
+          "lifespan": [
+            50,
+            78
+          ],
+          "statBase": {
+            "body": [
+              10,
+              15
+            ],
+            "mind": [
+              12,
+              17
+            ],
+            "charm": [
+              8,
+              13
+            ],
+            "luck": [
+              7,
+              13
+            ]
+          },
+          "jobs": [
+            "온실가스 방출기 모니터링",
+            "지하 얼음층 굴착 관제",
+            "대기 압력 측정"
+          ],
+          "meals": [
+            "화성 감자 퓌레",
+            "합성 단백질 햄",
+            "농축 비타민 주스"
+          ],
+          "historyTips": [
+            "2150년 화성의 대기압은 여전히 낮아 야외에서는 우주복이 필수였다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "dome-builder",
+          "name": "거주 돔 건설 노동자",
+          "share": 0.54999,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            65
+          ],
+          "statBase": {
+            "body": [
+              13,
+              19
+            ],
+            "mind": [
+              7,
+              12
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "방사선 차단 유리 용접",
+            "화성 토양 붉은 벽돌 적재",
+            "돔 밀폐 테스트"
+          ],
+          "meals": [
+            "고칼로리 튜브 스튜",
+            "화성 재배 콩 과자",
+            "이온 음료"
+          ],
+          "historyTips": [
+            "거주 돔 외벽에 금이 가면 5초 안에 해당 구역 전체가 격리 태세에 들어갔다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "mars-farmer",
+          "name": "화성 밀폐 온실 농부",
+          "share": 0.25,
+          "shareConfidence": "low",
+          "lifespan": [
+            40,
+            70
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              8,
+              13
+            ],
+            "charm": [
+              6,
+              12
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "화성 토양 인공 유기물 혼합",
+            "감자 줄기 관리",
+            "인공 수분 작업"
+          ],
+          "meals": [
+            "화성산 감자 튀김",
+            "합성 콩 고기 스튜",
+            "정제수"
+          ],
+          "historyTips": [
+            "화성에서 갓 재배한 진짜 감자는 식민지 최고의 인기 별미였다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2150-asteroid-miner",
+      "name": "소행성대 채굴 기지",
+      "kind": "polity",
+      "population": 1,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "mining-guild-master",
+          "name": "채굴 길드 마스터",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            65,
+            95
+          ],
+          "statBase": {
+            "body": [
+              11,
+              16
+            ],
+            "mind": [
+              12,
+              17
+            ],
+            "charm": [
+              11,
+              17
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "희귀 백금 소행성 소유권 입찰",
+            "채굴선 단합 관리",
+            "지구 매각 계약"
+          ],
+          "meals": [
+            "지구산 통조림 햄",
+            "진짜 커피 원두 드립",
+            "합성 보드카"
+          ],
+          "historyTips": [
+            "소행성 하나 잘 잡으면 평생 먹고살 돈을 벌었지만 확률은 극악이었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "asteroid-driller",
+          "name": "소행성 착암 노동자",
+          "share": 0.69999,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            60
+          ],
+          "statBase": {
+            "body": [
+              14,
+              20
+            ],
+            "mind": [
+              6,
+              11
+            ],
+            "charm": [
+              4,
+              10
+            ],
+            "luck": [
+              2,
+              8
+            ]
+          },
+          "jobs": [
+            "소행성 고정용 앵커 발사",
+            "플라즈마 천공기 가동",
+            "희귀 광석 마이크로 발파"
+          ],
+          "meals": [
+            "고농축 영양 젤리 파우치",
+            "염분 정제 알약",
+            "우주용 이온수"
+          ],
+          "historyTips": [
+            "무중력에서의 발파 작업은 반동 때문에 몸이 우주 한가운데로 튕겨 나갈 위험이 있었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "ore-refiner",
+          "name": "무중력 제련소 기술자",
+          "share": 0.25,
+          "shareConfidence": "low",
+          "lifespan": [
+            40,
+            70
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              9,
+              14
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "용융 금속 무중력 원심 분리",
+            "불순물 추출",
+            "광물 잉곳 성형"
+          ],
+          "meals": [
+            "합성 소고기 죽",
+            "비타민 탄산수",
+            "건조 견과류"
+          ],
+          "historyTips": [
+            "무중력 상태에서 제련된 금속은 지구산보다 순도가 훨씬 높았다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "hauler-pilot",
+          "name": "광석 수송선 파일럿",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            45,
+            75
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              11,
+              16
+            ],
+            "charm": [
+              8,
+              13
+            ],
+            "luck": [
+              6,
+              12
+            ]
+          },
+          "jobs": [
+            "소행성대 궤도 항해",
+            "해적 전파 교란 장치 가동",
+            "지구 궤도 도킹"
+          ],
+          "meals": [
+            "합성 샌드위치",
+            "고카페인 우주 음료",
+            "말린 육포"
+          ],
+          "historyTips": [
+            "수개월 동안 홀로 항해하는 수송선 파일럿의 유일한 친구는 선내 AI였다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    }
+  ]
+}

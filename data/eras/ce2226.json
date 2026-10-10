@@ -1,0 +1,766 @@
+{
+  "id": "ce2226",
+  "group": "future",
+  "year": 2226,
+  "name": "2226년의 세계",
+  "yearLabel": "2226년",
+  "fictional": true,
+  "worldPopulation": 7500,
+  "sources": [
+    "fictional (Gemini 초안, Claude 교정)"
+  ],
+  "polities": [
+    {
+      "id": "ce2226-neo-japan-arcology",
+      "name": "네오 재팬 본섬 아콜로지",
+      "kind": "polity",
+      "population": 3000,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "ai-shogun-administrator",
+          "name": "AI 쇼군 관리자 가문 수장",
+          "share": 3e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            85,
+            120
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              14,
+              20
+            ],
+            "charm": [
+              14,
+              20
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "AI 쇼군 메인프레임 알현",
+            "디지털 신분제 업데이트 승인",
+            "대형 홀로그램 신사 칙령"
+          ],
+          "meals": [
+            "최고급 천연 와규 구이",
+            "전통 방식 정종",
+            "유기농 와사비 특선"
+          ],
+          "historyTips": [
+            "2226년 네오 재팬은 국가 행정 전체를 AI 쇼군 시스템에 위임하고 신신분제를 시행했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "digital-daimyo",
+          "name": "디지털 다이묘",
+          "share": 0.001,
+          "shareConfidence": "low",
+          "lifespan": [
+            75,
+            105
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              13,
+              18
+            ],
+            "charm": [
+              12,
+              18
+            ],
+            "luck": [
+              13,
+              18
+            ]
+          },
+          "jobs": [
+            "구역 데이터 세금 징수",
+            "가상 영지 관리",
+            "거대 로봇 축제 후원"
+          ],
+          "meals": [
+            "배양 참치 대다랑어 회",
+            "고급 사케",
+            "말차 디저트"
+          ],
+          "historyTips": [
+            "다이묘들은 각자 관할하는 초고층 아콜로지 구역의 서버권을 소유했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "digital-samurai",
+          "name": "디지털 사무라이",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            50,
+            80
+          ],
+          "statBase": {
+            "body": [
+              13,
+              19
+            ],
+            "mind": [
+              10,
+              16
+            ],
+            "charm": [
+              9,
+              15
+            ],
+            "luck": [
+              7,
+              13
+            ]
+          },
+          "jobs": [
+            "치안 사이버 검문",
+            "바이러스 낭인 퇴치",
+            "단분자 카타나 정비"
+          ],
+          "meals": [
+            "합성 돈카츠 덮밥",
+            "에너지 라멘",
+            "녹차 탄산수"
+          ],
+          "historyTips": [
+            "디지털 사무라이는 AI 쇼군에게 충성 서약을 하고 생체 카타나 사용권을 얻었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "robot-jonin",
+          "name": "로봇 조닌 (상인)",
+          "share": 0.2,
+          "shareConfidence": "low",
+          "lifespan": [
+            45,
+            75
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              11,
+              16
+            ],
+            "charm": [
+              11,
+              16
+            ],
+            "luck": [
+              6,
+              12
+            ]
+          },
+          "jobs": [
+            "홀로그램 상점 가맹 관리",
+            "의체 부품 도매",
+            "데이터 코인 환전"
+          ],
+          "meals": [
+            "합성 타코야키",
+            "캔 옥수수 수프",
+            "아이스 녹차"
+          ],
+          "historyTips": [
+            "조닌 상인 계급은 상업 인프라와 로봇 매장을 독점해 막대한 부를 축적했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "offline-farmer",
+          "name": "오프라인 농민",
+          "share": 0.748997,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            68
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              6,
+              12
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              2,
+              8
+            ]
+          },
+          "jobs": [
+            "아콜로지 하층 수경 쌀 경작",
+            "네트워크 미연결 노동",
+            "폐기물 청소"
+          ],
+          "meals": [
+            "합성 쌀밥",
+            "짠 단무지",
+            "재활용 보리차"
+          ],
+          "historyTips": [
+            "오프라인 농민은 신경 칩이 이식되지 않아 디지털 세계에 접속할 수 없는 서민층이었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2226-satellite-cities",
+      "name": "네오 재팬 위성 도시권",
+      "kind": "polity",
+      "population": 2200,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "satellite-governor",
+          "name": "위성 도시 총괄 대관",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            80,
+            110
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              13,
+              19
+            ],
+            "charm": [
+              13,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "본섬 헌상 물품 조율",
+            "위성 도시 공기 정화율 관리",
+            "치안 부대 출동 명령"
+          ],
+          "meals": [
+            "천연 전복 구이",
+            "고급 정종",
+            "합성 과일 젤리"
+          ],
+          "historyTips": [
+            "위성 도시는 본섬 아콜로지에 필요한 공업품과 에너지를 공급하기 위해 건설되었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "cyber-shrine-priest",
+          "name": "홀로그램 신관",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            60,
+            90
+          ],
+          "statBase": {
+            "body": [
+              7,
+              12
+            ],
+            "mind": [
+              12,
+              17
+            ],
+            "charm": [
+              13,
+              18
+            ],
+            "luck": [
+              9,
+              15
+            ]
+          },
+          "jobs": [
+            "신사 데이터 축문 기도",
+            "AI 쇼군 축복 홀로그램 제사",
+            "액운 바이러스 퇴치"
+          ],
+          "meals": [
+            "정갈한 콩 정식",
+            "약초 차",
+            "합성 떡"
+          ],
+          "historyTips": [
+            "사람들은 전자 신사에서 기도를 드리고 액운 퇴치용 데이터 부적을 구매했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "suburb-factory-worker",
+          "name": "위성 공장 기계원",
+          "share": 0.68,
+          "shareConfidence": "low",
+          "lifespan": [
+            38,
+            70
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              7,
+              12
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "로봇 조립 라인 감시",
+            "부품 표면 도금",
+            "잔여 화학 물질 처리"
+          ],
+          "meals": [
+            "합성 카레라이스",
+            "탄산 음료",
+            "영양 비타민 캔디"
+          ],
+          "historyTips": [
+            "공장 교대 시간이 끝나면 거대한 AI 쇼군 홀로그램 동상이 퇴근을 축하해 주었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "ronin-hacker",
+          "name": "사이버 낭인 해커",
+          "share": 0.299995,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            65
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              13,
+              18
+            ],
+            "charm": [
+              8,
+              14
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "다이묘 데이터 금고 습격",
+            "불법 신분 엔그램 복제",
+            "네트워크 교란"
+          ],
+          "meals": [
+            "컵 라멘 특곱배기",
+            "고카페인 캔 커피",
+            "에너지 바"
+          ],
+          "historyTips": [
+            "주군을 잃거나 방출된 디지털 사무라이들은 사이버 낭인이 되어 다크웹을 떠돌았다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2226-pacific-federation",
+      "name": "범태평양 해상 연방",
+      "kind": "polity",
+      "population": 1500,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "federation-chancellor",
+          "name": "해상 연방 총리",
+          "share": 8e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            78,
+            110
+          ],
+          "statBase": {
+            "body": [
+              9,
+              14
+            ],
+            "mind": [
+              13,
+              19
+            ],
+            "charm": [
+              13,
+              19
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "네오 재팬 관세 협상",
+            "해상 함대 배치 관제",
+            "심해 자원 배분"
+          ],
+          "meals": [
+            "자연산 랍스터 구이",
+            "스파클링 와인",
+            "열대 과일 모듬"
+          ],
+          "historyTips": [
+            "범태평양 연방은 네오 재팬의 문화 침략에 맞서 독자적 자치를 지켜낸 해상 연합이다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "ocean-ship-captain",
+          "name": "거대 함선 선장",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            55,
+            82
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              11,
+              16
+            ],
+            "charm": [
+              10,
+              16
+            ],
+            "luck": [
+              8,
+              14
+            ]
+          },
+          "jobs": [
+            "자동 항법 경로 수정",
+            "태풍 회피 모듈 가동",
+            "선원 인사 관리"
+          ],
+          "meals": [
+            "해산물 리조또",
+            "합성 맥주",
+            "말린 오징어"
+          ],
+          "historyTips": [
+            "선장들은 바다 위 이동식 도시 함대를 이끄는 실질적인 지방관 역할을 했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "floating-deck-hand",
+          "name": "부유 갑판 선원",
+          "share": 0.65,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            68
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              7,
+              12
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "갑판 녹제거 샌딩",
+            "화물 밧줄 고정",
+            "해수 배수 작업"
+          ],
+          "meals": [
+            "해조류 단백질 스튜",
+            "정수 처리 음료",
+            "건조 보리 빵"
+          ],
+          "historyTips": [
+            "선원들은 거대한 파도가 칠 때마다 안전고리를 갑판 레일에 채우고 일해야 했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "deep-sea-miner",
+          "name": "심해 자원 채굴원",
+          "share": 0.269992,
+          "shareConfidence": "low",
+          "lifespan": [
+            32,
+            62
+          ],
+          "statBase": {
+            "body": [
+              13,
+              19
+            ],
+            "mind": [
+              8,
+              13
+            ],
+            "charm": [
+              5,
+              10
+            ],
+            "luck": [
+              2,
+              8
+            ]
+          },
+          "jobs": [
+            "수심 3000m 잠수정 조종",
+            "망간 단괴 수거",
+            "열수구 센서 정비"
+          ],
+          "meals": [
+            "고열량 차가운 영양 팩",
+            "이온 음료 파우더",
+            "비타민 젤리"
+          ],
+          "historyTips": [
+            "심해의 수압을 견디기 위해 특수 설계된 강화 잠수복을 착용했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2226-offline-reserve",
+      "name": "오프라인 자연 보호구역",
+      "kind": "polity",
+      "population": 800,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "reserve-elder",
+          "name": "자연 보호구역 족장",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            75,
+            100
+          ],
+          "statBase": {
+            "body": [
+              10,
+              15
+            ],
+            "mind": [
+              11,
+              16
+            ],
+            "charm": [
+              13,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "전통 방식 아궁이 점화",
+            "외부 드론 침입 차단 의결",
+            "마을 의례 집전"
+          ],
+          "meals": [
+            "진짜 숲에서 채집한 버섯",
+            "손수 잡은 은어 구이",
+            "약초 주"
+          ],
+          "historyTips": [
+            "보호구역 사람들은 머릿속 생체 칩을 거부하고 전파가 차단된 고대 방식의 삶을 지켰다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "analog-hunter",
+          "name": "아날로그 수렵인",
+          "share": 0.6,
+          "shareConfidence": "low",
+          "lifespan": [
+            40,
+            75
+          ],
+          "statBase": {
+            "body": [
+              13,
+              19
+            ],
+            "mind": [
+              8,
+              13
+            ],
+            "charm": [
+              7,
+              12
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "야생 멧돼지 추적",
+            "재래식 활 점검",
+            "나무 땔감 수집"
+          ],
+          "meals": [
+            "구운 멧돼지 고기",
+            "산나물 쌈",
+            "샘물"
+          ],
+          "historyTips": [
+            "이들은 디지털 센서 대신 뛰어난 오감과 직감으로 숲속을 누볐다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "emp-sentinel",
+          "name": "EMP 방어 파수꾼",
+          "share": 0.39999,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            70
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              9,
+              14
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "경계구역 EMP 지뢰 수동 가동",
+            "기업 정찰 드론 새총 격추",
+            "망루 경계"
+          ],
+          "meals": [
+            "말린 사슴 고기",
+            "옥수수 빵",
+            "차가운 감잎차"
+          ],
+          "historyTips": [
+            "경계선에 접근하는 모든 전자 기기는 파수꾼들이 터뜨리는 EMP 장치에 먹통이 되었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    }
+  ]
+}

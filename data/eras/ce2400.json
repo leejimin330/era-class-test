@@ -1,0 +1,822 @@
+{
+  "id": "ce2400",
+  "group": "future",
+  "year": 2400,
+  "name": "2400년의 세계",
+  "yearLabel": "2400년",
+  "fictional": true,
+  "worldPopulation": 6000,
+  "sources": [
+    "fictional (Gemini 초안, Claude 교정)"
+  ],
+  "polities": [
+    {
+      "id": "ce2400-earth-union",
+      "name": "지구 공동통치 연방",
+      "kind": "polity",
+      "population": 4000,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "human-co-speaker",
+          "name": "공동의회 인간 의장",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            90,
+            120
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              14,
+              20
+            ],
+            "charm": [
+              14,
+              20
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "AI 의장과 공동 서명",
+            "의미 노동 배급율 의결",
+            "행성 유토피아 연례 연설"
+          ],
+          "meals": [
+            "분자 요리 특선",
+            "초광속 수송 유기농 와인",
+            "맛 입자 칵테일"
+          ],
+          "historyTips": [
+            "2400년 인간과 AI는 평등한 수의 의석을 갖고 행성을 공동 통치했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "ai-auditor-liaison",
+          "name": "AI 감사관 연락관",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            70,
+            100
+          ],
+          "statBase": {
+            "body": [
+              8,
+              13
+            ],
+            "mind": [
+              14,
+              19
+            ],
+            "charm": [
+              11,
+              16
+            ],
+            "luck": [
+              10,
+              15
+            ]
+          },
+          "jobs": [
+            "AI 의회의 행정 명령 번역",
+            "인간 불만 데이터 수집",
+            "알고리즘 편향 검증"
+          ],
+          "meals": [
+            "맞춤형 완벽 영양 겔",
+            "디지털 비타민 음료",
+            "향미 스틱"
+          ],
+          "historyTips": [
+            "AI 감사관들은 인간이 감정에 치우쳐 비효율적인 결정을 내리지 않는지 감시했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "meaningful-laborer",
+          "name": "의미 노동 배급 대상자",
+          "share": 0.65,
+          "shareConfidence": "low",
+          "lifespan": [
+            60,
+            95
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              8,
+              14
+            ],
+            "charm": [
+              8,
+              14
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "공원 화단 수동 잡초 뽑기",
+            "관상용 시 읊기",
+            "손편지 쓰기 알바"
+          ],
+          "meals": [
+            "기본소득 포인트 맞춤 도시락",
+            "합성 스파게티",
+            "기분 전환 티"
+          ],
+          "historyTips": [
+            "모든 실질 노동이 자동화되어, 인간은 정신 건강을 위해 '의미 있는 일'을 배급받아 수행했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "ubi-point-rich",
+          "name": "기본소득 포인트 부자",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            75,
+            110
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              10,
+              15
+            ],
+            "charm": [
+              12,
+              17
+            ],
+            "luck": [
+              13,
+              18
+            ]
+          },
+          "jobs": [
+            "포인트 거래소 모니터링",
+            "가상 부동산 투어",
+            "취미 수집품 경매"
+          ],
+          "meals": [
+            "고급 분자 디저트",
+            "우주 숙성 수제 맥주",
+            "열대 과일 젤리"
+          ],
+          "historyTips": [
+            "선조가 이월해 준 기본소득 포인트 이자만으로 평생 호의호식하는 계급이 존재했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "upload-applicant",
+          "name": "의식 업로드 대기자",
+          "share": 0.299998,
+          "shareConfidence": "low",
+          "lifespan": [
+            40,
+            80
+          ],
+          "statBase": {
+            "body": [
+              7,
+              12
+            ],
+            "mind": [
+              11,
+              16
+            ],
+            "charm": [
+              7,
+              13
+            ],
+            "luck": [
+              2,
+              8
+            ]
+          },
+          "jobs": [
+            "뇌파 정밀 스캔 받기",
+            "기억 데이터 정밀 백업",
+            "클라우드 이민 신청서 작성"
+          ],
+          "meals": [
+            "신경 전달 물질 함유 영양 죽",
+            "뇌 용량 활성 음료",
+            "알약 정제"
+          ],
+          "historyTips": [
+            "육체의 노화를 피하기 위해 마음을 클라우드 서버로 업로드하려는 줄이 길게 늘어섰다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2400-mind-cloud-community",
+      "name": "업로드 의식 클라우드 공동체",
+      "kind": "polity",
+      "population": 1500,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "cloud-server-node-master",
+          "name": "클라우드 서버 노드 마스터",
+          "share": 7e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            100,
+            120
+          ],
+          "statBase": {
+            "body": [
+              1,
+              5
+            ],
+            "mind": [
+              16,
+              20
+            ],
+            "charm": [
+              14,
+              20
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "서버 대역폭 할당 승인",
+            "의식 데이터 압축률 최적화",
+            "디지털 유토피아 법칙 제정"
+          ],
+          "meals": [
+            "전기 신호 패킷",
+            "데이터 코딩 파동",
+            "클라우드 오버클럭 펄스"
+          ],
+          "historyTips": [
+            "이 정체의 인구는 실물 육체가 아닌 서버 메모리에 존재하는 '업로드된 의식 수'로 집계되었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "digital-entity",
+          "name": "일반 데이터 의식체",
+          "share": 0.85,
+          "shareConfidence": "low",
+          "lifespan": [
+            100,
+            120
+          ],
+          "statBase": {
+            "body": [
+              1,
+              5
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              8,
+              15
+            ],
+            "luck": [
+              5,
+              11
+            ]
+          },
+          "jobs": [
+            "가상 현실 공간 산책",
+            "초고속 무한 사고",
+            "다른 의식체와 데이터 공유"
+          ],
+          "meals": [
+            "상상력 시뮬레이션 음식 데이터",
+            "디지털 맛 수치",
+            "포도주 신호 파형"
+          ],
+          "historyTips": [
+            "육체가 없어 배고픔도 병도 없었지만, 서버 점검 시간에는 의식이 잠시 정지되었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "system-maintenance-avatar",
+          "name": "서버 수호 아바타",
+          "share": 0.149993,
+          "shareConfidence": "low",
+          "lifespan": [
+            100,
+            120
+          ],
+          "statBase": {
+            "body": [
+              1,
+              5
+            ],
+            "mind": [
+              14,
+              19
+            ],
+            "charm": [
+              6,
+              12
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "스팸 의식 데이터 디프래그",
+            "악성 생각 바이러스 백신 치료",
+            "메모리 누수 차단"
+          ],
+          "meals": [
+            "보안 인증 알고리즘",
+            "디지털 세척 파동",
+            "클린 신호"
+          ],
+          "historyTips": [
+            "아바타들은 클라우드 내부의 악의적인 가상 데이터 찌꺼기를 정리하는 경찰 역할을 했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2400-analog-restoration-village",
+      "name": "아날로그 생활 복원 마을",
+      "kind": "polity",
+      "population": 300,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "restoration-master",
+          "name": "복원 마을 최고 장인",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            75,
+            105
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              11,
+              16
+            ],
+            "charm": [
+              13,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "고대 수동 도자기 제작",
+            "진짜 나무 장작 쪼개기",
+            "아날로그 종이 책 제본"
+          ],
+          "meals": [
+            "화로에 구운 진짜 빵",
+            "직접 재배한 채소 수프",
+            "자연 발효 포도주"
+          ],
+          "historyTips": [
+            "모든 것이 자동화된 시대에 손으로 직접 물건을 만드는 행위는 최고급 예술로 대접받았다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "manual-craftsman",
+          "name": "수동 공예 기술자",
+          "share": 0.5,
+          "shareConfidence": "low",
+          "lifespan": [
+            50,
+            80
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              9,
+              14
+            ],
+            "charm": [
+              8,
+              14
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "수동 재봉틀 옷 제작",
+            "가구 목공 작업",
+            "수제 수제비 반죽"
+          ],
+          "meals": [
+            "수제 수제비",
+            "시골 된장찌개",
+            "구운 감자"
+          ],
+          "historyTips": [
+            "기계가 0.1초 만에 만드는 옷을 한 달 동안 손바느질로 만드는 것이 이들의 일상이었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "analog-apprentice",
+          "name": "아날로그 수습생",
+          "share": 0.49999,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              7,
+              12
+            ],
+            "charm": [
+              6,
+              12
+            ],
+            "luck": [
+              2,
+              8
+            ]
+          },
+          "jobs": [
+            "마당 쓸기",
+            "대장간 화로 에어 펌프질",
+            "재료 운반"
+          ],
+          "meals": [
+            "보리밥",
+            "손두부",
+            "차가운 우물물"
+          ],
+          "historyTips": [
+            "유토피아 도시의 지루함을 견디지 못한 젊은이들이 아날로그 삶을 배우러 모여들었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2400-venus-cloud-city",
+      "name": "금성 공중 도시",
+      "kind": "polity",
+      "population": 150,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "cloud-city-governor",
+          "name": "금성 공중 도시 총독",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            80,
+            115
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              13,
+              19
+            ],
+            "charm": [
+              13,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "황산 대기 추출 장치 승인",
+            "비행 도시 고도 유도",
+            "태양광 집속기 관제"
+          ],
+          "meals": [
+            "금성 온실 인공 참치",
+            "고급 열대 음료",
+            "합성 치즈 특선"
+          ],
+          "historyTips": [
+            "금성의 표면은 너무 뜨거워 고도 50km의 상공에 거대한 기구 형태의 공중 도시를 띄웠다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "buoyancy-engineer",
+          "name": "부력 유지 시스템 기사",
+          "share": 0.4,
+          "shareConfidence": "low",
+          "lifespan": [
+            50,
+            78
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              11,
+              16
+            ],
+            "charm": [
+              7,
+              12
+            ],
+            "luck": [
+              5,
+              11
+            ]
+          },
+          "jobs": [
+            "헬륨 가스 주입 밸브 점검",
+            "도시 외벽 황산 부식 방지 코팅",
+            "자이로스코프 교정"
+          ],
+          "meals": [
+            "단백질 파우더 셰이크",
+            "합성 비프 파이",
+            "정제수"
+          ],
+          "historyTips": [
+            "부력 탱크가 하나라도 터지면 도시 전체가 뜨거운 금성 표면으로 추락할 위험이 있었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "acid-skimmer",
+          "name": "황산 채굴 비행선 승무원",
+          "share": 0.59999,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            65
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              8,
+              13
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              2,
+              8
+            ]
+          },
+          "jobs": [
+            "대기 중 황산 구름 포집",
+            "화학 원료 제련기 가동",
+            "비행선 날개 청소"
+          ],
+          "meals": [
+            "튜브 영양 젤리",
+            "이온 음료 파우더",
+            "합성 건조 과일"
+          ],
+          "historyTips": [
+            "황산 구름을 지날 때 비행선 외벽에서 나는 부식 소리는 승무원들의 신경을 자극했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2400-jupiter-moon-base",
+      "name": "목성 위성 연구 기지",
+      "kind": "polity",
+      "population": 50,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "jupiter-research-director",
+          "name": "목성 위성 연구소장",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            75,
+            110
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              15,
+              20
+            ],
+            "charm": [
+              11,
+              17
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "유로파 심해 생명체 연구 승인",
+            "방사선 차단막 출력 강화",
+            "지구 보고서 작성"
+          ],
+          "meals": [
+            "동결건조 특급 연어",
+            "합성 와인",
+            "영양 보충 주스"
+          ],
+          "historyTips": [
+            "목성의 강력한 방사선 때문에 연구 기지는 유로파 얼음층 밑에 건설되었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "europa-sub-driller",
+          "name": "유로파 얼음 굴착 연구원",
+          "share": 0.5,
+          "shareConfidence": "low",
+          "lifespan": [
+            45,
+            75
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              13,
+              18
+            ],
+            "charm": [
+              7,
+              12
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "열선 시추기 운용",
+            "지하 바다 샘플 채취",
+            "외계 미생물 탐지"
+          ],
+          "meals": [
+            "고단백 비스킷",
+            "우주용 뜨거운 스프",
+            "비타민 음료"
+          ],
+          "historyTips": [
+            "유로파 지하 바다에서 외계 미생물을 발견하는 것은 모든 연구원의 꿈이었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "radiation-shield-tech",
+          "name": "자기장 방사선 차단 기술자",
+          "share": 0.49999,
+          "shareConfidence": "low",
+          "lifespan": [
+            40,
+            70
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              10,
+              15
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "초전도 코일 유지보수",
+            "방사선 누출 센서 모니터링",
+            "기지 비상 차단벽 점검"
+          ],
+          "meals": [
+            "영양 합성 죽",
+            "방사선 방어 보충제 음료",
+            "건조 견과류"
+          ],
+          "historyTips": [
+            "목성 방사선 폭풍이 불면 기지 전체가 비상 상태에 돌입했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    }
+  ]
+}

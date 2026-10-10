@@ -1,0 +1,1130 @@
+{
+  "id": "ce2077",
+  "group": "future",
+  "year": 2077,
+  "name": "2077년의 세계",
+  "yearLabel": "2077년",
+  "fictional": true,
+  "worldPopulation": 9800,
+  "sources": [
+    "fictional (Gemini 초안, Claude 교정)"
+  ],
+  "polities": [
+    {
+      "id": "ce2077-neo-seoul",
+      "name": "네오 서울 메가시티",
+      "kind": "polity",
+      "population": 2500,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "board-chair",
+          "name": "메가코프 이사회 의장",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            85,
+            120
+          ],
+          "statBase": {
+            "body": [
+              8,
+              14
+            ],
+            "mind": [
+              13,
+              19
+            ],
+            "charm": [
+              14,
+              20
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "분기 실적 발표",
+            "도시 날씨 구독료 결정",
+            "의체 교체 수술 예약"
+          ],
+          "meals": [
+            "진짜 소고기 스테이크",
+            "유기농 딸기",
+            "산소 칵테일"
+          ],
+          "historyTips": [
+            "2070년대 네오 서울에서는 하늘의 광고 비행선 수가 별보다 많았다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "corporate-executive",
+          "name": "기업 상무 이사",
+          "share": 0.002,
+          "shareConfidence": "low",
+          "lifespan": [
+            70,
+            95
+          ],
+          "statBase": {
+            "body": [
+              10,
+              15
+            ],
+            "mind": [
+              12,
+              17
+            ],
+            "charm": [
+              11,
+              16
+            ],
+            "luck": [
+              12,
+              17
+            ]
+          },
+          "jobs": [
+            "하위 부서 실적 압박",
+            "생체 데이터 라이선스 계약",
+            "고급 펜트하우스 관리"
+          ],
+          "meals": [
+            "천연 배양육 카츠",
+            "합성 와인 특급",
+            "농축 비타민 주스"
+          ],
+          "historyTips": [
+            "상류층 주거 구역은 미세먼지 차단 홀로그램 돔으로 보호받았다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "fulltime-citizen",
+          "name": "기업 정규직 시민",
+          "share": 0.12,
+          "shareConfidence": "low",
+          "lifespan": [
+            55,
+            80
+          ],
+          "statBase": {
+            "body": [
+              9,
+              14
+            ],
+            "mind": [
+              10,
+              15
+            ],
+            "charm": [
+              9,
+              14
+            ],
+            "luck": [
+              8,
+              13
+            ]
+          },
+          "jobs": [
+            "알고리즘 모니터링",
+            "사이버 보안 점검",
+            "구독 서비스 연장 승인"
+          ],
+          "meals": [
+            "대두 단백질 비빔밥",
+            "합성 카페인 음료",
+            "비타민 정제"
+          ],
+          "historyTips": [
+            "기업 정규직 신분을 유지하지 못하면 주거 구독권이 당일 해지되었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "contract-cyber-worker",
+          "name": "계약직 의체 노동자",
+          "share": 0.25,
+          "shareConfidence": "low",
+          "lifespan": [
+            40,
+            70
+          ],
+          "statBase": {
+            "body": [
+              13,
+              19
+            ],
+            "mind": [
+              7,
+              13
+            ],
+            "charm": [
+              6,
+              12
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "고층 빌딩 의체 외벽 청소",
+            "화물 드론 수동 도킹",
+            "지하 배관 유지보수"
+          ],
+          "meals": [
+            "고칼로리 젤리 팩",
+            "재활용 단백질 블록",
+            "저가 에너지 드링크"
+          ],
+          "historyTips": [
+            "의체 부품 대출금을 다 갚기 전에 팔 하나가 먼저 마모되는 일이 흔했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "slum-dweller",
+          "name": "하층 구역 거주민",
+          "share": 0.607998,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            65
+          ],
+          "statBase": {
+            "body": [
+              8,
+              15
+            ],
+            "mind": [
+              6,
+              13
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              2,
+              9
+            ]
+          },
+          "jobs": [
+            "배달 드론 수리",
+            "데이터 라벨링 부업",
+            "광고 시청 알바"
+          ],
+          "meals": [
+            "합성 단백질 바",
+            "재활용수 라면",
+            "광고 보면 무료인 김밥"
+          ],
+          "historyTips": [
+            "하층 구역 주민은 광고 15초를 보면 공기 정화 필터 1시간을 지급받았다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "data-broker",
+          "name": "음지 데이터 브로커",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            75
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              13,
+              18
+            ],
+            "charm": [
+              10,
+              16
+            ],
+            "luck": [
+              7,
+              14
+            ]
+          },
+          "jobs": [
+            "기업 기밀 해킹",
+            "기억 칩 암거래",
+            "위조 신분증 발행"
+          ],
+          "meals": [
+            "암시장 밀수 캔조림",
+            "합성 위스키",
+            "알약 종합 영양제"
+          ],
+          "historyTips": [
+            "해커들은 머릿속 생체 칩이 과열되는 것을 막기 위해 얼음 팩을 들고 다니곤 했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2077-pan-asia-corridor",
+      "name": "메가코프 연합 아시아 회랑",
+      "kind": "polity",
+      "population": 3800,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "regional-governor",
+          "name": "회랑 총괄 이사",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            80,
+            115
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              13,
+              19
+            ],
+            "charm": [
+              13,
+              19
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "초고속 물류 회랑 통행료 관제",
+            "기업 전쟁 중재",
+            "AI 투자 심의"
+          ],
+          "meals": [
+            "천연 참치 회",
+            "고급 청주",
+            "유기농 과일 모듬"
+          ],
+          "historyTips": [
+            "아시아 회랑 전체를 통과하는 초고속 튜브 열차는 기업 이사회 전용선이 따로 있었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "logistics-manager",
+          "name": "자동 물류 관제사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            55,
+            80
+          ],
+          "statBase": {
+            "body": [
+              8,
+              13
+            ],
+            "mind": [
+              11,
+              16
+            ],
+            "charm": [
+              8,
+              13
+            ],
+            "luck": [
+              8,
+              13
+            ]
+          },
+          "jobs": [
+            "화물 수송 드론 경로 최적화",
+            "세관 AI 오작동 조치",
+            "물류 창고 보안 점검"
+          ],
+          "meals": [
+            "합성 초밥 도시락",
+            "녹차 맛 셰이크",
+            "단백질 쿠키"
+          ],
+          "historyTips": [
+            "전체 화물의 99%는 자동화 드론이 운송했고 인간은 모니터만 감시했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "factory-line-worker",
+          "name": "자동화 공장 감독원",
+          "share": 0.65,
+          "shareConfidence": "low",
+          "lifespan": [
+            40,
+            70
+          ],
+          "statBase": {
+            "body": [
+              11,
+              16
+            ],
+            "mind": [
+              7,
+              12
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "로봇 팔 오류 교정",
+            "폐기물 재활용 분류",
+            "야간 공장 교대 근무"
+          ],
+          "meals": [
+            "합성 볶음밥",
+            "인공 감미료 탄산수",
+            "비타민 캔디"
+          ],
+          "historyTips": [
+            "공장 내부의 소음은 수면용 신경 칩을 켜지 않으면 버티기 힘들었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "maintenance-technician",
+          "name": "의체 정비 기사",
+          "share": 0.2,
+          "shareConfidence": "low",
+          "lifespan": [
+            45,
+            75
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              10,
+              15
+            ],
+            "charm": [
+              7,
+              13
+            ],
+            "luck": [
+              5,
+              11
+            ]
+          },
+          "jobs": [
+            "중고 의체 관절 윤활유 교체",
+            "불법 회로 납땜",
+            "센서 교정"
+          ],
+          "meals": [
+            "합성 국수",
+            "에너지 파우치",
+            "구수한 합성 보리차"
+          ],
+          "historyTips": [
+            "공식 센터의 정비 비용이 비싸 정비 기사들의 음지 카센터가 호황을 누렸다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "corridor-scavenger",
+          "name": "회랑 외곽 스캐빈저",
+          "share": 0.119995,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            60
+          ],
+          "statBase": {
+            "body": [
+              11,
+              18
+            ],
+            "mind": [
+              6,
+              12
+            ],
+            "charm": [
+              4,
+              10
+            ],
+            "luck": [
+              2,
+              8
+            ]
+          },
+          "jobs": [
+            "버려진 전자 부품 분해",
+            "희귀 금속 채취",
+            "드론 추락물 회수"
+          ],
+          "meals": [
+            "오염수 정화 묵",
+            "구호용 영양 블록",
+            "야생 버섯 건조품"
+          ],
+          "historyTips": [
+            "회랑 외곽 방치 구역은 기업 법률이 미치지 않는 무법지대였다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2077-ocean-flotilla",
+      "name": "태평양 해상 부유 도시",
+      "kind": "polity",
+      "population": 800,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "flotilla-admiral",
+          "name": "부유 도시 의회 의장",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            75,
+            110
+          ],
+          "statBase": {
+            "body": [
+              9,
+              14
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              13,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "해수 담수화 시설 예산 승인",
+            "기업 해적 퇴치 지휘",
+            "무역 협정 체결"
+          ],
+          "meals": [
+            "양식 랍스터",
+            "천연 해조류 샐러드",
+            "고급 화이트 와인"
+          ],
+          "historyTips": [
+            "부유 도시는 해수면 상승 이후 지상 땅을 잃은 인류가 만든 대규모 바다 거주지다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "deck-engineer",
+          "name": "갑판 유지보수 엔지니어",
+          "share": 0.15,
+          "shareConfidence": "low",
+          "lifespan": [
+            50,
+            75
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              10,
+              15
+            ],
+            "charm": [
+              7,
+              12
+            ],
+            "luck": [
+              6,
+              11
+            ]
+          },
+          "jobs": [
+            "부유체 부식 방지 도장",
+            "태양광 판넬 세척",
+            "조력 발전기 점검"
+          ],
+          "meals": [
+            "합성 어묵 수프",
+            "말린 플랑크톤 칩",
+            "담수 음료"
+          ],
+          "historyTips": [
+            "바람과 염분 때문에 갑판 구조물은 매일 녹을 제거해야 했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "aquaculture-fisher",
+          "name": "심해 양식장 어부",
+          "share": 0.56,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            68
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              7,
+              12
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "유전자 변형 다랑어 수확",
+            "양식 그물 청소",
+            "해파리 수집"
+          ],
+          "meals": [
+            "양식 어류 튀김",
+            "해조류 젤리",
+            "정제 소금 음료"
+          ],
+          "historyTips": [
+            "진짜 자연산 물고기는 메가코프 임원들만 맛볼 수 있는 극상의 사치품이었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "desalination-worker",
+          "name": "담수화 필터 관리원",
+          "share": 0.28999,
+          "shareConfidence": "low",
+          "lifespan": [
+            40,
+            70
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              8,
+              13
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "역삼투압 필터 교체",
+            "미네랄 비율 조절",
+            "용수 배분 밸브 작업"
+          ],
+          "meals": [
+            "해조류 단백질 스튜",
+            "비타민 보충제",
+            "정수 처리수"
+          ],
+          "historyTips": [
+            "해상 도시에서 식수 할당량을 어기는 것은 가장 무거운 범죄 중 하나였다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2077-agri-commune",
+      "name": "신농업 자치 연합",
+      "kind": "polity",
+      "population": 1500,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "commune-chief",
+          "name": "자치 연합 수석 대표",
+          "share": 8e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            70,
+            95
+          ],
+          "statBase": {
+            "body": [
+              10,
+              15
+            ],
+            "mind": [
+              11,
+              16
+            ],
+            "charm": [
+              12,
+              18
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "메가코프 종자 특허 교섭",
+            "수확물 분배 조정",
+            "외곽 경비대 점검"
+          ],
+          "meals": [
+            "진짜 쌀밥",
+            "신선한 유기농 채소",
+            "직접 짠 우유"
+          ],
+          "historyTips": [
+            "신농업 자치 연합은 기업의 식량 독점에 맞서 유전자 변형이 아닌 원종 씨앗을 지켜낸 사람들의 공동체다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "vertical-farmer",
+          "name": "수직농장 경작자",
+          "share": 0.62,
+          "shareConfidence": "low",
+          "lifespan": [
+            45,
+            75
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              8,
+              13
+            ],
+            "charm": [
+              7,
+              12
+            ],
+            "luck": [
+              4,
+              10
+            ]
+          },
+          "jobs": [
+            "LED 수경재배 파이프 청소",
+            "배양액 영양 공급",
+            "해충 방제 수동 점검"
+          ],
+          "meals": [
+            "갓 수확한 감자 스튜",
+            "채소 샐러드",
+            "구운 콩 음료"
+          ],
+          "historyTips": [
+            "수직농장 내부의 LED 조명은 태양 빛을 대체하여 24시간 식물을 자라게 했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "drone-mechanic",
+          "name": "농업 드론 정비사",
+          "share": 0.15,
+          "shareConfidence": "low",
+          "lifespan": [
+            50,
+            78
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              10,
+              15
+            ],
+            "charm": [
+              7,
+              12
+            ],
+            "luck": [
+              5,
+              11
+            ]
+          },
+          "jobs": [
+            "파종 드론 로터 교체",
+            "비료 분사기 센서 교정",
+            "배터리 충전소 관리"
+          ],
+          "meals": [
+            "구운 옥수수",
+            "농장 수제 빵",
+            "약초 차"
+          ],
+          "historyTips": [
+            "농장 드론은 하루에 수만 평의 밭에 비료를 정밀 분사할 수 있었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "seed-guardian",
+          "name": "토종 종자 보관원",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            60,
+            85
+          ],
+          "statBase": {
+            "body": [
+              7,
+              12
+            ],
+            "mind": [
+              12,
+              17
+            ],
+            "charm": [
+              9,
+              14
+            ],
+            "luck": [
+              8,
+              14
+            ]
+          },
+          "jobs": [
+            "금고 내부 온도·습도 유지",
+            "종자 발아율 검사",
+            "기업 스파이 방지"
+          ],
+          "meals": [
+            "각종 호두 및 견과류",
+            "발효 콩 수프",
+            "맑은 샘물"
+          ],
+          "historyTips": [
+            "기업들은 이들이 보관한 토종 씨앗을 해킹하거나 빼앗기 위해 수시로 스파이를 보냈다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "border-guard",
+          "name": "자치구 경비대원",
+          "share": 0.179992,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            65
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              8,
+              13
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "외곽 장벽 순찰",
+            "기업 무단 침입 드론 격추",
+            "검문소 신원 확인"
+          ],
+          "meals": [
+            "전투 식량 건빵",
+            "말린 고기 슬라이스",
+            "강한 카페인 차"
+          ],
+          "historyTips": [
+            "자치구 경비대는 기업의 용병대와 수시로 소규모 교전을 벌였다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2077-solar-polis",
+      "name": "사막 태양광 도시국가",
+      "kind": "polity",
+      "population": 1200,
+      "populationConfidence": "low",
+      "sources": [
+        "fictional (Gemini 초안, Claude 교정)"
+      ],
+      "classes": [
+        {
+          "id": "energy-baron",
+          "name": "태양광 에너지 이사장",
+          "share": 8e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            80,
+            115
+          ],
+          "statBase": {
+            "body": [
+              8,
+              13
+            ],
+            "mind": [
+              13,
+              19
+            ],
+            "charm": [
+              12,
+              18
+            ],
+            "luck": [
+              18,
+              20
+            ]
+          },
+          "jobs": [
+            "전력 수출 단가 담합",
+            "수소 저장 단지 확장 승인",
+            "초고압 송전선 관리"
+          ],
+          "meals": [
+            "인공 재배 수박",
+            "고급 냉음료",
+            "합성 안심 구이"
+          ],
+          "historyTips": [
+            "사막의 태양광 패널 지대는 그 크기가 어마어마하여 인공위성에서도 뚜렷하게 보였다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "solar-panel-cleaner",
+          "name": "태양광 집열판 청소원",
+          "share": 0.58,
+          "shareConfidence": "low",
+          "lifespan": [
+            35,
+            65
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              6,
+              12
+            ],
+            "charm": [
+              5,
+              10
+            ],
+            "luck": [
+              2,
+              8
+            ]
+          },
+          "jobs": [
+            "모래먼지 제거 로봇 조종",
+            "손상된 패널 유리 교체",
+            "열 차단복 착용 순찰"
+          ],
+          "meals": [
+            "염분 보충 젤리",
+            "합성 미소 수프",
+            "비타민 보충수"
+          ],
+          "historyTips": [
+            "낮에는 사막의 지열이 섭씨 50도를 넘어 내열복 없이는 10분도 서 있을 수 없었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "hydrogen-tech",
+          "name": "수소 저장 탱크 엔지니어",
+          "share": 0.22,
+          "shareConfidence": "low",
+          "lifespan": [
+            45,
+            75
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              10,
+              15
+            ],
+            "charm": [
+              7,
+              12
+            ],
+            "luck": [
+              5,
+              11
+            ]
+          },
+          "jobs": [
+            "초저온 수소 누출 감지",
+            "압력 밸브 점검",
+            "파이프라인 용접"
+          ],
+          "meals": [
+            "단백질 건조 블록",
+            "전해질 음료",
+            "합성 햄버거"
+          ],
+          "historyTips": [
+            "수소 탱크 폭발 사고를 막기 위해 시설 전체에 24시간 자동 냉각 시스템이 가동되었다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        },
+        {
+          "id": "sand-scout",
+          "name": "사막 폭풍 정찰원",
+          "share": 0.199992,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            60
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              8,
+              14
+            ],
+            "charm": [
+              6,
+              11
+            ],
+            "luck": [
+              3,
+              9
+            ]
+          },
+          "jobs": [
+            "모래폭풍 이동 경로 측정",
+            "외곽 미기상 관측소 점검",
+            "고립된 차량 구출"
+          ],
+          "meals": [
+            "비상 휴대식 열량 바",
+            "이온 음료 파우더",
+            "말린 버섯"
+          ],
+          "historyTips": [
+            "사막 모래폭풍이 몰아치면 도시 전체의 태양광 발전이 며칠간 중단되기도 했다."
+          ],
+          "sources": [
+            "fictional (Gemini 초안, Claude 교정)"
+          ]
+        }
+      ]
+    }
+  ]
+}
