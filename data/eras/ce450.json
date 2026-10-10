@@ -1,0 +1,3664 @@
+{
+  "id": "ce450",
+  "group": "history",
+  "year": 450,
+  "name": "450년의 세계",
+  "yearLabel": "450년경",
+  "fictional": false,
+  "worldPopulation": 200,
+  "sources": [
+    "McEvedy & Jones (1978) Atlas of World Population History",
+    "Biraben (1980) An Essay Concerning Mankind's Evolution",
+    "Klein Goldewijk et al. (2017) HYDE 3.2 — 장기 인구 재구성",
+    "지역 합산 약 2억"
+  ],
+  "polities": [
+    {
+      "id": "ce450-eastern-rome",
+      "name": "동로마 제국",
+      "kind": "polity",
+      "population": 22,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Heather (2005) The Fall of the Roman Empire"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "동로마 황제 테오도시우스 2세·마르키아누스",
+          "share": 5e-08,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "교회 회의 주재",
+            "원정 지휘"
+          ],
+          "meals": [
+            "생선 요리",
+            "흰 밀빵",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "테오도시우스 2세(450년 사망) 때 콘스탄티노폴리스를 지키는 거대한 테오도시우스 성벽이 세워졌다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "원로원 귀족·대토지 소유자",
+          "share": 0.003,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "테마(군관구) 지휘",
+            "대토지 경영",
+            "궁정 관직"
+          ],
+          "meals": [
+            "생선 요리",
+            "흰 밀빵",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "비잔티움 제국은 로마 제국의 직접적 연속으로 스스로를 '로마인'이라 불렀다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자·수도사",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "정교회 예배",
+            "수도원 생활",
+            "이콘 제작"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브",
+            "치즈",
+            "콩 수프"
+          ],
+          "historyTips": [
+            "451년 칼케돈 공의회는 그리스도의 본성을 둘러싼 논쟁을 다뤘다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.015,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "국경 수비",
+            "기병 복무",
+            "함대 승선"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브",
+            "치즈",
+            "콩 수프"
+          ],
+          "historyTips": [
+            "비잔티움의 '그리스의 불'은 물 위에서도 타는 비밀 무기였다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 장인·상인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "비단 직조",
+            "모자이크 제작",
+            "콘스탄티노폴리스 상점"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브",
+            "치즈",
+            "콩 수프"
+          ],
+          "historyTips": [
+            "비잔티움 황실 비단 공방의 자주색 비단은 수출이 통제된 귀중품이었다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민(콜로누스)",
+          "share": 0.81199995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·포도·올리브 농사",
+            "군역 토지 경작",
+            "세금 납부"
+          ],
+          "meals": [
+            "보리빵",
+            "콩",
+            "양파"
+          ],
+          "historyTips": [
+            "후기 로마의 소작농 콜로누스는 점차 땅에 묶이는 신분이 되어 갔다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "가사 노동",
+            "대토지 노동",
+            "궁정 시종"
+          ],
+          "meals": [
+            "보리빵",
+            "콩",
+            "양파"
+          ],
+          "historyTips": [
+            "비잔티움에도 가사 노예가 존재했다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-western-rome",
+      "name": "서로마 제국(잔여)",
+      "kind": "polity",
+      "population": 12,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Heather (2005) The Fall of the Roman Empire"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "서로마 황제 발렌티니아누스 3세",
+          "share": 1e-07,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "원로원·궁정 회의",
+            "개선식",
+            "공공건물 헌정"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "발렌티니아누스 3세는 455년 암살되고, 서로마는 476년 마지막 황제의 폐위로 끝난다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "원로원 귀족",
+          "share": 0.003,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "원로원 활동",
+            "대농장(빌라) 경영",
+            "후원자 노릇"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "서로마 말기에는 아에티우스 같은 장군이 실권을 쥐었다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "조점(새 점)",
+            "축제 주관"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마의 공적 제사는 귀족 정치인들이 사제직을 겸하며 주관했다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·동맹군",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "군단 복무",
+            "도로·요새 건설",
+            "국경 수비"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "451년 카탈라우눔 전투에서 로마와 서고트 연합군이 아틸라의 훈족을 막았다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 장인·상인",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "도기·유리 제작",
+            "대장장이",
+            "상점(타베르나) 운영",
+            "해상 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 도시 거리에는 1층 상점 위에 다층 셋집(인술라)이 늘어섰다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민(콜로누스)",
+          "share": 0.8069999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·올리브·포도 농사",
+            "소작",
+            "세금 납부"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "5세기 서로마의 대토지 소유자들은 세금과 징집을 피해 농민을 사병처럼 거느렸다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농장 노동",
+            "가사 노동",
+            "광산 노동"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "로마 노예는 해방되어 시민이 될 수 있었고, 해방노예 중 부자가 된 사람도 있었다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-vandal",
+      "name": "반달 왕국(북아프리카)",
+      "kind": "polity",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "Heather (2005) The Fall of the Roman Empire"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "반달 왕 가이세리크",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "원로원·궁정 회의",
+            "개선식",
+            "공공건물 헌정"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "가이세리크는 439년 카르타고를 점령했고 455년에는 로마를 약탈했다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "반달 전사 귀족",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "원로원 활동",
+            "대농장(빌라) 경영",
+            "후원자 노릇"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "로마 원로원 의원이 되려면 막대한 재산 자격이 필요했다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "아리우스파·가톨릭 성직자",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "조점(새 점)",
+            "축제 주관"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마의 공적 제사는 귀족 정치인들이 사제직을 겸하며 주관했다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "로마계 장인·상인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "도기·유리 제작",
+            "대장장이",
+            "상점(타베르나) 운영",
+            "해상 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 도시 거리에는 1층 상점 위에 다층 셋집(인술라)이 늘어섰다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "로마계 농민",
+          "share": 0.779995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·올리브·포도 농사",
+            "소작",
+            "세금 납부"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "북아프리카는 로마에 곡물을 대던 곡창 지대였다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농장 노동",
+            "가사 노동",
+            "광산 노동"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "로마 노예는 해방되어 시민이 될 수 있었고, 해방노예 중 부자가 된 사람도 있었다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-visigoth",
+      "name": "서고트 왕국",
+      "kind": "polity",
+      "population": 4,
+      "populationConfidence": "low",
+      "sources": [
+        "Heather (2005) The Fall of the Roman Empire"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "서고트 왕 테오도리크 1세 계열",
+          "share": 3e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁 지휘",
+            "순회 재판"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "서고트 왕 테오도리크 1세는 451년 카탈라우눔 전투에서 전사했다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "고트 전사 귀족",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "장원 경영",
+            "기사 훈련",
+            "마상 창시합"
+          ],
+          "meals": [
+            "구운 사슴고기",
+            "흰 밀빵",
+            "포도주",
+            "향신료 소스"
+          ],
+          "historyTips": [
+            "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "성직자",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "미사 집전",
+            "수도원 필사",
+            "십일조 관리"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "수도원은 필사본을 만들며 고전 지식을 보존했다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "로마계 도시민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "길드 수공업",
+            "시장 장사",
+            "대성당 건설",
+            "원거리 교역"
+          ],
+          "meals": [
+            "호밀빵",
+            "맥주",
+            "치즈",
+            "돼지고기 소시지"
+          ],
+          "historyTips": [
+            "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "로마계 농민",
+          "share": 0.819997,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "삼포제 농사",
+            "영주 직영지 부역",
+            "십일조 납부"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "서고트 왕국은 툴루즈를 수도로 갈리아 남부와 히스파니아를 지배했다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "영주 직영지 노동",
+            "가사 노동",
+            "장원 잡역"
+          ],
+          "meals": [
+            "귀리죽",
+            "호밀빵",
+            "약한 맥주",
+            "양배추 수프"
+          ],
+          "historyTips": [
+            "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+          ],
+          "sources": [
+            "Heather (2005) The Fall of the Roman Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-huns",
+      "name": "아틸라의 훈 제국",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "Heather (2005) The Fall of the Roman Empire",
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "ce450-sasanian",
+      "name": "사산 페르시아",
+      "kind": "polity",
+      "population": 10,
+      "populationConfidence": "low",
+      "sources": [
+        "Daryaee (2009) Sasanian Persia",
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "샤한샤 야즈데게르드 2세",
+          "share": 3e-07,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "귀족 회의",
+            "원정"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "석류"
+          ],
+          "historyTips": [
+            "야즈데게르드 2세는 451년 아바라이르 전투에서 기독교 아르메니아의 반란을 진압했다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "대귀족·디칸(지방 지주)",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "기병대 지휘",
+            "영지 경영",
+            "궁정 출사"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "석류"
+          ],
+          "historyTips": [
+            "이란 왕조들의 중장기병은 로마군에게도 두려운 존재였다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "조로아스터교 사제(모베드)",
+          "share": 0.015,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "조로아스터교 불의 신전 의례",
+            "왕실 자문",
+            "법 판결"
+          ],
+          "meals": [
+            "밀빵",
+            "요구르트",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "조로아스터교 사제는 신성한 불을 꺼뜨리지 않고 지켰다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "중장기병",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "중장기병 복무",
+            "국경 수비",
+            "원정"
+          ],
+          "meals": [
+            "밀빵",
+            "요구르트",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "'파르티아 사법'은 말을 타고 후퇴하며 뒤로 활을 쏘는 기술이다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "은세공",
+            "직조",
+            "실크로드 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "요구르트",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "이란의 은세공 접시는 실크로드를 따라 중국까지 전해졌다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.8449997,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "카나트 관리",
+            "세금 납부"
+          ],
+          "meals": [
+            "보리빵",
+            "요구르트",
+            "양파"
+          ],
+          "historyTips": [
+            "사산 왕조는 토지 측량에 기반한 세제 개혁을 6세기에 단행한다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "예속민·포로",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "건설 노동",
+            "가사 노동",
+            "농장 노동"
+          ],
+          "meals": [
+            "보리빵",
+            "요구르트",
+            "양파"
+          ],
+          "historyTips": [
+            "이란 왕조들은 전쟁 포로를 도시 건설에 동원하기도 했다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-gupta",
+      "name": "굽타 제국",
+      "kind": "polity",
+      "population": 25,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "굽타 황제 쿠마라굽타 1세",
+          "share": 1e-07,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁과 동맹",
+            "사원 후원"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 커리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "굽타 시대는 산스크리트 문학과 수학이 꽃핀 '고전기'로 불린다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "봉신·귀족",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "영지 관리",
+            "기병·코끼리 부대 지휘",
+            "궁정 출사"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 커리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "인도 왕국들의 귀족은 영지 수입으로 병력을 유지할 의무를 졌다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "브라만",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사원 의례",
+            "산스크리트 경전 교육",
+            "왕실 자문"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "날란다 불교 대학은 굽타 왕실의 후원으로 5세기에 세워졌다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "요새 수비",
+            "원정",
+            "코끼리 부대 복무"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "5세기 중반 굽타 제국은 북서쪽에서 내려온 에프탈(백훈족)의 침입에 시달렸다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인 길드",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "면직물 직조",
+            "금속 세공",
+            "해상·대상 교역"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "인도 면직물은 고대부터 로마·동남아로 수출되는 고급품이었다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.7399999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·밀·기장 농사",
+            "소 돌보기",
+            "지세 납부"
+          ],
+          "meals": [
+            "거친 곡물",
+            "달",
+            "버터밀크"
+          ],
+          "historyTips": [
+            "중국 승려 법현은 5세기 초 굽타 인도를 여행하고 평화롭고 형벌이 가볍다고 기록했다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "천대받은 노동 계층",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "천대받은 노동(청소·가죽)",
+            "가사 노동",
+            "농업 품팔이"
+          ],
+          "meals": [
+            "거친 곡물",
+            "달",
+            "버터밀크"
+          ],
+          "historyTips": [
+            "법현은 찬달라가 마을에 들어올 때 나무를 두드려 자신이 온 것을 알려야 했다고 기록했다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-india",
+      "name": "기타 인도(바카타카·팔라바 등)",
+      "kind": "region",
+      "population": 20,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "ce450-northern-wei",
+      "name": "북위",
+      "kind": "polity",
+      "population": 25,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "북위 태무제와 탁발 황족",
+          "share": 2e-07,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "조회 주재",
+            "제천 의례",
+            "순행",
+            "상소 검토"
+          ],
+          "meals": [
+            "돼지고기 요리",
+            "쌀밥",
+            "차",
+            "술"
+          ],
+          "historyTips": [
+            "북위 태무제는 439년 화북을 통일했다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "선비 귀족·한인 문벌",
+          "share": 0.005,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직 근무",
+            "과거 공부",
+            "장원 관리",
+            "시문 짓기"
+          ],
+          "meals": [
+            "돼지고기 요리",
+            "쌀밥",
+            "차",
+            "술"
+          ],
+          "historyTips": [
+            "중국의 과거 시험은 수년의 공부가 필요해 합격자는 극소수였다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사찰·도관 의례",
+            "독경",
+            "장례 의식"
+          ],
+          "meals": [
+            "쌀밥이나 밀국수",
+            "두부",
+            "절인 채소",
+            "차"
+          ],
+          "historyTips": [
+            "북위는 운강 석굴을 460년대부터 조성하기 시작했다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "선비 기병·병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "변경 수비",
+            "운하·성 경비",
+            "원정"
+          ],
+          "meals": [
+            "쌀밥이나 밀국수",
+            "두부",
+            "절인 채소",
+            "차"
+          ],
+          "historyTips": [
+            "중국 왕조들은 북방 유목민 방어에 막대한 군사비를 썼다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "공인·상인",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "비단 직조",
+            "도자기 굽기",
+            "인쇄·제지",
+            "운하 수운"
+          ],
+          "meals": [
+            "쌀밥이나 밀국수",
+            "두부",
+            "절인 채소",
+            "차"
+          ],
+          "historyTips": [
+            "중국 도자기와 비단은 육로와 바닷길로 세계 곳곳에 수출됐다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.8449998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·밀 농사",
+            "요역 동원",
+            "조세 납부",
+            "양잠"
+          ],
+          "meals": [
+            "조밥이나 거친 쌀",
+            "절인 채소",
+            "묽은 죽"
+          ],
+          "historyTips": [
+            "북위는 485년 국가가 토지를 나눠주는 균전제를 시행한다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노비·예속민",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "가내 노비",
+            "관청 잡역",
+            "광산 노역"
+          ],
+          "meals": [
+            "조밥이나 거친 쌀",
+            "절인 채소",
+            "묽은 죽"
+          ],
+          "historyTips": [
+            "중국에도 빚이나 형벌로 노비가 된 사람들이 있었다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-liu-song",
+      "name": "남조 송(유송)",
+      "kind": "polity",
+      "population": 17,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "유송 문제와 황족",
+          "share": 2e-07,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "조회 주재",
+            "제천 의례",
+            "순행",
+            "상소 검토"
+          ],
+          "meals": [
+            "돼지고기 요리",
+            "쌀밥",
+            "차",
+            "술"
+          ],
+          "historyTips": [
+            "유송 문제의 치세(424~453)는 '원가의 치'로 불리는 안정기였다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "문벌 귀족",
+          "share": 0.008,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직 근무",
+            "과거 공부",
+            "장원 관리",
+            "시문 짓기"
+          ],
+          "meals": [
+            "돼지고기 요리",
+            "쌀밥",
+            "차",
+            "술"
+          ],
+          "historyTips": [
+            "남조의 문벌 귀족은 가문 등급에 따라 관직을 독점했다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려·도사",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사찰·도관 의례",
+            "독경",
+            "장례 의식"
+          ],
+          "meals": [
+            "쌀밥이나 밀국수",
+            "두부",
+            "절인 채소",
+            "차"
+          ],
+          "historyTips": [
+            "불교와 도교 사원은 토지와 신도를 거느린 큰 세력이었다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "변경 수비",
+            "운하·성 경비",
+            "원정"
+          ],
+          "meals": [
+            "쌀밥이나 밀국수",
+            "두부",
+            "절인 채소",
+            "차"
+          ],
+          "historyTips": [
+            "중국 왕조들은 북방 유목민 방어에 막대한 군사비를 썼다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "비단 직조",
+            "도자기 굽기",
+            "인쇄·제지",
+            "운하 수운"
+          ],
+          "meals": [
+            "쌀밥이나 밀국수",
+            "두부",
+            "절인 채소",
+            "차"
+          ],
+          "historyTips": [
+            "중국 도자기와 비단은 육로와 바닷길로 세계 곳곳에 수출됐다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.8119998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·밀 농사",
+            "요역 동원",
+            "조세 납부",
+            "양잠"
+          ],
+          "meals": [
+            "조밥이나 거친 쌀",
+            "절인 채소",
+            "묽은 죽"
+          ],
+          "historyTips": [
+            "남조 정부에 등록된 인구는 실제보다 훨씬 적었다. 많은 농민이 귀족의 보호민으로 숨었기 때문이다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노비·보호민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "가내 노비",
+            "관청 잡역",
+            "광산 노역"
+          ],
+          "meals": [
+            "조밥이나 거친 쌀",
+            "절인 채소",
+            "묽은 죽"
+          ],
+          "historyTips": [
+            "중국에도 빚이나 형벌로 노비가 된 사람들이 있었다."
+          ],
+          "sources": [
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정",
+            "Lewis (2009) China between Empires"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-goguryeo",
+      "name": "고구려",
+      "kind": "polity",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "노태돈 외 『한국 고대사』 / 삼국사기"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "고구려 장수왕과 왕족",
+          "share": 3e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "조회",
+            "종묘·사직 제사",
+            "사냥과 순행"
+          ],
+          "meals": [
+            "쌀밥",
+            "고기 구이",
+            "술",
+            "떡"
+          ],
+          "historyTips": [
+            "장수왕은 427년 평양으로 도읍을 옮겼고, 아버지 광개토왕의 업적을 새긴 비석을 414년에 세웠다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족(5부)",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직",
+            "토지·노비 관리",
+            "시문 짓기"
+          ],
+          "meals": [
+            "쌀밥",
+            "고기 구이",
+            "술",
+            "떡"
+          ],
+          "historyTips": [
+            "한반도 왕조의 지배층은 관직과 토지, 노비를 기반으로 세력을 유지했다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려",
+          "share": 0.005,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사찰 법회",
+            "불경 간행",
+            "왕실 기도"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "불교는 삼국 시대 이후 국가의 보호를 받으며 크게 번성했다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "국경 수비",
+            "산성 쌓기",
+            "원정"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "고구려 무덤 벽화에는 말까지 갑옷을 입힌 개마무사가 그려져 있다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "기와·도자기 제작",
+            "직조",
+            "시장 장사"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "한반도의 기와·도자기 기술은 일본에도 전해졌다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.814997,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·보리·조 농사",
+            "조세·공물 납부",
+            "역(노역) 동원"
+          ],
+          "meals": [
+            "조밥",
+            "나물",
+            "소금 장"
+          ],
+          "historyTips": [
+            "고구려 고분 벽화에는 부엌·마구간·사냥 같은 일상 장면이 생생히 남아 있다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노비",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "주인 농사",
+            "가사 노동",
+            "공물 생산"
+          ],
+          "meals": [
+            "조밥",
+            "나물",
+            "소금 장"
+          ],
+          "historyTips": [
+            "한반도 왕조에서 노비 신분은 대개 부모로부터 세습됐다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-baekje",
+      "name": "백제",
+      "kind": "polity",
+      "population": 1.5,
+      "populationConfidence": "low",
+      "sources": [
+        "노태돈 외 『한국 고대사』 / 삼국사기"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "백제 왕과 왕족",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "조회",
+            "종묘·사직 제사",
+            "사냥과 순행"
+          ],
+          "meals": [
+            "쌀밥",
+            "고기 구이",
+            "술",
+            "떡"
+          ],
+          "historyTips": [
+            "백제는 475년 고구려에 한성을 빼앗기고 웅진(공주)으로 도읍을 옮긴다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직",
+            "토지·노비 관리",
+            "시문 짓기"
+          ],
+          "meals": [
+            "쌀밥",
+            "고기 구이",
+            "술",
+            "떡"
+          ],
+          "historyTips": [
+            "한반도 왕조의 지배층은 관직과 토지, 노비를 기반으로 세력을 유지했다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려",
+          "share": 0.005,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사찰 법회",
+            "불경 간행",
+            "왕실 기도"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "불교는 삼국 시대 이후 국가의 보호를 받으며 크게 번성했다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "국경 수비",
+            "산성 쌓기",
+            "원정"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "한반도 왕조들은 산성을 거점으로 하는 방어 전략을 오랫동안 썼다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "기와·도자기 제작",
+            "직조",
+            "시장 장사"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "백제는 왜에 학자와 장인을 보내 불교·한자 문화를 전했다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.824995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·보리·조 농사",
+            "조세·공물 납부",
+            "역(노역) 동원"
+          ],
+          "meals": [
+            "조밥",
+            "나물",
+            "소금 장"
+          ],
+          "historyTips": [
+            "백제는 한강과 금강 유역의 넓은 평야를 기반으로 했다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노비",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "주인 농사",
+            "가사 노동",
+            "공물 생산"
+          ],
+          "meals": [
+            "조밥",
+            "나물",
+            "소금 장"
+          ],
+          "historyTips": [
+            "한반도 왕조에서 노비 신분은 대개 부모로부터 세습됐다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-silla",
+      "name": "신라",
+      "kind": "polity",
+      "population": 1,
+      "populationConfidence": "low",
+      "sources": [
+        "노태돈 외 『한국 고대사』 / 삼국사기"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "신라 마립간",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "조회",
+            "종묘·사직 제사",
+            "사냥과 순행"
+          ],
+          "meals": [
+            "쌀밥",
+            "고기 구이",
+            "술",
+            "떡"
+          ],
+          "historyTips": [
+            "5세기 신라 왕호는 '마립간'이었고, 거대한 돌무지덧널무덤에 금관을 묻었다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "진골 귀족",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직",
+            "토지·노비 관리",
+            "시문 짓기"
+          ],
+          "meals": [
+            "쌀밥",
+            "고기 구이",
+            "술",
+            "떡"
+          ],
+          "historyTips": [
+            "신라의 골품제는 혈통에 따라 오를 수 있는 관직 상한을 정했다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "국경 수비",
+            "산성 쌓기",
+            "원정"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "한반도 왕조들은 산성을 거점으로 하는 방어 전략을 오랫동안 썼다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "기와·도자기 제작",
+            "직조",
+            "시장 장사"
+          ],
+          "meals": [
+            "보리밥",
+            "된장국",
+            "나물"
+          ],
+          "historyTips": [
+            "한반도의 기와·도자기 기술은 일본에도 전해졌다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.85999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·보리·조 농사",
+            "조세·공물 납부",
+            "역(노역) 동원"
+          ],
+          "meals": [
+            "조밥",
+            "나물",
+            "소금 장"
+          ],
+          "historyTips": [
+            "5세기 신라는 아직 고구려의 영향 아래 있었다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노비",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "주인 농사",
+            "가사 노동",
+            "공물 생산"
+          ],
+          "meals": [
+            "조밥",
+            "나물",
+            "소금 장"
+          ],
+          "historyTips": [
+            "한반도 왕조에서 노비 신분은 대개 부모로부터 세습됐다."
+          ],
+          "sources": [
+            "노태돈 외 『한국 고대사』 / 삼국사기",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce450-japan",
+      "name": "야마토 왜",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "ce450-africa",
+      "name": "사하라 이남 아프리카(악숨 포함)",
+      "kind": "region",
+      "population": 15,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "ce450-mesoamerica",
+      "name": "마야 고전기·테오티우아칸",
+      "kind": "region",
+      "population": 5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "ce450-americas",
+      "name": "기타 아메리카 원주민",
+      "kind": "region",
+      "population": 9,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "ce450-southeast-asia",
+      "name": "동남아시아(푸난·참파 등)",
+      "kind": "region",
+      "population": 8,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "ce450-europe",
+      "name": "프랑크·색슨·슬라브 등 부족 사회",
+      "kind": "region",
+      "population": 8,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "ce450-steppe",
+      "name": "기타 초원 유목민",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "ce450-arabia",
+      "name": "아라비아",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "ce450-foragers",
+      "name": "전 세계 수렵채집민",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "hunter-gatherer"
+    }
+  ]
+}

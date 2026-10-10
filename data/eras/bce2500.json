@@ -1,0 +1,936 @@
+{
+  "id": "bce2500",
+  "group": "history",
+  "year": -2500,
+  "name": "기원전 2500년의 세계",
+  "yearLabel": "기원전 2500년경",
+  "fictional": false,
+  "worldPopulation": 27,
+  "sources": [
+    "McEvedy & Jones (1978) Atlas of World Population History",
+    "Klein Goldewijk et al. (2017) HYDE 3.2 — 장기 인구 재구성",
+    "McEvedy & Jones: 기원전 3000년 1,400만 → 기원전 2000년 2,700만 사이 보간 후 상향"
+  ],
+  "polities": [
+    {
+      "id": "bce2500-egypt",
+      "name": "이집트 고왕국",
+      "kind": "polity",
+      "population": 1.5,
+      "populationConfidence": "low",
+      "sources": [
+        "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "파라오와 왕족",
+          "share": 2e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "신전 의례 주관",
+            "거대 건축 지시",
+            "나일 범람 축제 주재"
+          ],
+          "meals": [
+            "구운 거위",
+            "밀빵",
+            "포도주",
+            "무화과"
+          ],
+          "historyTips": [
+            "기원전 2500년 무렵은 이집트 고왕국 제4왕조로, 쿠푸·카프레·멘카우레가 기자에 피라미드를 세운 시기다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "Lehner & Hawass (2017) Giza and the Pyramids — 기자 노동자 마을 발굴",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "고위 관리·지방 귀족",
+          "share": 0.005,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "주(노모스) 통치",
+            "관개 감독",
+            "자기 무덤 준비"
+          ],
+          "meals": [
+            "구운 거위",
+            "밀빵",
+            "포도주",
+            "무화과"
+          ],
+          "historyTips": [
+            "이집트 고위 관리는 살아 있을 때부터 자기 무덤을 짓고 벽화를 준비했다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "Lehner & Hawass (2017) Giza and the Pyramids — 기자 노동자 마을 발굴",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "신관·서기",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "서기 업무(상형문자 기록)",
+            "천문 관측으로 범람 예측"
+          ],
+          "meals": [
+            "보리빵",
+            "맥주",
+            "양파",
+            "말린 생선"
+          ],
+          "historyTips": [
+            "이집트 서기는 곡물·노동·세금을 기록하는 핵심 관료였다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "Lehner & Hawass (2017) Giza and the Pyramids — 기자 노동자 마을 발굴",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인(석공·목수·화가)",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "석공",
+            "파피루스 제작",
+            "금 세공"
+          ],
+          "meals": [
+            "보리빵",
+            "맥주",
+            "양파",
+            "말린 생선"
+          ],
+          "historyTips": [
+            "왕실 무덤을 짓던 데이르 엘메디나 장인 마을에는 파업 기록까지 남아 있다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "Lehner & Hawass (2017) Giza and the Pyramids — 기자 노동자 마을 발굴",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.90498,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "범람기 국가 공사 부역",
+            "수확세 납부"
+          ],
+          "meals": [
+            "보리빵",
+            "묽은 맥주",
+            "양파",
+            "파피루스 줄기"
+          ],
+          "historyTips": [
+            "기자 피라미드 노동자 마을 발굴로, 건설 인력이 노예가 아니라 빵과 맥주를 배급받은 조직된 노동자였음이 드러났다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "Lehner & Hawass (2017) Giza and the Pyramids — 기자 노동자 마을 발굴",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "예속 노동자",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "신전·왕실 노동",
+            "채석장 노동",
+            "가사 노동"
+          ],
+          "meals": [
+            "보리빵",
+            "묽은 맥주",
+            "양파",
+            "파피루스 줄기"
+          ],
+          "historyTips": [
+            "이집트에는 전쟁 포로 출신 노예도 있었지만, 노동력의 대부분은 부역하는 농민이었다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "Lehner & Hawass (2017) Giza and the Pyramids — 기자 노동자 마을 발굴",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce2500-sumer",
+      "name": "수메르 도시국가(우르·라가시 등)",
+      "kind": "polity",
+      "population": 0.8,
+      "populationConfidence": "low",
+      "sources": [
+        "Postgate (1992) Early Mesopotamia",
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "도시 왕(루갈)과 일족",
+          "share": 0.0001,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "신전 봉헌",
+            "운하 공사 지시",
+            "전쟁과 조약"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "우르 왕실 묘지(기원전 2600~2500년경)에서는 왕족과 함께 묻힌 수십 명의 시종 유골이 발견됐다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "신전·궁정 고위 관리",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "궁정 관리",
+            "영지 경영",
+            "전차 부대 지휘"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "메소포타미아 궁정은 점토판에 쐐기문자로 행정 기록을 남겼다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "신관·서기",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "점토판 기록",
+            "점성술·점복"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "수메르 신전은 거대한 토지와 노동자를 거느린 경제 중심이었다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성벽 수비",
+            "원정",
+            "전차·궁술 훈련"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "라가시와 움마는 국경 농지를 두고 대를 이어 싸웠고, 그 기록이 '독수리 비석'에 남았다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인·상인",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "점토판 서기 보조",
+            "직조",
+            "금속 세공",
+            "원거리 교역"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "메소포타미아 상인들은 아나톨리아까지 주석·직물을 실어 나르며 점토판 편지를 주고받았다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.8099,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "보리 농사",
+            "관개 수로 관리",
+            "대추야자 재배"
+          ],
+          "meals": [
+            "보리죽",
+            "묽은 맥주",
+            "대추야자"
+          ],
+          "historyTips": [
+            "수메르 농민은 신전이나 궁정 토지에서 일하고 보리를 배급받는 경우가 많았다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예·포로",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "신전 노동",
+            "가사 노동",
+            "건설 노동"
+          ],
+          "meals": [
+            "보리죽",
+            "묽은 맥주",
+            "대추야자"
+          ],
+          "historyTips": [
+            "메소포타미아에는 전쟁 포로와 채무 노예가 있었고, 법전에는 노예에 관한 조항도 들어 있었다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce2500-indus",
+      "name": "인더스 문명(하라파·모헨조다로)",
+      "kind": "polity",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "Possehl (2002) The Indus Civilization"
+      ],
+      "classes": [
+        {
+          "id": "elite",
+          "name": "도시 지도층(정체 불명)",
+          "share": 0.005,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            60
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "창고 관리",
+            "도시 계획 감독",
+            "인장으로 거래 승인"
+          ],
+          "meals": [
+            "밀빵",
+            "대추야자",
+            "유제품"
+          ],
+          "historyTips": [
+            "인더스 문명은 거대한 궁전이나 왕의 무덤이 뚜렷이 확인되지 않아, 누가 다스렸는지 지금도 수수께끼다."
+          ],
+          "sources": [
+            "Possehl (2002) The Indus Civilization"
+          ]
+        },
+        {
+          "id": "merchant",
+          "name": "상인",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            55
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              16
+            ],
+            "charm": [
+              11,
+              17
+            ],
+            "luck": [
+              8,
+              16
+            ]
+          },
+          "jobs": [
+            "메소포타미아와 해상 교역",
+            "도장(인장) 찍기",
+            "표준 추 사용"
+          ],
+          "meals": [
+            "밀빵",
+            "렌즈콩",
+            "생선"
+          ],
+          "historyTips": [
+            "메소포타미아 기록의 '멜루하'는 인더스 지역을 가리키는 것으로 보이며, 인더스 인장이 메소포타미아에서 출토된다."
+          ],
+          "sources": [
+            "Possehl (2002) The Indus Civilization"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "홍옥수 구슬 가공",
+            "도기 제작",
+            "면 직조"
+          ],
+          "meals": [
+            "보리빵",
+            "렌즈콩",
+            "유제품"
+          ],
+          "historyTips": [
+            "인더스 장인의 홍옥수 구슬은 아주 가는 구멍을 뚫는 고난도 기술로 만들어졌다.",
+            "인더스 문자는 아직 해독되지 않았다."
+          ],
+          "sources": [
+            "Possehl (2002) The Indus Civilization"
+          ]
+        },
+        {
+          "id": "farmer",
+          "name": "농민",
+          "share": 0.855,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            48
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "목화 재배",
+            "소 돌보기"
+          ],
+          "meals": [
+            "보리빵",
+            "렌즈콩",
+            "대추야자"
+          ],
+          "historyTips": [
+            "모헨조다로는 격자형 거리와 집집마다 연결된 배수 시설을 갖춘 계획도시였다."
+          ],
+          "sources": [
+            "Possehl (2002) The Indus Civilization",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce2500-china",
+      "name": "황허·창장 유역 신석기 족장 사회(룽산 문화 등)",
+      "kind": "region",
+      "population": 4,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Klein Goldewijk et al. (2017) HYDE 3.2 — 장기 인구 재구성"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce2500-west-asia",
+      "name": "서아시아·아나톨리아 농경 마을",
+      "kind": "region",
+      "population": 2.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce2500-europe",
+      "name": "유럽 신석기 농경 사회(거석 문화 등)",
+      "kind": "region",
+      "population": 4,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce2500-south-asia",
+      "name": "인도 아대륙 기타 농경 사회",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India",
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce2500-southeast-asia",
+      "name": "동남아시아 농경·어로 사회",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce2500-africa",
+      "name": "사하라 이남 아프리카",
+      "kind": "region",
+      "population": 2.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce2500-americas",
+      "name": "아메리카 원주민 사회",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce2500-steppe",
+      "name": "유라시아 초원 목축민(얌나야 계열 등)",
+      "kind": "region",
+      "population": 0.7,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "bce2500-foragers",
+      "name": "전 세계 수렵채집민",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Gurven & Kaplan (2007)"
+      ],
+      "classTemplate": "hunter-gatherer"
+    }
+  ]
+}

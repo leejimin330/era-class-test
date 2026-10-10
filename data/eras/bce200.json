@@ -1,0 +1,2723 @@
+{
+  "id": "bce200",
+  "group": "history",
+  "year": -200,
+  "name": "기원전 200년의 세계",
+  "yearLabel": "기원전 200년경",
+  "fictional": false,
+  "worldPopulation": 141.5,
+  "sources": [
+    "McEvedy & Jones (1978) Atlas of World Population History",
+    "Biraben (1980) An Essay Concerning Mankind's Evolution",
+    "Klein Goldewijk et al. (2017) HYDE 3.2 — 장기 인구 재구성",
+    "지역 합산 약 1억 4,150만(McEvedy & Jones 기원전 200년 약 1억 5,000만과 근접)"
+  ],
+  "polities": [
+    {
+      "id": "bce200-han",
+      "name": "전한(서한)",
+      "kind": "polity",
+      "population": 25,
+      "populationConfidence": "low",
+      "sources": [
+        "Loewe (2006) The Government of the Qin and Han Empires",
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "한 고조 유방과 황족",
+          "share": 2e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "조회 주재",
+            "제천 의례",
+            "순행"
+          ],
+          "meals": [
+            "고기 요리",
+            "기장밥",
+            "술",
+            "대추"
+          ],
+          "historyTips": [
+            "유방은 기원전 202년 항우를 꺾고 한나라를 세웠는데, 평민 출신 황제의 첫 사례다."
+          ],
+          "sources": [
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "제후왕·공신",
+          "share": 0.003,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직 근무",
+            "봉토·장원 관리",
+            "전차·기병 지휘"
+          ],
+          "meals": [
+            "고기 요리",
+            "기장밥",
+            "술",
+            "대추"
+          ],
+          "historyTips": [
+            "한 초에는 공신과 황족을 제후왕으로 봉해 진의 중앙집권과 주나라식 봉건을 섞었다."
+          ],
+          "sources": [
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "관리·학자",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "점복·제사",
+            "역법 계산",
+            "문서 담당"
+          ],
+          "meals": [
+            "조밥",
+            "콩잎국",
+            "장(醬)",
+            "절인 채소"
+          ],
+          "historyTips": [
+            "고대 중국에서는 거북 등딱지와 소뼈로 점을 치고 그 결과를 새겨 남겼다."
+          ],
+          "sources": [
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "변경 수비",
+            "둔전 경작",
+            "원정"
+          ],
+          "meals": [
+            "조밥",
+            "콩잎국",
+            "장(醬)",
+            "절인 채소"
+          ],
+          "historyTips": [
+            "기원전 200년 한 고조는 백등산에서 흉노 묵돌 선우에게 포위됐다가 겨우 빠져나왔다."
+          ],
+          "sources": [
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "공인·상인",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "청동·철기 주조",
+            "비단 직조",
+            "칠기 제작",
+            "소금 생산"
+          ],
+          "meals": [
+            "조밥",
+            "콩잎국",
+            "장(醬)",
+            "절인 채소"
+          ],
+          "historyTips": [
+            "한 초 상인은 비단옷을 입거나 수레를 타지 못하게 하는 차별 규정을 받았다."
+          ],
+          "sources": [
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.84698,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "조·기장·밀 농사",
+            "요역(노역) 동원",
+            "조세 납부",
+            "양잠"
+          ],
+          "meals": [
+            "거친 조밥",
+            "콩잎국",
+            "소금 절임 채소"
+          ],
+          "historyTips": [
+            "한 초에는 진의 가혹한 법을 줄이고 세금을 수확의 15분의 1로 낮춰 백성을 쉬게 했다."
+          ],
+          "sources": [
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노비",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "관노비",
+            "가내 노동",
+            "공방·광산 노역"
+          ],
+          "meals": [
+            "거친 조밥",
+            "콩잎국",
+            "소금 절임 채소"
+          ],
+          "historyTips": [
+            "고대 중국에는 죄수와 그 가족을 관노비로 삼는 제도가 있었다."
+          ],
+          "sources": [
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce200-maurya",
+      "name": "마우리아 제국(말기)",
+      "kind": "polity",
+      "population": 25,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India",
+        "Thapar (2002) Early India"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "마우리아 황제",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁과 동맹",
+            "사원 후원"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 커리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "아소카 왕(기원전 232년 사망)은 불교에 귀의해 제국 곳곳에 칙령 비문을 새겼다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족·관리",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "영지 관리",
+            "기병·코끼리 부대 지휘",
+            "궁정 출사"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 커리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "인도 왕국들의 귀족은 영지 수입으로 병력을 유지할 의무를 졌다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "브라만",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사원 의례",
+            "산스크리트 경전 교육",
+            "왕실 자문"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "브라만은 제사와 학문을 독점하며 사회 위계의 꼭대기에 섰다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "요새 수비",
+            "원정",
+            "코끼리 부대 복무"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "그리스 사절 메가스테네스는 마우리아 군대가 수천 마리의 코끼리를 거느렸다고 기록했다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "면직물 직조",
+            "금속 세공",
+            "해상·대상 교역"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "인도 면직물은 고대부터 로마·동남아로 수출되는 고급품이었다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.74999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·밀·기장 농사",
+            "소 돌보기",
+            "지세 납부"
+          ],
+          "meals": [
+            "거친 곡물",
+            "달",
+            "버터밀크"
+          ],
+          "historyTips": [
+            "마우리아 제국은 기원전 185년 마지막 황제가 장군에게 살해되며 막을 내렸다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "천대받은 노동 계층·노예",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "천대받은 노동(청소·가죽)",
+            "가사 노동",
+            "농업 품팔이"
+          ],
+          "meals": [
+            "거친 곡물",
+            "달",
+            "버터밀크"
+          ],
+          "historyTips": [
+            "카스트 위계 속에서 '부정하다'고 여겨진 노동을 맡은 사람들은 오랫동안 차별받았다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "Dyson (2018) A Population History of India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce200-india",
+      "name": "기타 인도(남인도·데칸 왕국들)",
+      "kind": "region",
+      "population": 10,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce200-rome",
+      "name": "로마 공화정",
+      "kind": "polity",
+      "population": 7,
+      "populationConfidence": "low",
+      "sources": [
+        "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "집정관(매년 2명)",
+          "share": 3e-07,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "원로원·궁정 회의",
+            "개선식",
+            "공공건물 헌정"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "로마 공화정은 왕 대신 1년 임기 집정관 두 명이 다스렸다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "원로원 귀족",
+          "share": 0.003,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "원로원 활동",
+            "대농장(빌라) 경영",
+            "후원자 노릇"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "기원전 201년 로마는 한니발의 카르타고를 꺾고 지중해 서부의 패권을 쥐었다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "사제단",
+          "share": 0.001,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "조점(새 점)",
+            "축제 주관"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마의 공적 제사는 귀족 정치인들이 사제직을 겸하며 주관했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "군단병(시민 징집)",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "군단 복무",
+            "도로·요새 건설",
+            "국경 수비"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 군단병은 하루 수십 km 행군하고 저녁마다 진지를 쌓는 훈련을 받았다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "도기·유리 제작",
+            "대장장이",
+            "상점(타베르나) 운영",
+            "해상 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 도시 거리에는 1층 상점 위에 다층 셋집(인술라)이 늘어섰다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "자영농 시민·동맹시 농민",
+          "share": 0.7059997,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·올리브·포도 농사",
+            "소작",
+            "세금 납부"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "오랜 포에니 전쟁 복무로 농지를 비운 자영농이 몰락하고 대농장이 커지기 시작했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.15,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농장 노동",
+            "가사 노동",
+            "광산 노동"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "포에니 전쟁 이후 대량의 포로가 노예로 이탈리아에 유입됐다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce200-carthage",
+      "name": "카르타고",
+      "kind": "polity",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "수페트(최고 행정관)",
+          "share": 1e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "원로원·궁정 회의",
+            "개선식",
+            "공공건물 헌정"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "한니발은 패전 후 기원전 196년 수페트로 선출돼 카르타고 재정을 개혁했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "상인 귀족",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "원로원 활동",
+            "대농장(빌라) 경영",
+            "후원자 노릇"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "로마 원로원 의원이 되려면 막대한 재산 자격이 필요했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "사제",
+          "share": 0.005,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "조점(새 점)",
+            "축제 주관"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마의 공적 제사는 귀족 정치인들이 사제직을 겸하며 주관했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.15,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "도기·유리 제작",
+            "대장장이",
+            "상점(타베르나) 운영",
+            "해상 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 도시 거리에는 1층 상점 위에 다층 셋집(인술라)이 늘어섰다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "리비아계 농민",
+          "share": 0.624999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·올리브·포도 농사",
+            "소작",
+            "세금 납부"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "패전 후에도 카르타고는 농업과 교역으로 빠르게 경제를 회복했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.2,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농장 노동",
+            "가사 노동",
+            "광산 노동"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "로마 노예는 해방되어 시민이 될 수 있었고, 해방노예 중 부자가 된 사람도 있었다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce200-seleucid",
+      "name": "셀레우코스 왕국",
+      "kind": "polity",
+      "population": 12,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "셀레우코스 왕(안티오코스 3세)",
+          "share": 1e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "원로원·궁정 회의",
+            "개선식",
+            "공공건물 헌정"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "안티오코스 3세는 동방 원정으로 '대왕'이라 불렸지만 곧 로마에 패한다(기원전 190년 마그네시아)."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "그리스·마케도니아계 지배층",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "원로원 활동",
+            "대농장(빌라) 경영",
+            "후원자 노릇"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "셀레우코스 왕들은 안티오키아처럼 그리스식 도시를 곳곳에 세웠다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "신관",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "조점(새 점)",
+            "축제 주관"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "바빌론 신관들은 이 시기에도 쐐기문자로 천문 일지를 계속 기록했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "군단 복무",
+            "도로·요새 건설",
+            "국경 수비"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 군단병은 하루 수십 km 행군하고 저녁마다 진지를 쌓는 훈련을 받았다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "도기·유리 제작",
+            "대장장이",
+            "상점(타베르나) 운영",
+            "해상 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 도시 거리에는 1층 상점 위에 다층 셋집(인술라)이 늘어섰다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.779999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·올리브·포도 농사",
+            "소작",
+            "세금 납부"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "셀레우코스 영토 주민 대부분은 그리스인이 아닌 현지 농민이었다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예·예속민",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농장 노동",
+            "가사 노동",
+            "광산 노동"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "로마 노예는 해방되어 시민이 될 수 있었고, 해방노예 중 부자가 된 사람도 있었다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce200-ptolemy",
+      "name": "프톨레마이오스 이집트",
+      "kind": "polity",
+      "population": 4.5,
+      "populationConfidence": "low",
+      "sources": [
+        "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "프톨레마이오스 왕과 왕족",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "신전 의례 주관",
+            "거대 건축 지시",
+            "나일 범람 축제 주재"
+          ],
+          "meals": [
+            "구운 거위",
+            "밀빵",
+            "포도주",
+            "무화과"
+          ],
+          "historyTips": [
+            "로제타석(기원전 196년)은 프톨레마이오스 5세를 기리는 칙령을 세 가지 문자로 새긴 것이다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "그리스계 관료",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "주(노모스) 통치",
+            "관개 감독",
+            "자기 무덤 준비"
+          ],
+          "meals": [
+            "구운 거위",
+            "밀빵",
+            "포도주",
+            "무화과"
+          ],
+          "historyTips": [
+            "이집트 고위 관리는 살아 있을 때부터 자기 무덤을 짓고 벽화를 준비했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "이집트 신관",
+          "share": 0.015,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "서기 업무(상형문자 기록)",
+            "천문 관측으로 범람 예측"
+          ],
+          "meals": [
+            "보리빵",
+            "맥주",
+            "양파",
+            "말린 생선"
+          ],
+          "historyTips": [
+            "이집트 서기는 곡물·노동·세금을 기록하는 핵심 관료였다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사(군인 정착민)",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "국경 요새 수비",
+            "원정",
+            "전차 훈련"
+          ],
+          "meals": [
+            "보리빵",
+            "맥주",
+            "양파",
+            "말린 생선"
+          ],
+          "historyTips": [
+            "이집트 군은 누비아 궁수 등 외국 출신 병사를 적극 활용했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인·상인",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "석공",
+            "파피루스 제작",
+            "금 세공"
+          ],
+          "meals": [
+            "보리빵",
+            "맥주",
+            "양파",
+            "말린 생선"
+          ],
+          "historyTips": [
+            "알렉산드리아 도서관은 이 시기 지중해 학문의 중심이었다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "이집트 농민",
+          "share": 0.844995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "범람기 국가 공사 부역",
+            "수확세 납부"
+          ],
+          "meals": [
+            "보리빵",
+            "묽은 맥주",
+            "양파",
+            "파피루스 줄기"
+          ],
+          "historyTips": [
+            "프톨레마이오스 왕조는 세금 징수를 위해 파피루스 문서로 농지를 꼼꼼히 관리했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "신전·왕실 노동",
+            "채석장 노동",
+            "가사 노동"
+          ],
+          "meals": [
+            "보리빵",
+            "묽은 맥주",
+            "양파",
+            "파피루스 줄기"
+          ],
+          "historyTips": [
+            "이집트에는 전쟁 포로 출신 노예도 있었지만, 노동력의 대부분은 부역하는 농민이었다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce200-greece",
+      "name": "마케도니아와 그리스",
+      "kind": "polity",
+      "population": 3.5,
+      "populationConfidence": "low",
+      "sources": [
+        "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "마케도니아 왕 필리포스 5세",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "원로원·궁정 회의",
+            "개선식",
+            "공공건물 헌정"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "필리포스 5세는 기원전 197년 키노스케팔라이 전투에서 로마에 패했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "부유 시민",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "원로원 활동",
+            "대농장(빌라) 경영",
+            "후원자 노릇"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "로마 원로원 의원이 되려면 막대한 재산 자격이 필요했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "신관",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "조점(새 점)",
+            "축제 주관"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마의 공적 제사는 귀족 정치인들이 사제직을 겸하며 주관했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "군단 복무",
+            "도로·요새 건설",
+            "국경 수비"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 군단병은 하루 수십 km 행군하고 저녁마다 진지를 쌓는 훈련을 받았다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.12,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "도기·유리 제작",
+            "대장장이",
+            "상점(타베르나) 운영",
+            "해상 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 도시 거리에는 1층 상점 위에 다층 셋집(인술라)이 늘어섰다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.599998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·올리브·포도 농사",
+            "소작",
+            "세금 납부"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "헬레니즘 시대 그리스 본토는 인구 감소와 이주 문제를 겪었다고 폴리비오스가 기록했다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.2,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농장 노동",
+            "가사 노동",
+            "광산 노동"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "로마 노예는 해방되어 시민이 될 수 있었고, 해방노예 중 부자가 된 사람도 있었다."
+          ],
+          "sources": [
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce200-parthia",
+      "name": "파르티아",
+      "kind": "polity",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "아르사케스 왕",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "귀족 회의",
+            "원정"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "석류"
+          ],
+          "historyTips": [
+            "파르티아는 셀레우코스로부터 독립해 이란 동북부에서 세력을 키우고 있었다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "부족 귀족",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "기병대 지휘",
+            "영지 경영",
+            "궁정 출사"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "석류"
+          ],
+          "historyTips": [
+            "이란 왕조들의 중장기병은 로마군에게도 두려운 존재였다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "마기 사제",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "조로아스터교 불의 신전 의례",
+            "왕실 자문",
+            "법 판결"
+          ],
+          "meals": [
+            "밀빵",
+            "요구르트",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "조로아스터교 사제는 신성한 불을 꺼뜨리지 않고 지켰다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "기마 궁수",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "중장기병 복무",
+            "국경 수비",
+            "원정"
+          ],
+          "meals": [
+            "밀빵",
+            "요구르트",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "'파르티아 사법'은 말을 타고 후퇴하며 뒤로 활을 쏘는 기술이다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "은세공",
+            "직조",
+            "실크로드 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "요구르트",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "이란의 은세공 접시는 실크로드를 따라 중국까지 전해졌다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.829995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "카나트 관리",
+            "세금 납부"
+          ],
+          "meals": [
+            "보리빵",
+            "요구르트",
+            "양파"
+          ],
+          "historyTips": [
+            "파르티아는 실크로드 중계 무역의 길목을 차지했다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce200-xiongnu",
+      "name": "흉노 유목 제국",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "bce200-northeast-asia",
+      "name": "고조선·한반도·만주와 야요이 일본",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "노태돈 외 『한국 고대사』 / 삼국사기"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce200-europe",
+      "name": "켈트·게르만·이베리아 부족 사회",
+      "kind": "region",
+      "population": 15,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce200-africa",
+      "name": "사하라 이남 아프리카(쿠시 메로에 포함)",
+      "kind": "region",
+      "population": 9,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce200-mesoamerica",
+      "name": "메소아메리카(마야 선고전기 등)",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce200-americas",
+      "name": "기타 아메리카 원주민",
+      "kind": "region",
+      "population": 6,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce200-southeast-asia",
+      "name": "동남아시아 농경 사회",
+      "kind": "region",
+      "population": 6,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce200-steppe",
+      "name": "기타 초원 유목민",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "bce200-arabia",
+      "name": "아라비아",
+      "kind": "region",
+      "population": 1.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "bce200-foragers",
+      "name": "전 세계 수렵채집민",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "hunter-gatherer"
+    }
+  ]
+}

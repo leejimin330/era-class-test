@@ -1,0 +1,2131 @@
+{
+  "id": "bce1300",
+  "group": "history",
+  "year": -1300,
+  "name": "기원전 1300년의 세계",
+  "yearLabel": "기원전 1300년경",
+  "fictional": false,
+  "worldPopulation": 46.1,
+  "sources": [
+    "McEvedy & Jones (1978) Atlas of World Population History",
+    "Biraben (1980) An Essay Concerning Mankind's Evolution",
+    "Klein Goldewijk et al. (2017) HYDE 3.2 — 장기 인구 재구성",
+    "지역 합산 약 4,600만"
+  ],
+  "polities": [
+    {
+      "id": "bce1300-egypt",
+      "name": "신왕국 이집트",
+      "kind": "polity",
+      "population": 3.5,
+      "populationConfidence": "low",
+      "sources": [
+        "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "파라오 람세스 2세와 왕족",
+          "share": 2e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "신전 의례 주관",
+            "거대 건축 지시",
+            "나일 범람 축제 주재"
+          ],
+          "meals": [
+            "구운 거위",
+            "밀빵",
+            "포도주",
+            "무화과"
+          ],
+          "historyTips": [
+            "람세스 2세(재위 기원전 1279~1213년)는 66년 넘게 재위하며 자녀를 100명 가까이 두었다고 전한다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "고위 관리·귀족",
+          "share": 0.005,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "주(노모스) 통치",
+            "관개 감독",
+            "자기 무덤 준비"
+          ],
+          "meals": [
+            "구운 거위",
+            "밀빵",
+            "포도주",
+            "무화과"
+          ],
+          "historyTips": [
+            "이집트 고위 관리는 살아 있을 때부터 자기 무덤을 짓고 벽화를 준비했다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "신관·서기",
+          "share": 0.015,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "서기 업무(상형문자 기록)",
+            "천문 관측으로 범람 예측"
+          ],
+          "meals": [
+            "보리빵",
+            "맥주",
+            "양파",
+            "말린 생선"
+          ],
+          "historyTips": [
+            "아문 신전은 신왕국 시대 이집트 최대의 토지 소유자 중 하나였다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사·전차병",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "국경 요새 수비",
+            "원정",
+            "전차 훈련"
+          ],
+          "meals": [
+            "보리빵",
+            "맥주",
+            "양파",
+            "말린 생선"
+          ],
+          "historyTips": [
+            "기원전 1274년 카데시 전투 뒤 이집트와 히타이트는 현존 최고(最古)급의 평화 조약을 맺었다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "석공",
+            "파피루스 제작",
+            "금 세공"
+          ],
+          "meals": [
+            "보리빵",
+            "맥주",
+            "양파",
+            "말린 생선"
+          ],
+          "historyTips": [
+            "왕실 무덤을 짓던 데이르 엘메디나 장인 마을에는 파업 기록까지 남아 있다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.85998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "범람기 국가 공사 부역",
+            "수확세 납부"
+          ],
+          "meals": [
+            "보리빵",
+            "묽은 맥주",
+            "양파",
+            "파피루스 줄기"
+          ],
+          "historyTips": [
+            "이집트 농민은 나일강 범람 주기에 맞춰 씨를 뿌리고, 수확의 일부를 세금으로 냈다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예·포로 노동자",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "신전·왕실 노동",
+            "채석장 노동",
+            "가사 노동"
+          ],
+          "meals": [
+            "보리빵",
+            "묽은 맥주",
+            "양파",
+            "파피루스 줄기"
+          ],
+          "historyTips": [
+            "이집트에는 전쟁 포로 출신 노예도 있었지만, 노동력의 대부분은 부역하는 농민이었다."
+          ],
+          "sources": [
+            "Butzer (1976) Early Hydraulic Civilization in Egypt — 이집트 인구 추정",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce1300-hittite",
+      "name": "히타이트 왕국",
+      "kind": "polity",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "Bryce (2005) The Kingdom of the Hittites"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "히타이트 대왕과 왕족",
+          "share": 5e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "신전 봉헌",
+            "운하 공사 지시",
+            "전쟁과 조약"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "히타이트 수도 하투샤의 점토판 문서고에서 수만 점의 기록이 발굴됐다."
+          ],
+          "sources": [
+            "Bryce (2005) The Kingdom of the Hittites",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족·전차 전사",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "궁정 관리",
+            "영지 경영",
+            "전차 부대 지휘"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "메소포타미아 궁정은 점토판에 쐐기문자로 행정 기록을 남겼다."
+          ],
+          "sources": [
+            "Bryce (2005) The Kingdom of the Hittites",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "신관·서기",
+          "share": 0.015,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "점토판 기록",
+            "점성술·점복"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "히타이트는 '천 명의 신'이라 불릴 만큼 정복지 신들을 받아들였다."
+          ],
+          "sources": [
+            "Bryce (2005) The Kingdom of the Hittites",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성벽 수비",
+            "원정",
+            "전차·궁술 훈련"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "히타이트 전차는 세 명이 타는 무거운 전차로 유명했다."
+          ],
+          "sources": [
+            "Bryce (2005) The Kingdom of the Hittites",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인·상인",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "점토판 서기 보조",
+            "직조",
+            "금속 세공",
+            "원거리 교역"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "메소포타미아 상인들은 아나톨리아까지 주석·직물을 실어 나르며 점토판 편지를 주고받았다."
+          ],
+          "sources": [
+            "Bryce (2005) The Kingdom of the Hittites",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.81495,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "보리 농사",
+            "관개 수로 관리",
+            "대추야자 재배"
+          ],
+          "meals": [
+            "보리죽",
+            "묽은 맥주",
+            "대추야자"
+          ],
+          "historyTips": [
+            "히타이트 법전은 농지·가축에 관한 배상 규정을 자세히 담고 있다."
+          ],
+          "sources": [
+            "Bryce (2005) The Kingdom of the Hittites",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "예속민·포로",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "신전 노동",
+            "가사 노동",
+            "건설 노동"
+          ],
+          "meals": [
+            "보리죽",
+            "묽은 맥주",
+            "대추야자"
+          ],
+          "historyTips": [
+            "메소포타미아에는 전쟁 포로와 채무 노예가 있었고, 법전에는 노예에 관한 조항도 들어 있었다."
+          ],
+          "sources": [
+            "Bryce (2005) The Kingdom of the Hittites",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce1300-assyria",
+      "name": "중기 아시리아",
+      "kind": "polity",
+      "population": 1,
+      "populationConfidence": "low",
+      "sources": [
+        "Postgate (1992) Early Mesopotamia"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "아시리아 왕",
+          "share": 0.0001,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "신전 봉헌",
+            "운하 공사 지시",
+            "전쟁과 조약"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "중기 아시리아 왕국은 이 무렵 아수르를 중심으로 세력을 넓히기 시작했다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "궁정 관리",
+            "영지 경영",
+            "전차 부대 지휘"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "메소포타미아 궁정은 점토판에 쐐기문자로 행정 기록을 남겼다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "신관·서기",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "점토판 기록",
+            "점성술·점복"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "수메르 신전은 거대한 토지와 노동자를 거느린 경제 중심이었다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성벽 수비",
+            "원정",
+            "전차·궁술 훈련"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "메소포타미아 군대는 이른 시기부터 바퀴 달린 전차를 썼다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "점토판 서기 보조",
+            "직조",
+            "금속 세공",
+            "원거리 교역"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "메소포타미아 상인들은 아나톨리아까지 주석·직물을 실어 나르며 점토판 편지를 주고받았다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.7899,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "보리 농사",
+            "관개 수로 관리",
+            "대추야자 재배"
+          ],
+          "meals": [
+            "보리죽",
+            "묽은 맥주",
+            "대추야자"
+          ],
+          "historyTips": [
+            "아시리아 농민은 국가 부역과 원정 동원을 함께 감당했다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "포로·예속민",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "신전 노동",
+            "가사 노동",
+            "건설 노동"
+          ],
+          "meals": [
+            "보리죽",
+            "묽은 맥주",
+            "대추야자"
+          ],
+          "historyTips": [
+            "아시리아는 정복지 주민을 대규모로 강제 이주시키는 정책으로 악명 높았다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce1300-babylon",
+      "name": "카시트 바빌로니아",
+      "kind": "polity",
+      "population": 1,
+      "populationConfidence": "low",
+      "sources": [
+        "Postgate (1992) Early Mesopotamia"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "카시트 왕조 바빌론 왕",
+          "share": 0.0001,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "신전 봉헌",
+            "운하 공사 지시",
+            "전쟁과 조약"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "아마르나 서신에는 바빌론 왕이 이집트 파라오에게 금을 더 보내 달라고 조르는 편지가 남아 있다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "궁정 관리",
+            "영지 경영",
+            "전차 부대 지휘"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "메소포타미아 궁정은 점토판에 쐐기문자로 행정 기록을 남겼다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "신관·서기",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "점토판 기록",
+            "점성술·점복"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "바빌론의 서기 학교에서는 수메르어를 고전어로 배웠다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "성벽 수비",
+            "원정",
+            "전차·궁술 훈련"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "메소포타미아 군대는 이른 시기부터 바퀴 달린 전차를 썼다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "점토판 서기 보조",
+            "직조",
+            "금속 세공",
+            "원거리 교역"
+          ],
+          "meals": [
+            "보리빵",
+            "보리 맥주",
+            "대추야자",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "메소포타미아 상인들은 아나톨리아까지 주석·직물을 실어 나르며 점토판 편지를 주고받았다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.8199,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "보리 농사",
+            "관개 수로 관리",
+            "대추야자 재배"
+          ],
+          "meals": [
+            "보리죽",
+            "묽은 맥주",
+            "대추야자"
+          ],
+          "historyTips": [
+            "카시트 왕들은 토지 하사 내용을 '쿠두루'라는 경계석에 새겼다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "신전 노동",
+            "가사 노동",
+            "건설 노동"
+          ],
+          "meals": [
+            "보리죽",
+            "묽은 맥주",
+            "대추야자"
+          ],
+          "historyTips": [
+            "메소포타미아에는 전쟁 포로와 채무 노예가 있었고, 법전에는 노예에 관한 조항도 들어 있었다."
+          ],
+          "sources": [
+            "Postgate (1992) Early Mesopotamia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce1300-mycenae",
+      "name": "미케네 그리스",
+      "kind": "polity",
+      "population": 0.6,
+      "populationConfidence": "low",
+      "sources": [
+        "Chadwick (1976) The Mycenaean World"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "미케네 왕(와낙스)",
+          "share": 0.0001,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "원로원·궁정 회의",
+            "개선식",
+            "공공건물 헌정"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "미케네의 사자문은 기원전 1250년 무렵 세워졌다."
+          ],
+          "sources": [
+            "Chadwick (1976) The Mycenaean World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "궁정 귀족",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "원로원 활동",
+            "대농장(빌라) 경영",
+            "후원자 노릇"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "선형문자 B 점토판은 그리스어의 가장 오래된 기록으로, 궁정의 양모·곡물 관리를 보여준다."
+          ],
+          "sources": [
+            "Chadwick (1976) The Mycenaean World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "신관",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "조점(새 점)",
+            "축제 주관"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마의 공적 제사는 귀족 정치인들이 사제직을 겸하며 주관했다."
+          ],
+          "sources": [
+            "Chadwick (1976) The Mycenaean World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "전차 전사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "군단 복무",
+            "도로·요새 건설",
+            "국경 수비"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 군단병은 하루 수십 km 행군하고 저녁마다 진지를 쌓는 훈련을 받았다."
+          ],
+          "sources": [
+            "Chadwick (1976) The Mycenaean World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "도기·유리 제작",
+            "대장장이",
+            "상점(타베르나) 운영",
+            "해상 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "미케네 궁정은 청동 장인과 향유 생산자를 직접 관리했다."
+          ],
+          "sources": [
+            "Chadwick (1976) The Mycenaean World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.7999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·올리브·포도 농사",
+            "소작",
+            "세금 납부"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "미케네 궁정 경제는 농민의 공납과 부역 위에 세워졌다."
+          ],
+          "sources": [
+            "Chadwick (1976) The Mycenaean World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농장 노동",
+            "가사 노동",
+            "광산 노동"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "선형문자 B 기록에는 노예로 보이는 '도에로' 같은 호칭이 등장한다."
+          ],
+          "sources": [
+            "Chadwick (1976) The Mycenaean World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce1300-shang",
+      "name": "상(商)",
+      "kind": "polity",
+      "population": 4,
+      "populationConfidence": "low",
+      "sources": [
+        "Keightley (2000) The Ancestral Landscape — 상 왕조 갑골",
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "상나라 왕과 왕족",
+          "share": 5e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "조회 주재",
+            "제천 의례",
+            "순행"
+          ],
+          "meals": [
+            "고기 요리",
+            "기장밥",
+            "술",
+            "대추"
+          ],
+          "historyTips": [
+            "기원전 1300년 무렵 반경이 은(지금의 안양)으로 도읍을 옮겼고, 그곳에서 갑골문이 대량 출토됐다."
+          ],
+          "sources": [
+            "Keightley (2000) The Ancestral Landscape — 상 왕조 갑골",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족·제후",
+          "share": 0.005,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직 근무",
+            "봉토·장원 관리",
+            "전차·기병 지휘"
+          ],
+          "meals": [
+            "고기 요리",
+            "기장밥",
+            "술",
+            "대추"
+          ],
+          "historyTips": [
+            "상 왕비이자 장군이던 부호의 무덤에서는 청동기·옥기 수백 점이 출토됐다."
+          ],
+          "sources": [
+            "Keightley (2000) The Ancestral Landscape — 상 왕조 갑골",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "정인(점복관)",
+          "share": 0.003,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "점복·제사",
+            "역법 계산",
+            "문서 담당"
+          ],
+          "meals": [
+            "조밥",
+            "콩잎국",
+            "장(醬)",
+            "절인 채소"
+          ],
+          "historyTips": [
+            "상 왕실은 제사·전쟁·날씨 등 거의 모든 일을 거북 등딱지 점으로 물었다."
+          ],
+          "sources": [
+            "Keightley (2000) The Ancestral Landscape — 상 왕조 갑골",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "전차병·병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "변경 수비",
+            "둔전 경작",
+            "원정"
+          ],
+          "meals": [
+            "조밥",
+            "콩잎국",
+            "장(醬)",
+            "절인 채소"
+          ],
+          "historyTips": [
+            "중국 왕조들은 변경에 병사를 보내 농사를 짓게 하며 수비하는 둔전을 운영했다."
+          ],
+          "sources": [
+            "Keightley (2000) The Ancestral Landscape — 상 왕조 갑골",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "청동 장인",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "청동·철기 주조",
+            "비단 직조",
+            "칠기 제작",
+            "소금 생산"
+          ],
+          "meals": [
+            "조밥",
+            "콩잎국",
+            "장(醬)",
+            "절인 채소"
+          ],
+          "historyTips": [
+            "상의 청동 제기는 거푸집을 여러 조각으로 나눠 만드는 정교한 주조 기술로 만들어졌다."
+          ],
+          "sources": [
+            "Keightley (2000) The Ancestral Landscape — 상 왕조 갑골",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.87195,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "조·기장·밀 농사",
+            "요역(노역) 동원",
+            "조세 납부",
+            "양잠"
+          ],
+          "meals": [
+            "거친 조밥",
+            "콩잎국",
+            "소금 절임 채소"
+          ],
+          "historyTips": [
+            "상나라 농민은 기장·조를 주로 재배했다."
+          ],
+          "sources": [
+            "Keightley (2000) The Ancestral Landscape — 상 왕조 갑골",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예·포로",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "관노비",
+            "가내 노동",
+            "공방·광산 노역"
+          ],
+          "meals": [
+            "거친 조밥",
+            "콩잎국",
+            "소금 절임 채소"
+          ],
+          "historyTips": [
+            "상 왕릉에서는 제사 희생으로 바쳐진 포로 유골이 대량 발견됐다."
+          ],
+          "sources": [
+            "Keightley (2000) The Ancestral Landscape — 상 왕조 갑골",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce1300-levant",
+      "name": "레반트 도시국가(우가리트 등)",
+      "kind": "region",
+      "population": 1,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce1300-vedic",
+      "name": "인도 베다 시대 부족 사회",
+      "kind": "region",
+      "population": 8,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India",
+        "Thapar (2002) Early India"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce1300-china",
+      "name": "중국 기타 청동기 족장 사회",
+      "kind": "region",
+      "population": 4,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce1300-europe",
+      "name": "유럽 청동기 족장 사회",
+      "kind": "region",
+      "population": 7,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce1300-africa",
+      "name": "사하라 이남 아프리카",
+      "kind": "region",
+      "population": 3.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce1300-olmec",
+      "name": "올멕 문명",
+      "kind": "region",
+      "population": 0.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce1300-americas",
+      "name": "기타 아메리카 원주민",
+      "kind": "region",
+      "population": 2.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce1300-southeast-asia",
+      "name": "동남아시아 농경 사회",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce1300-steppe",
+      "name": "유라시아 초원 목축민",
+      "kind": "region",
+      "population": 1.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "bce1300-foragers",
+      "name": "전 세계 수렵채집민",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "hunter-gatherer"
+    }
+  ]
+}

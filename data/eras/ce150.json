@@ -1,0 +1,1798 @@
+{
+  "id": "ce150",
+  "group": "history",
+  "year": 150,
+  "name": "150년의 세계",
+  "yearLabel": "150년경",
+  "fictional": false,
+  "worldPopulation": 228,
+  "sources": [
+    "McEvedy & Jones (1978) Atlas of World Population History",
+    "Biraben (1980) An Essay Concerning Mankind's Evolution",
+    "Klein Goldewijk et al. (2017) HYDE 3.2 — 장기 인구 재구성",
+    "Frier (2000) Demography, in Cambridge Ancient History XI — 164년 로마 인구 약 6,100만",
+    "『후한서』 군국지 — 157년 등록 인구 약 5,650만",
+    "지역 합산 약 2억 2,800만"
+  ],
+  "polities": [
+    {
+      "id": "ce150-rome",
+      "name": "로마 제국",
+      "kind": "polity",
+      "population": 65,
+      "populationConfidence": "mid",
+      "sources": [
+        "Frier (2000) Demography, in Cambridge Ancient History XI — 164년 로마 인구 약 6,100만",
+        "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "황제 안토니누스 피우스와 황실",
+          "share": 5e-08,
+          "shareConfidence": "mid",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "원로원·궁정 회의",
+            "개선식",
+            "공공건물 헌정"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "안토니누스 피우스(재위 138~161)의 치세는 큰 전쟁 없이 평화로워 '로마의 평화'의 절정으로 꼽힌다."
+          ],
+          "sources": [
+            "Frier (2000) Demography, in Cambridge Ancient History XI — 164년 로마 인구 약 6,100만",
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "원로원·기사 신분",
+          "share": 0.0005,
+          "shareConfidence": "mid",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "원로원 활동",
+            "대농장(빌라) 경영",
+            "후원자 노릇"
+          ],
+          "meals": [
+            "구운 고기",
+            "굴",
+            "포도주",
+            "꿀 과자"
+          ],
+          "historyTips": [
+            "원로원 의원은 약 600명, 기사 신분은 수만 명 수준이었다고 추정된다."
+          ],
+          "sources": [
+            "Frier (2000) Demography, in Cambridge Ancient History XI — 164년 로마 인구 약 6,100만",
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "사제·지방 유력자",
+          "share": 0.005,
+          "shareConfidence": "mid",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "신전 제사",
+            "조점(새 점)",
+            "축제 주관"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마의 공적 제사는 귀족 정치인들이 사제직을 겸하며 주관했다."
+          ],
+          "sources": [
+            "Frier (2000) Demography, in Cambridge Ancient History XI — 164년 로마 인구 약 6,100만",
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "군단·보조군 병사",
+          "share": 0.006,
+          "shareConfidence": "mid",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "군단 복무",
+            "도로·요새 건설",
+            "국경 수비"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 상비군은 약 30만~40만 명으로 추정되며, 보조군 병사는 25년 복무 후 시민권을 받았다."
+          ],
+          "sources": [
+            "Frier (2000) Demography, in Cambridge Ancient History XI — 164년 로마 인구 약 6,100만",
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "도시 장인·상인",
+          "share": 0.12,
+          "shareConfidence": "mid",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "도기·유리 제작",
+            "대장장이",
+            "상점(타베르나) 운영",
+            "해상 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "치즈",
+            "가룸(생선 소스)"
+          ],
+          "historyTips": [
+            "로마 도시 거리에는 1층 상점 위에 다층 셋집(인술라)이 늘어섰다."
+          ],
+          "sources": [
+            "Frier (2000) Demography, in Cambridge Ancient History XI — 164년 로마 인구 약 6,100만",
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민·소작농(콜로누스)",
+          "share": 0.76849995,
+          "shareConfidence": "mid",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·올리브·포도 농사",
+            "소작",
+            "세금 납부"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "로마 제국 인구의 대부분은 도시가 아니라 농촌에서 살았다."
+          ],
+          "sources": [
+            "Frier (2000) Demography, in Cambridge Ancient History XI — 164년 로마 인구 약 6,100만",
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노예",
+          "share": 0.1,
+          "shareConfidence": "mid",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농장 노동",
+            "가사 노동",
+            "광산 노동"
+          ],
+          "meals": [
+            "풀스(곡물죽)",
+            "콩",
+            "양파",
+            "포스카(식초 물)"
+          ],
+          "historyTips": [
+            "이탈리아의 노예 비율은 높았지만 제국 전체로는 대략 10% 안팎으로 추정된다."
+          ],
+          "sources": [
+            "Frier (2000) Demography, in Cambridge Ancient History XI — 164년 로마 인구 약 6,100만",
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce150-han",
+      "name": "후한",
+      "kind": "polity",
+      "population": 56.5,
+      "populationConfidence": "mid",
+      "sources": [
+        "『후한서』 군국지 — 157년 등록 인구 약 5,650만"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "후한 환제와 황족",
+          "share": 5e-08,
+          "shareConfidence": "mid",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "조회 주재",
+            "제천 의례",
+            "순행"
+          ],
+          "meals": [
+            "고기 요리",
+            "기장밥",
+            "술",
+            "대추"
+          ],
+          "historyTips": [
+            "후한 말 환제(재위 146~168) 시기에는 환관과 외척의 권력 다툼이 극심했다."
+          ],
+          "sources": [
+            "『후한서』 군국지 — 157년 등록 인구 약 5,650만",
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "호족·관료",
+          "share": 0.005,
+          "shareConfidence": "mid",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "관직 근무",
+            "봉토·장원 관리",
+            "전차·기병 지휘"
+          ],
+          "meals": [
+            "고기 요리",
+            "기장밥",
+            "술",
+            "대추"
+          ],
+          "historyTips": [
+            "후한의 지방 호족은 대토지와 사병을 거느리며 세력을 키웠다."
+          ],
+          "sources": [
+            "『후한서』 군국지 — 157년 등록 인구 약 5,650만",
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "유학자·관리 후보",
+          "share": 0.01,
+          "shareConfidence": "mid",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "점복·제사",
+            "역법 계산",
+            "문서 담당"
+          ],
+          "meals": [
+            "조밥",
+            "콩잎국",
+            "장(醬)",
+            "절인 채소"
+          ],
+          "historyTips": [
+            "후한은 유교 경전 지식을 갖춘 인재를 추천받아 관리로 삼았다(효렴)."
+          ],
+          "sources": [
+            "『후한서』 군국지 — 157년 등록 인구 약 5,650만",
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.02,
+          "shareConfidence": "mid",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "변경 수비",
+            "둔전 경작",
+            "원정"
+          ],
+          "meals": [
+            "조밥",
+            "콩잎국",
+            "장(醬)",
+            "절인 채소"
+          ],
+          "historyTips": [
+            "중국 왕조들은 변경에 병사를 보내 농사를 짓게 하며 수비하는 둔전을 운영했다."
+          ],
+          "sources": [
+            "『후한서』 군국지 — 157년 등록 인구 약 5,650만",
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.05,
+          "shareConfidence": "mid",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "청동·철기 주조",
+            "비단 직조",
+            "칠기 제작",
+            "소금 생산"
+          ],
+          "meals": [
+            "조밥",
+            "콩잎국",
+            "장(醬)",
+            "절인 채소"
+          ],
+          "historyTips": [
+            "채륜은 105년 종이 제작법을 개량해 황제에게 바쳤다."
+          ],
+          "sources": [
+            "『후한서』 군국지 — 157년 등록 인구 약 5,650만",
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.87499995,
+          "shareConfidence": "mid",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "조·기장·밀 농사",
+            "요역(노역) 동원",
+            "조세 납부",
+            "양잠"
+          ],
+          "meals": [
+            "거친 조밥",
+            "콩잎국",
+            "소금 절임 채소"
+          ],
+          "historyTips": [
+            "157년 후한의 등록 인구는 약 5,650만 명이었다.",
+            "후한 농민 상당수는 호족의 소작인이 되어 갔다."
+          ],
+          "sources": [
+            "『후한서』 군국지 — 157년 등록 인구 약 5,650만",
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "노비",
+          "share": 0.04,
+          "shareConfidence": "mid",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "관노비",
+            "가내 노동",
+            "공방·광산 노역"
+          ],
+          "meals": [
+            "거친 조밥",
+            "콩잎국",
+            "소금 절임 채소"
+          ],
+          "historyTips": [
+            "고대 중국에는 죄수와 그 가족을 관노비로 삼는 제도가 있었다."
+          ],
+          "sources": [
+            "『후한서』 군국지 — 157년 등록 인구 약 5,650만",
+            "Loewe (2006) The Government of the Qin and Han Empires",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce150-parthia",
+      "name": "파르티아",
+      "kind": "polity",
+      "population": 10,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "파르티아 왕(볼로가세스 4세)",
+          "share": 5e-07,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 의례",
+            "귀족 회의",
+            "원정"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "석류"
+          ],
+          "historyTips": [
+            "볼로가세스 4세는 161년 로마령 아르메니아를 공격했다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "대귀족 가문",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "기병대 지휘",
+            "영지 경영",
+            "궁정 출사"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "석류"
+          ],
+          "historyTips": [
+            "파르티아 왕은 수렌·카렌 같은 대귀족 가문의 지지에 의존했다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "마기 사제",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "조로아스터교 불의 신전 의례",
+            "왕실 자문",
+            "법 판결"
+          ],
+          "meals": [
+            "밀빵",
+            "요구르트",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "조로아스터교 사제는 신성한 불을 꺼뜨리지 않고 지켰다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "중장기병·기마 궁수",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "중장기병 복무",
+            "국경 수비",
+            "원정"
+          ],
+          "meals": [
+            "밀빵",
+            "요구르트",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "'파르티아 사법'은 말을 타고 후퇴하며 뒤로 활을 쏘는 기술이다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "은세공",
+            "직조",
+            "실크로드 교역"
+          ],
+          "meals": [
+            "밀빵",
+            "요구르트",
+            "렌즈콩"
+          ],
+          "historyTips": [
+            "이란의 은세공 접시는 실크로드를 따라 중국까지 전해졌다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.8299995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "카나트 관리",
+            "세금 납부"
+          ],
+          "meals": [
+            "보리빵",
+            "요구르트",
+            "양파"
+          ],
+          "historyTips": [
+            "파르티아는 로마와 중국 사이 비단 교역의 중개자였다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "예속민",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "건설 노동",
+            "가사 노동",
+            "농장 노동"
+          ],
+          "meals": [
+            "보리빵",
+            "요구르트",
+            "양파"
+          ],
+          "historyTips": [
+            "이란 왕조들은 전쟁 포로를 도시 건설에 동원하기도 했다."
+          ],
+          "sources": [
+            "Daryaee (2009) Sasanian Persia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce150-kushan",
+      "name": "쿠샨 제국",
+      "kind": "polity",
+      "population": 10,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "쿠샨 황제 카니슈카 계열",
+          "share": 5e-07,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁과 동맹",
+            "사원 후원"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 커리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "쿠샨 왕조의 카니슈카는 불교를 후원했고, 간다라에서는 그리스 양식의 불상이 만들어졌다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "영지 관리",
+            "기병·코끼리 부대 지휘",
+            "궁정 출사"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 커리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "인도 왕국들의 귀족은 영지 수입으로 병력을 유지할 의무를 졌다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "승려·브라만",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사원 의례",
+            "산스크리트 경전 교육",
+            "왕실 자문"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "브라만은 제사와 학문을 독점하며 사회 위계의 꼭대기에 섰다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "기병",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "요새 수비",
+            "원정",
+            "코끼리 부대 복무"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "인도 군대에서 전투 코끼리는 수천 년간 상징적 병력이었다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.09,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "면직물 직조",
+            "금속 세공",
+            "해상·대상 교역"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "쿠샨은 로마·인도·중국을 잇는 교역로를 장악하고 금화를 대량 발행했다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.7699995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·밀·기장 농사",
+            "소 돌보기",
+            "지세 납부"
+          ],
+          "meals": [
+            "거친 곡물",
+            "달",
+            "버터밀크"
+          ],
+          "historyTips": [
+            "쿠샨 제국은 중앙아시아에서 갠지스 유역까지 걸쳐 있었다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "천대받은 노동 계층",
+          "share": 0.06,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "천대받은 노동(청소·가죽)",
+            "가사 노동",
+            "농업 품팔이"
+          ],
+          "meals": [
+            "거친 곡물",
+            "달",
+            "버터밀크"
+          ],
+          "historyTips": [
+            "카스트 위계 속에서 '부정하다'고 여겨진 노동을 맡은 사람들은 오랫동안 차별받았다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce150-satavahana",
+      "name": "사타바하나 왕국",
+      "kind": "polity",
+      "population": 15,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India"
+      ],
+      "classes": [
+        {
+          "id": "ruler",
+          "name": "사타바하나 왕",
+          "share": 5e-07,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            70
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁과 동맹",
+            "사원 후원"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 커리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "사타바하나 왕들은 어머니 이름을 왕명 앞에 붙였다(예: 가우타미푸트라 사타카르니)."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "귀족",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "영지 관리",
+            "기병·코끼리 부대 지휘",
+            "궁정 출사"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 커리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "인도 왕국들의 귀족은 영지 수입으로 병력을 유지할 의무를 졌다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "priest",
+          "name": "브라만·승려",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            62
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "사원 의례",
+            "산스크리트 경전 교육",
+            "왕실 자문"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "브라만은 제사와 학문을 독점하며 사회 위계의 꼭대기에 섰다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "병사",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "요새 수비",
+            "원정",
+            "코끼리 부대 복무"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "인도 군대에서 전투 코끼리는 수천 년간 상징적 병력이었다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "상인·장인",
+          "share": 0.09,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            52
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "면직물 직조",
+            "금속 세공",
+            "해상·대상 교역"
+          ],
+          "meals": [
+            "쌀밥이나 짜파티",
+            "달(렌즈콩)",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "데칸의 상인들은 로마와 활발히 교역했고, 남인도에서는 로마 금화가 다량 출토된다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "peasant",
+          "name": "농민",
+          "share": 0.7499995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼·밀·기장 농사",
+            "소 돌보기",
+            "지세 납부"
+          ],
+          "meals": [
+            "거친 곡물",
+            "달",
+            "버터밀크"
+          ],
+          "historyTips": [
+            "데칸 고원의 불교 석굴 사원은 상인과 농민의 기부로 지어졌다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "unfree",
+          "name": "천대받은 노동 계층",
+          "share": 0.07,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "천대받은 노동(청소·가죽)",
+            "가사 노동",
+            "농업 품팔이"
+          ],
+          "meals": [
+            "거친 곡물",
+            "달",
+            "버터밀크"
+          ],
+          "historyTips": [
+            "카스트 위계 속에서 '부정하다'고 여겨진 노동을 맡은 사람들은 오랫동안 차별받았다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce150-india",
+      "name": "남인도 왕국들(체라·촐라·판디아 등)",
+      "kind": "region",
+      "population": 20,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "ce150-steppe",
+      "name": "흉노·선비 등 초원 유목민",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "ce150-northeast-asia",
+      "name": "고구려·삼한과 왜",
+      "kind": "region",
+      "population": 4,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "노태돈 외 『한국 고대사』 / 삼국사기"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "ce150-africa",
+      "name": "사하라 이남 아프리카(악숨 포함)",
+      "kind": "region",
+      "population": 12,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "ce150-mesoamerica",
+      "name": "테오티우아칸과 메소아메리카",
+      "kind": "region",
+      "population": 4,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "ce150-americas",
+      "name": "기타 아메리카 원주민",
+      "kind": "region",
+      "population": 8,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "ce150-europe",
+      "name": "게르만·슬라브 등 제국 밖 유럽 부족",
+      "kind": "region",
+      "population": 8,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "ce150-southeast-asia",
+      "name": "동남아시아(푸난 등)",
+      "kind": "region",
+      "population": 7,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "ce150-arabia",
+      "name": "아라비아",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "ce150-foragers",
+      "name": "전 세계 수렵채집민",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "hunter-gatherer"
+    }
+  ]
+}
