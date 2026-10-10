@@ -16,7 +16,9 @@ export function rarityOf(p: number): Rarity {
 export type Outcome = {
   eraId: string; polityId: string; classId: string;
   eraLabel: string; polityName: string; className: string;
-  p: number; rarity: Rarity;
+  p: number;        // 전체 확률 (화면 표시용)
+  pInEra: number;   // 시대 내 확률 = P(정체|시대) × P(계급|정체) — 레어도 기준
+  rarity: Rarity;
 };
 
 export function computeOutcomes(eras: ResolvedEra[], weights: { history: number; future: number }): Outcome[] {
@@ -34,8 +36,8 @@ export function computeOutcomes(eras: ResolvedEra[], weights: { history: number;
         const pPol = pol.population / popSum;
         const shareSum = pol.classes.reduce((s, c) => s + c.share, 0);
         for (const c of pol.classes) {
-          const p = pEra * pPol * (c.share / shareSum);
-          out.push({ eraId: era.id, polityId: pol.id, classId: c.id, eraLabel: era.yearLabel, polityName: pol.name, className: c.name, p, rarity: rarityOf(p) });
+          const pInEra = pPol * (c.share / shareSum);
+          out.push({ eraId: era.id, polityId: pol.id, classId: c.id, eraLabel: era.yearLabel, polityName: pol.name, className: c.name, p: pEra * pInEra, pInEra, rarity: rarityOf(pInEra) });
         }
       }
     }

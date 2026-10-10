@@ -35,7 +35,16 @@ describe("computeOutcomes", () => {
     const o = computeOutcomes([era("h1", "history", [25, 75])], W);
     const king = o.find((x) => x.polityId === "h1-p0" && x.classId === "king")!;
     expect(king.p).toBeCloseTo(0.25 * 0.000001, 15);
+    expect(king.pInEra).toBeCloseTo(0.25 * 0.000001, 15);
     expect(king.rarity).toBe("legendary");
+  });
+  it("grades rarity by within-era probability, not total probability", () => {
+    const eras = Array.from({ length: 10 }, (_, i) => era(`h${i}`, "history", [5, 95]));
+    const o = computeOutcomes(eras, W);
+    const smallFarmer = o.find((x) => x.polityId === "h0-p0" && x.classId === "farmer")!;
+    expect(smallFarmer.p).toBeCloseTo(0.005, 6);
+    expect(smallFarmer.pInEra).toBeCloseTo(0.05, 6);
+    expect(smallFarmer.rarity).toBe("common");
   });
   it("throws when all group weights of present groups are 0", () => {
     expect(() => computeOutcomes([era("h1", "history", [1])], { history: 0, future: 1 })).toThrow();
