@@ -1,0 +1,271 @@
+{
+  "id": "chiefdom",
+  "name": "족장 사회",
+  "classes": [
+    {
+      "id": "commoner",
+      "name": "평민 농부",
+      "share": 0.88,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        42
+      ],
+      "statBase": {
+        "body": [
+          11,
+          17
+        ],
+        "mind": [
+          4,
+          11
+        ],
+        "charm": [
+          5,
+          11
+        ],
+        "luck": [
+          4,
+          12
+        ]
+      },
+      "jobs": [
+        "농사",
+        "족장 공사 동원(무덤·성채)",
+        "어로"
+      ],
+      "meals": [
+        "잡곡죽",
+        "덩이줄기",
+        "생선",
+        "콩"
+      ],
+      "historyTips": [
+        "족장 사회는 국가보다 작지만 세습 지도자와 공물 체계를 갖춘 사회로, 거대한 무덤·기념물을 남기기도 했다."
+      ],
+      "sources": [
+        "Earle (1997) How Chiefs Come to Power"
+      ]
+    },
+    {
+      "id": "elite-kin",
+      "name": "족장 친족·엘리트",
+      "share": 0.03,
+      "shareConfidence": "low",
+      "lifespan": [
+        30,
+        55
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          17
+        ],
+        "charm": [
+          10,
+          17
+        ],
+        "luck": [
+          11,
+          18
+        ]
+      },
+      "jobs": [
+        "공물 관리",
+        "의례 주관",
+        "교역 통제"
+      ],
+      "meals": [
+        "고기 요리",
+        "발효주",
+        "곡물 떡"
+      ],
+      "historyTips": [
+        "족장 사회의 엘리트는 위신재(청동기·조개 장신구 등) 교역을 통제해 권력을 다졌다."
+      ],
+      "sources": [
+        "Earle (1997) How Chiefs Come to Power"
+      ]
+    },
+    {
+      "id": "artisan",
+      "name": "장인",
+      "share": 0.04,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        45
+      ],
+      "statBase": {
+        "body": [
+          9,
+          15
+        ],
+        "mind": [
+          9,
+          15
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          6,
+          13
+        ]
+      },
+      "jobs": [
+        "토기·청동 제작",
+        "직조",
+        "배 만들기"
+      ],
+      "meals": [
+        "잡곡죽",
+        "생선",
+        "콩"
+      ],
+      "historyTips": [
+        "전문 장인의 등장은 족장 사회 이후 사회 분화의 대표적 고고학 지표다."
+      ],
+      "sources": [
+        "Earle (1997) How Chiefs Come to Power"
+      ]
+    },
+    {
+      "id": "warrior",
+      "name": "전사",
+      "share": 0.04,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        38
+      ],
+      "statBase": {
+        "body": [
+          12,
+          18
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          5,
+          13
+        ]
+      },
+      "jobs": [
+        "족장 호위",
+        "습격·방어",
+        "공물 운반 호위"
+      ],
+      "meals": [
+        "잡곡죽",
+        "고기",
+        "발효주"
+      ],
+      "historyTips": [
+        "족장의 권력은 경제 통제, 이데올로기(의례), 무력의 세 기둥 위에 섰다는 것이 대표적 해석이다."
+      ],
+      "sources": [
+        "Earle (1997) How Chiefs Come to Power"
+      ]
+    },
+    {
+      "id": "chief",
+      "name": "족장",
+      "share": 0.0001,
+      "shareConfidence": "low",
+      "lifespan": [
+        30,
+        60
+      ],
+      "statBase": {
+        "body": [
+          6,
+          14
+        ],
+        "mind": [
+          10,
+          18
+        ],
+        "charm": [
+          12,
+          19
+        ],
+        "luck": [
+          17,
+          20
+        ]
+      },
+      "jobs": [
+        "공물 분배",
+        "전쟁 결정",
+        "제사장 겸직"
+      ],
+      "meals": [
+        "잔치 고기",
+        "발효주",
+        "귀한 수입 음식"
+      ],
+      "historyTips": [
+        "많은 족장 사회에서 족장은 신성한 혈통을 내세우며 제사장 역할을 겸했다."
+      ],
+      "sources": [
+        "Earle (1997) How Chiefs Come to Power"
+      ]
+    },
+    {
+      "id": "slave",
+      "name": "노예·포로",
+      "share": 0.0099,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        35
+      ],
+      "statBase": {
+        "body": [
+          10,
+          16
+        ],
+        "mind": [
+          4,
+          12
+        ],
+        "charm": [
+          4,
+          11
+        ],
+        "luck": [
+          1,
+          6
+        ]
+      },
+      "jobs": [
+        "밭일",
+        "노 젓기",
+        "물·땔감 운반"
+      ],
+      "meals": [
+        "잡곡죽",
+        "남은 음식",
+        "덩이줄기"
+      ],
+      "historyTips": [
+        "태평양 북서부 해안 원주민처럼 족장 사회에서도 노예제가 존재한 사례가 민족지에 기록되어 있다."
+      ],
+      "sources": [
+        "Murdock (1967) Ethnographic Atlas — 사회 계층·노예제 분포 코딩"
+      ]
+    }
+  ]
+}

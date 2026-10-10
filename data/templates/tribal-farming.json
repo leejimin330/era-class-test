@@ -1,0 +1,187 @@
+{
+  "id": "tribal-farming",
+  "name": "부족 농경 사회",
+  "classes": [
+    {
+      "id": "villager",
+      "name": "마을 농부",
+      "share": 0.86,
+      "shareConfidence": "low",
+      "lifespan": [
+        20,
+        40
+      ],
+      "statBase": {
+        "body": [
+          11,
+          17
+        ],
+        "mind": [
+          4,
+          11
+        ],
+        "charm": [
+          5,
+          11
+        ],
+        "luck": [
+          4,
+          12
+        ]
+      },
+      "jobs": [
+        "화전 농사",
+        "가축 돌보기",
+        "집 짓기",
+        "토기 빚기"
+      ],
+      "meals": [
+        "잡곡죽",
+        "얌·카사바 같은 덩이줄기",
+        "콩",
+        "가끔 사냥 고기"
+      ],
+      "historyTips": [
+        "국가가 없는 부족 농경 사회는 인류사 대부분의 기간 동안 세계 인구의 큰 몫을 차지했다."
+      ],
+      "sources": [
+        "Murdock (1967) Ethnographic Atlas — 사회 계층·노예제 분포 코딩",
+        "Gurven & Kaplan (2007) Longevity Among Hunter-Gatherers, Population and Development Review 33(2)"
+      ]
+    },
+    {
+      "id": "big-man",
+      "name": "유력자(빅맨)",
+      "share": 0.03,
+      "shareConfidence": "low",
+      "lifespan": [
+        30,
+        55
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          16
+        ],
+        "charm": [
+          11,
+          17
+        ],
+        "luck": [
+          8,
+          16
+        ]
+      },
+      "jobs": [
+        "잔치 열어 위신 쌓기",
+        "돼지·재화 교환 조직",
+        "분쟁 협상"
+      ],
+      "meals": [
+        "잔치용 돼지고기",
+        "덩이줄기",
+        "잡곡죽"
+      ],
+      "historyTips": [
+        "멜라네시아의 '빅맨'은 세습 귀족이 아니라 선물과 잔치로 영향력을 얻는 지도자였다."
+      ],
+      "sources": [
+        "Sahlins (1963) Poor Man, Rich Man, Big-Man, Chief, Comparative Studies in Society and History",
+        "Murdock (1967) Ethnographic Atlas — 사회 계층·노예제 분포 코딩"
+      ]
+    },
+    {
+      "id": "warrior",
+      "name": "전사",
+      "share": 0.08,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        35
+      ],
+      "statBase": {
+        "body": [
+          12,
+          18
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          5,
+          13
+        ]
+      },
+      "jobs": [
+        "습격과 방어",
+        "경계 순찰",
+        "사냥"
+      ],
+      "meals": [
+        "잡곡죽",
+        "사냥 고기",
+        "덩이줄기"
+      ],
+      "historyTips": [
+        "국가 이전 사회의 폭력 사망률은 지역에 따라 크게 달랐고, 일부 고고학 표본에서는 상당히 높게 나타난다."
+      ],
+      "sources": [
+        "Keeley (1996) War Before Civilization",
+        "Murdock (1967) Ethnographic Atlas — 사회 계층·노예제 분포 코딩"
+      ]
+    },
+    {
+      "id": "captive",
+      "name": "포로·예속민",
+      "share": 0.03,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        35
+      ],
+      "statBase": {
+        "body": [
+          10,
+          16
+        ],
+        "mind": [
+          4,
+          12
+        ],
+        "charm": [
+          4,
+          11
+        ],
+        "luck": [
+          1,
+          6
+        ]
+      },
+      "jobs": [
+        "밭일",
+        "물 긷기",
+        "잡일"
+      ],
+      "meals": [
+        "잡곡죽",
+        "덩이줄기",
+        "남은 음식"
+      ],
+      "historyTips": [
+        "민족지 기록상 상당수 부족 사회에 전쟁 포로를 예속 노동력으로 삼는 관행이 있었다."
+      ],
+      "sources": [
+        "Murdock (1967) Ethnographic Atlas — 사회 계층·노예제 분포 코딩"
+      ]
+    }
+  ]
+}

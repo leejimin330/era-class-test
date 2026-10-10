@@ -1,0 +1,146 @@
+{
+  "id": "hunter-gatherer",
+  "name": "수렵채집 사회",
+  "classes": [
+    {
+      "id": "band-member",
+      "name": "무리 구성원",
+      "share": 0.97,
+      "shareConfidence": "low",
+      "lifespan": [
+        20,
+        40
+      ],
+      "statBase": {
+        "body": [
+          12,
+          18
+        ],
+        "mind": [
+          6,
+          13
+        ],
+        "charm": [
+          7,
+          13
+        ],
+        "luck": [
+          4,
+          12
+        ]
+      },
+      "jobs": [
+        "사냥",
+        "열매·덩이줄기 채집",
+        "꿀 따기",
+        "석기·활 제작"
+      ],
+      "meals": [
+        "사냥한 고기",
+        "야생 덩이줄기",
+        "견과류",
+        "야생 꿀",
+        "산딸기류"
+      ],
+      "historyTips": [
+        "현존 수렵채집민 연구에서 출생 시 기대수명은 30~37세 정도지만, 15세까지 살아남으면 평균 30년 이상을 더 산다.",
+        "수렵채집민의 식량 확보 노동 시간은 하루 몇 시간 수준이라는 연구가 많다."
+      ],
+      "sources": [
+        "Gurven & Kaplan (2007) Longevity Among Hunter-Gatherers, Population and Development Review 33(2)",
+        "Marlowe (2010) The Hadza: Hunter-Gatherers of Tanzania"
+      ]
+    },
+    {
+      "id": "elder",
+      "name": "존경받는 연장자",
+      "share": 0.02,
+      "shareConfidence": "low",
+      "lifespan": [
+        45,
+        70
+      ],
+      "statBase": {
+        "body": [
+          5,
+          10
+        ],
+        "mind": [
+          11,
+          16
+        ],
+        "charm": [
+          11,
+          17
+        ],
+        "luck": [
+          10,
+          16
+        ]
+      },
+      "jobs": [
+        "분쟁 중재",
+        "사냥 경로·물웅덩이 지식 전수",
+        "의례 주관"
+      ],
+      "meals": [
+        "사냥한 고기",
+        "야생 덩이줄기",
+        "견과류",
+        "나눠 받은 꿀"
+      ],
+      "historyTips": [
+        "수렵채집 사회의 할머니는 손주에게 식량을 대 주어 아이 생존율을 높인다는 '할머니 가설'의 주인공이다."
+      ],
+      "sources": [
+        "Gurven & Kaplan (2007) Longevity Among Hunter-Gatherers, Population and Development Review 33(2)",
+        "Hawkes et al. (1998) Grandmothering, menopause, and the evolution of human life histories, PNAS"
+      ]
+    },
+    {
+      "id": "shaman",
+      "name": "주술사",
+      "share": 0.01,
+      "shareConfidence": "low",
+      "lifespan": [
+        25,
+        55
+      ],
+      "statBase": {
+        "body": [
+          5,
+          11
+        ],
+        "mind": [
+          12,
+          18
+        ],
+        "charm": [
+          9,
+          16
+        ],
+        "luck": [
+          8,
+          15
+        ]
+      },
+      "jobs": [
+        "치유 의식",
+        "꿈 해석",
+        "날씨·사냥 점치기"
+      ],
+      "meals": [
+        "사냥한 고기",
+        "야생 덩이줄기",
+        "의식용 특별 음식"
+      ],
+      "historyTips": [
+        "칼라하리 산(San)족의 트랜스 댄스처럼, 많은 수렵채집 사회에서 치유자는 특별한 의례로 공동체를 돌본다."
+      ],
+      "sources": [
+        "Murdock (1967) Ethnographic Atlas — 사회 계층·노예제 분포 코딩",
+        "Lee (1979) The !Kung San"
+      ]
+    }
+  ]
+}

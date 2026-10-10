@@ -1,0 +1,184 @@
+{
+  "id": "pastoral-nomad",
+  "name": "유목 사회",
+  "classes": [
+    {
+      "id": "herder",
+      "name": "목자",
+      "share": 0.82,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        45
+      ],
+      "statBase": {
+        "body": [
+          12,
+          18
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          6,
+          12
+        ],
+        "luck": [
+          5,
+          13
+        ]
+      },
+      "jobs": [
+        "양·말·소 떼 몰기",
+        "천막 옮기기",
+        "젖 짜기",
+        "가죽 가공"
+      ],
+      "meals": [
+        "말젖·양젖 발효유",
+        "말린 고기",
+        "치즈",
+        "보리 낟알(교역)"
+      ],
+      "historyTips": [
+        "유목민은 농경민과의 교역 없이는 곡물·금속을 얻기 어려워, 정주 사회와의 관계가 늘 중요했다."
+      ],
+      "sources": [
+        "Khazanov (1984) Nomads and the Outside World"
+      ]
+    },
+    {
+      "id": "mounted-warrior",
+      "name": "기마 전사",
+      "share": 0.12,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        40
+      ],
+      "statBase": {
+        "body": [
+          12,
+          18
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          5,
+          13
+        ]
+      },
+      "jobs": [
+        "기마 궁술",
+        "약탈과 호위",
+        "가축 떼 보호"
+      ],
+      "meals": [
+        "말린 고기",
+        "발효유",
+        "치즈"
+      ],
+      "historyTips": [
+        "기마 궁술은 유라시아 초원 유목민이 수천 년간 정주 제국을 위협한 핵심 기술이었다."
+      ],
+      "sources": [
+        "Khazanov (1984) Nomads and the Outside World"
+      ]
+    },
+    {
+      "id": "clan-chief",
+      "name": "씨족장",
+      "share": 0.01,
+      "shareConfidence": "low",
+      "lifespan": [
+        30,
+        60
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          17
+        ],
+        "charm": [
+          10,
+          17
+        ],
+        "luck": [
+          11,
+          18
+        ]
+      },
+      "jobs": [
+        "목초지 배분",
+        "동맹 협상",
+        "혼인 주선"
+      ],
+      "meals": [
+        "양고기",
+        "발효유",
+        "교역으로 얻은 곡물과 술"
+      ],
+      "historyTips": [
+        "유목 집단의 목초지는 씨족 단위로 계절마다 이동 경로가 정해져 있었다."
+      ],
+      "sources": [
+        "Khazanov (1984) Nomads and the Outside World"
+      ]
+    },
+    {
+      "id": "dependent",
+      "name": "예속민·하인",
+      "share": 0.05,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        38
+      ],
+      "statBase": {
+        "body": [
+          10,
+          16
+        ],
+        "mind": [
+          4,
+          12
+        ],
+        "charm": [
+          4,
+          11
+        ],
+        "luck": [
+          1,
+          6
+        ]
+      },
+      "jobs": [
+        "가축 돌보기",
+        "땔감·연료(말린 똥) 모으기",
+        "천막 일"
+      ],
+      "meals": [
+        "발효유",
+        "남은 고기",
+        "곡물죽"
+      ],
+      "historyTips": [
+        "유목 사회에도 전쟁 포로나 빚진 가구가 부유한 가문에 예속되는 위계가 있었다."
+      ],
+      "sources": [
+        "Khazanov (1984) Nomads and the Outside World"
+      ]
+    }
+  ]
+}
