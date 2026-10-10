@@ -18,10 +18,10 @@ describe("renderReport", () => {
   });
   it("lists low-confidence items", () => {
     expect(md).toContain("## 신뢰도 low 항목");
-    expect(md).toMatch(/수렵채집|무리 구성원    expect(md).not.toMatch(/| 0.000% |/);
+    expect(md).toMatch(/수렵채집|무리 구성원/);
   });
   it("prints tiny probabilities without collapsing to 0", () => {
-    expect(md).not.toMatch(/| 0.000% |/);\| 0 \|/);
-    expect(md).toMatch(/e-6|e-7    expect(md).not.toMatch(/| 0.000% |/);
+    expect(md).not.toContain("| 0.000% |");
+    expect(md).toMatch(/e-6|e-7/);
   });
 });
