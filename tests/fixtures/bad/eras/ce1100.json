@@ -1,0 +1,24 @@
+{
+  "id": "ce1099",
+  "group": "history",
+  "year": 1100,
+  "name": "x",
+  "yearLabel": "x",
+  "worldPopulation": 10,
+  "sources": [
+    "s"
+  ],
+  "polities": [
+    {
+      "id": "ce1099-a",
+      "name": "ce1099-a",
+      "kind": "polity",
+      "population": 10,
+      "populationConfidence": "mid",
+      "sources": [
+        "s"
+      ],
+      "classTemplate": "missing"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "ce1000",
+  "group": "history",
+  "year": 1000,
+  "name": "1000년의 세계",
+  "yearLabel": "1000년경",
+  "worldPopulation": 100,
+  "sources": [
+    "s"
+  ],
+  "polities": [
+    {
+      "id": "ce1000-a",
+      "name": "ce1000-a",
+      "kind": "polity",
+      "population": 90,
+      "populationConfidence": "mid",
+      "sources": [
+        "s"
+      ],
+      "classes": [
+        {
+          "id": "farmer",
+          "name": "농민",
+          "share": 0.999998,
+          "shareConfidence": "mid",
+          "lifespan": [
+            25,
+            45
+          ],
+          "statBase": {
+            "body": [
+              5,
+              12
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              5,
+              12
+            ],
+            "luck": [
+              5,
+              12
+            ]
+          },
+          "jobs": [
+            "a",
+            "b",
+            "c"
+          ],
+          "meals": [
+            "a",
+            "b",
+            "c"
+          ],
+          "historyTips": [
+            "팁"
+          ],
+          "sources": [
+            "s"
+          ]
+        },
+        {
+          "id": "king",
+          "name": "왕",
+          "share": 0.000002,
+          "shareConfidence": "mid",
+          "lifespan": [
+            25,
+            45
+          ],
+          "statBase": {
+            "body": [
+              5,
+              12
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              5,
+              12
+            ],
+            "luck": [
+              5,
+              12
+            ]
+          },
+          "jobs": [
+            "a",
+            "b",
+            "c"
+          ],
+          "meals": [
+            "a",
+            "b",
+            "c"
+          ],
+          "historyTips": [
+            "팁"
+          ],
+          "sources": [
+            "s"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1000-b",
+      "name": "ce1000-b",
+      "kind": "region",
+      "population": 10,
+      "populationConfidence": "mid",
+      "sources": [
+        "s"
+      ],
+      "classTemplate": "hunter-gatherer"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "ce1200",
+  "group": "history",
+  "year": 1200,
+  "name": "x",
+  "yearLabel": "x",
+  "worldPopulation": 100,
+  "sources": [
+    "s"
+  ],
+  "polities": [
+    {
+      "id": "ce1200-a",
+      "name": "ce1200-a",
+      "kind": "polity",
+      "population": 25,
+      "populationConfidence": "mid",
+      "sources": [
+        "s"
+      ],
+      "classes": [
+        {
+          "id": "farmer",
+          "name": "농민",
+          "share": 0.9,
+          "shareConfidence": "mid",
+          "lifespan": [
+            25,
+            45
+          ],
+          "statBase": {
+            "body": [
+              5,
+              12
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              5,
+              12
+            ],
+            "luck": [
+              5,
+              12
+            ]
+          },
+          "jobs": [
+            "a",
+            "b",
+            "c"
+          ],
+          "meals": [
+            "a",
+            "b",
+            "c"
+          ],
+          "historyTips": [
+            "팁"
+          ],
+          "sources": [
+            "s"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce1200-a",
+      "name": "ce1200-a",
+      "kind": "polity",
+      "population": 25,
+      "populationConfidence": "mid",
+      "sources": [
+        "s"
+      ],
+      "classes": [
+        {
+          "id": "farmer",
+          "name": "농민",
+          "share": 1,
+          "shareConfidence": "mid",
+          "lifespan": [
+            25,
+            45
+          ],
+          "statBase": {
+            "body": [
+              5,
+              12
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              5,
+              12
+            ],
+            "luck": [
+              5,
+              12
+            ]
+          },
+          "jobs": [
+            "a",
+            "b",
+            "c"
+          ],
+          "meals": [
+            "a",
+            "b",
+            "c"
+          ],
+          "historyTips": [
+            "팁"
+          ],
+          "sources": [
+            "s"
+          ]
+        }
+      ]
+    }
+  ]
+}

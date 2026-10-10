@@ -1,0 +1,94 @@
+{
+  "id": "hunter-gatherer",
+  "name": "수렵채집 사회",
+  "classes": [
+    {
+      "id": "band-member",
+      "name": "무리 구성원",
+      "share": 0.98,
+      "shareConfidence": "low",
+      "lifespan": [
+        25,
+        45
+      ],
+      "statBase": {
+        "body": [
+          5,
+          12
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          5,
+          12
+        ],
+        "luck": [
+          5,
+          12
+        ]
+      },
+      "jobs": [
+        "a",
+        "b",
+        "c"
+      ],
+      "meals": [
+        "a",
+        "b",
+        "c"
+      ],
+      "historyTips": [
+        "팁"
+      ],
+      "sources": [
+        "s"
+      ]
+    },
+    {
+      "id": "elder",
+      "name": "연장자",
+      "share": 0.02,
+      "shareConfidence": "low",
+      "lifespan": [
+        25,
+        45
+      ],
+      "statBase": {
+        "body": [
+          5,
+          12
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          5,
+          12
+        ],
+        "luck": [
+          5,
+          12
+        ]
+      },
+      "jobs": [
+        "a",
+        "b",
+        "c"
+      ],
+      "meals": [
+        "a",
+        "b",
+        "c"
+      ],
+      "historyTips": [
+        "팁"
+      ],
+      "sources": [
+        "s"
+      ]
+    }
+  ]
+}
