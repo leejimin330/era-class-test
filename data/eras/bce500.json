@@ -621,8 +621,8 @@
           },
           "jobs": [
             "귀족 가내 노동",
-            "순장 대상이 될 위험",
-            "잡역"
+            "제사 준비 잡역",
+            "물 긷기"
           ],
           "meals": [
             "거친 기장밥",
@@ -1790,7 +1790,7 @@
     },
     {
       "id": "bce500-south-asia-tribes",
-      "name": "데칸·남인도 부족 농경 사회",
+      "name": "데칸·남부 아대륙 부족 농경 사회",
       "kind": "region",
       "population": 5,
       "populationConfidence": "low",

@@ -3,6 +3,12 @@ import { RARITY_LABEL, RARITY_ORDER, type Outcome } from "./probability";
 
 const pct = (p: number) => (p >= 1e-4 ? `${(p * 100).toFixed(3)}%` : `${p.toExponential(2)}`);
 
+/** 이름 있는 정체(kind: "polity")가 덮는 인구 비율 */
+export function coverageOf(era: ResolvedEra): number {
+  const total = era.polities.reduce((s, p) => s + p.population, 0);
+  return era.polities.filter((p) => p.kind === "polity").reduce((s, p) => s + p.population, 0) / total;
+}
+
 export function renderReport(eras: ResolvedEra[], outcomes: Outcome[], version: string): string {
   const L: string[] = [];
   L.push(`# 데이터셋 검토표`, ``, `- 데이터 버전: ${version}`, `- 단면 ${eras.length}개, 결과 조합 ${outcomes.length}개`, ``);
@@ -25,7 +31,7 @@ export function renderReport(eras: ResolvedEra[], outcomes: Outcome[], version: 
   for (const e of [...eras].sort((a, b) => a.year - b.year)) {
     const popSum = e.polities.reduce((s, p) => s + p.population, 0);
     L.push(`## ${e.id} — ${e.name} (${e.yearLabel})${e.fictional ? " [가상]" : ""}`, ``);
-    L.push(`세계 인구 ${e.worldPopulation}백만 · 출처: ${e.sources.join("; ")}`, ``);
+    L.push(`세계 인구 ${e.worldPopulation}백만 · 이름 있는 정체 커버율 ${(coverageOf(e) * 100).toFixed(1)}% · 출처: ${e.sources.join("; ")}`, ``);
     L.push(`| 정체 | 종류 | 인구(백만) | 비율 | 신뢰도 |`, `|---|---|---|---|---|`);
     for (const p of [...e.polities].sort((a, b) => b.population - a.population))
       L.push(`| ${p.name} | ${p.kind} | ${p.population} | ${pct(p.population / popSum)} | ${p.populationConfidence} |`);

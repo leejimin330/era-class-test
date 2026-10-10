@@ -2577,7 +2577,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -2623,7 +2623,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -2872,7 +2872,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -2918,7 +2918,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -3167,7 +3167,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -3213,7 +3213,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -3462,7 +3462,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -3710,7 +3710,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -3756,7 +3756,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -4005,7 +4005,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -4051,7 +4051,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -5396,7 +5396,7 @@
       "sources": [
         "Dyson (2018) A Population History of India"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "indian-agrarian"
     },
     {
       "id": "ce1000-india",
@@ -5407,7 +5407,7 @@
       "sources": [
         "Dyson (2018) A Population History of India"
       ],
-      "classTemplate": "tribal-farming"
+      "classTemplate": "indian-agrarian"
     },
     {
       "id": "ce1000-khmer",
@@ -5745,7 +5745,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "tribal-farming"
+      "classTemplate": "sea-agrarian"
     },
     {
       "id": "ce1000-ghana",
@@ -6094,7 +6094,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "mesoamerican-state"
     },
     {
       "id": "ce1000-andes",
@@ -6105,7 +6105,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "andean-state"
     },
     {
       "id": "ce1000-americas",
@@ -6138,7 +6138,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "medieval-european"
     },
     {
       "id": "ce1000-arabia",

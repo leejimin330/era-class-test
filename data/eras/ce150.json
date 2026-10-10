@@ -1692,7 +1692,7 @@
       "sources": [
         "Dyson (2018) A Population History of India"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "indian-agrarian"
     },
     {
       "id": "ce150-steppe",
@@ -1737,7 +1737,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "mesoamerican-state"
     },
     {
       "id": "ce150-americas",
@@ -1770,7 +1770,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "tribal-farming"
+      "classTemplate": "sea-agrarian"
     },
     {
       "id": "ce150-arabia",

@@ -777,7 +777,7 @@
             "꿀 과자"
           ],
           "historyTips": [
-            "로마 원로원 의원이 되려면 막대한 재산 자격이 필요했다."
+            "반달족은 북아프리카 로마인 지주의 땅을 몰수해 나눠 가졌다."
           ],
           "sources": [
             "Heather (2005) The Fall of the Roman Empire",
@@ -819,11 +819,10 @@
           "meals": [
             "밀빵",
             "올리브유",
-            "치즈",
-            "가룸(생선 소스)"
+            "생선"
           ],
           "historyTips": [
-            "로마의 공적 제사는 귀족 정치인들이 사제직을 겸하며 주관했다."
+            "아리우스파를 믿은 반달 왕들은 가톨릭 주교들을 박해했다."
           ],
           "sources": [
             "Heather (2005) The Fall of the Roman Empire",
@@ -866,11 +865,10 @@
           "meals": [
             "밀빵",
             "올리브유",
-            "치즈",
-            "가룸(생선 소스)"
+            "생선"
           ],
           "historyTips": [
-            "로마 도시 거리에는 1층 상점 위에 다층 셋집(인술라)이 늘어섰다."
+            "카르타고는 반달 시대에도 지중해 무역항으로 남았다."
           ],
           "sources": [
             "Heather (2005) The Fall of the Roman Empire",
@@ -910,10 +908,9 @@
             "세금 납부"
           ],
           "meals": [
-            "풀스(곡물죽)",
-            "콩",
-            "양파",
-            "포스카(식초 물)"
+            "보리빵",
+            "올리브",
+            "콩"
           ],
           "historyTips": [
             "북아프리카는 로마에 곡물을 대던 곡창 지대였다."
@@ -956,13 +953,12 @@
             "광산 노동"
           ],
           "meals": [
-            "풀스(곡물죽)",
-            "콩",
-            "양파",
-            "포스카(식초 물)"
+            "보리빵",
+            "올리브",
+            "콩"
           ],
           "historyTips": [
-            "로마 노예는 해방되어 시민이 될 수 있었고, 해방노예 중 부자가 된 사람도 있었다."
+            "북아프리카 대농장에서는 노예와 예속 소작인이 일했다."
           ],
           "sources": [
             "Heather (2005) The Fall of the Roman Empire",
@@ -1195,7 +1191,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -1240,7 +1236,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -1945,7 +1941,7 @@
       "sources": [
         "Dyson (2018) A Population History of India"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "indian-agrarian"
     },
     {
       "id": "ce450-northern-wei",
@@ -3592,7 +3588,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "mesoamerican-state"
     },
     {
       "id": "ce450-americas",
@@ -3614,7 +3610,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "tribal-farming"
+      "classTemplate": "sea-agrarian"
     },
     {
       "id": "ce450-europe",

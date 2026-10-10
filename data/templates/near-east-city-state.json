@@ -1,0 +1,327 @@
+{
+  "id": "near-east-city-state",
+  "name": "고대 서아시아 도시국가",
+  "classes": [
+    {
+      "id": "ruler",
+      "name": "도시 왕",
+      "share": 0.0002,
+      "shareConfidence": "low",
+      "lifespan": [
+        30,
+        70
+      ],
+      "statBase": {
+        "body": [
+          6,
+          14
+        ],
+        "mind": [
+          10,
+          18
+        ],
+        "charm": [
+          12,
+          19
+        ],
+        "luck": [
+          17,
+          20
+        ]
+      },
+      "jobs": [
+        "신전 봉헌",
+        "운하 공사 지시",
+        "전쟁과 조약"
+      ],
+      "meals": [
+        "양고기 구이",
+        "밀빵",
+        "포도주",
+        "꿀 과자"
+      ],
+      "historyTips": [
+        "고대 서아시아 작은 도시국가의 왕은 강대국 사이에서 조공과 동맹으로 살아남았다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Postgate (1992) Early Mesopotamia"
+      ]
+    },
+    {
+      "id": "noble",
+      "name": "궁정 귀족",
+      "share": 0.01,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          17
+        ],
+        "charm": [
+          10,
+          17
+        ],
+        "luck": [
+          11,
+          18
+        ]
+      },
+      "jobs": [
+        "궁정 관리",
+        "영지 경영",
+        "전차 부대 지휘"
+      ],
+      "meals": [
+        "양고기 구이",
+        "밀빵",
+        "포도주",
+        "꿀 과자"
+      ],
+      "historyTips": [
+        "고대 서아시아 궁정은 점토판에 쐐기문자로 행정 기록을 남겼다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Postgate (1992) Early Mesopotamia"
+      ]
+    },
+    {
+      "id": "priest",
+      "name": "신관·서기",
+      "share": 0.02,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          5,
+          11
+        ],
+        "mind": [
+          12,
+          18
+        ],
+        "charm": [
+          9,
+          16
+        ],
+        "luck": [
+          8,
+          15
+        ]
+      },
+      "jobs": [
+        "신전 제사",
+        "점토판 기록",
+        "점성술·점복"
+      ],
+      "meals": [
+        "보리빵",
+        "보리 맥주",
+        "대추야자",
+        "렌즈콩"
+      ],
+      "historyTips": [
+        "고대 서아시아 신전은 넓은 토지와 노동자를 거느린 경제 중심이었다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Postgate (1992) Early Mesopotamia"
+      ]
+    },
+    {
+      "id": "soldier",
+      "name": "병사",
+      "share": 0.03,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          12,
+          18
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          5,
+          13
+        ]
+      },
+      "jobs": [
+        "성벽 수비",
+        "원정",
+        "전차·궁술 훈련"
+      ],
+      "meals": [
+        "보리빵",
+        "보리 맥주",
+        "대추야자",
+        "렌즈콩"
+      ],
+      "historyTips": [
+        "고대 서아시아 군대는 이른 시기부터 바퀴 달린 수레·전차를 썼다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Postgate (1992) Early Mesopotamia"
+      ]
+    },
+    {
+      "id": "artisan",
+      "name": "상인·장인",
+      "share": 0.08,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        52
+      ],
+      "statBase": {
+        "body": [
+          9,
+          15
+        ],
+        "mind": [
+          9,
+          15
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          6,
+          13
+        ]
+      },
+      "jobs": [
+        "점토판 서기 보조",
+        "직조",
+        "금속 세공",
+        "원거리 교역"
+      ],
+      "meals": [
+        "보리빵",
+        "보리 맥주",
+        "대추야자",
+        "렌즈콩"
+      ],
+      "historyTips": [
+        "고대 서아시아 상인들은 주석·직물·곡물을 먼 곳까지 실어 날랐다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Postgate (1992) Early Mesopotamia"
+      ]
+    },
+    {
+      "id": "peasant",
+      "name": "농민",
+      "share": 0.8098,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        50
+      ],
+      "statBase": {
+        "body": [
+          11,
+          17
+        ],
+        "mind": [
+          4,
+          11
+        ],
+        "charm": [
+          5,
+          11
+        ],
+        "luck": [
+          4,
+          12
+        ]
+      },
+      "jobs": [
+        "보리 농사",
+        "관개 수로 관리",
+        "대추야자 재배"
+      ],
+      "meals": [
+        "보리죽",
+        "묽은 맥주",
+        "대추야자"
+      ],
+      "historyTips": [
+        "고대 서아시아 농민은 보리와 대추야자를 길렀다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Postgate (1992) Early Mesopotamia"
+      ]
+    },
+    {
+      "id": "unfree",
+      "name": "예속민",
+      "share": 0.05,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          10,
+          16
+        ],
+        "mind": [
+          4,
+          12
+        ],
+        "charm": [
+          4,
+          11
+        ],
+        "luck": [
+          1,
+          6
+        ]
+      },
+      "jobs": [
+        "신전 노동",
+        "가사 노동",
+        "건설 노동"
+      ],
+      "meals": [
+        "보리죽",
+        "묽은 맥주",
+        "대추야자"
+      ],
+      "historyTips": [
+        "고대 서아시아에는 전쟁 포로와 빚 때문에 예속된 사람들이 있었다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Postgate (1992) Early Mesopotamia"
+      ]
+    }
+  ]
+}

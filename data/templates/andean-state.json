@@ -1,0 +1,321 @@
+{
+  "id": "andean-state",
+  "name": "안데스 국가(치무·와리 등)",
+  "classes": [
+    {
+      "id": "ruler",
+      "name": "왕",
+      "share": 5e-05,
+      "shareConfidence": "low",
+      "lifespan": [
+        30,
+        70
+      ],
+      "statBase": {
+        "body": [
+          6,
+          14
+        ],
+        "mind": [
+          10,
+          18
+        ],
+        "charm": [
+          12,
+          19
+        ],
+        "luck": [
+          17,
+          20
+        ]
+      },
+      "jobs": [
+        "태양 의례",
+        "미라 조상 모시기",
+        "정복 원정"
+      ],
+      "meals": [
+        "옥수수 술(치차)",
+        "라마 고기",
+        "옥수수"
+      ],
+      "historyTips": [
+        "치무 왕국의 수도 찬찬은 아메리카 최대급 흙벽돌 도시였다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Moseley (2001) The Incas and Their Ancestors"
+      ]
+    },
+    {
+      "id": "noble",
+      "name": "귀족",
+      "share": 0.02,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          17
+        ],
+        "charm": [
+          10,
+          17
+        ],
+        "luck": [
+          11,
+          18
+        ]
+      },
+      "jobs": [
+        "지방 통치",
+        "결승 문자(키푸) 보고 받기",
+        "노역 배분"
+      ],
+      "meals": [
+        "옥수수 술(치차)",
+        "라마 고기",
+        "옥수수"
+      ],
+      "historyTips": [
+        "안데스 국가는 문자 대신 매듭 끈 '키푸'로 인구와 세금을 기록했다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Moseley (2001) The Incas and Their Ancestors"
+      ]
+    },
+    {
+      "id": "priest",
+      "name": "사제",
+      "share": 0.02,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          5,
+          11
+        ],
+        "mind": [
+          12,
+          18
+        ],
+        "charm": [
+          9,
+          16
+        ],
+        "luck": [
+          8,
+          15
+        ]
+      },
+      "jobs": [
+        "태양 신전 의례",
+        "점술",
+        "희생 제사"
+      ],
+      "meals": [
+        "감자",
+        "퀴노아",
+        "치차"
+      ],
+      "historyTips": [
+        "안데스 사람들은 죽은 지배자의 미라를 살아 있는 사람처럼 모셨다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Moseley (2001) The Incas and Their Ancestors"
+      ]
+    },
+    {
+      "id": "soldier",
+      "name": "병사",
+      "share": 0.04,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          12,
+          18
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          5,
+          13
+        ]
+      },
+      "jobs": [
+        "요새 수비",
+        "원정",
+        "도로 순찰"
+      ],
+      "meals": [
+        "감자",
+        "퀴노아",
+        "치차"
+      ],
+      "historyTips": [
+        "안데스의 산길 도로망은 수만 km에 달했다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Moseley (2001) The Incas and Their Ancestors"
+      ]
+    },
+    {
+      "id": "artisan",
+      "name": "장인",
+      "share": 0.05,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        52
+      ],
+      "statBase": {
+        "body": [
+          9,
+          15
+        ],
+        "mind": [
+          9,
+          15
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          6,
+          13
+        ]
+      },
+      "jobs": [
+        "직물 직조",
+        "금은 세공",
+        "도기 제작"
+      ],
+      "meals": [
+        "감자",
+        "퀴노아",
+        "치차"
+      ],
+      "historyTips": [
+        "안데스 사회에서 고급 직물은 금보다 귀한 선물로 여겨졌다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Moseley (2001) The Incas and Their Ancestors"
+      ]
+    },
+    {
+      "id": "peasant",
+      "name": "농민",
+      "share": 0.82995,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        50
+      ],
+      "statBase": {
+        "body": [
+          11,
+          17
+        ],
+        "mind": [
+          4,
+          11
+        ],
+        "charm": [
+          5,
+          11
+        ],
+        "luck": [
+          4,
+          12
+        ]
+      },
+      "jobs": [
+        "감자·옥수수 농사",
+        "미타 노역",
+        "라마 목축"
+      ],
+      "meals": [
+        "추뇨(동결건조 감자)",
+        "감자",
+        "퀴노아"
+      ],
+      "historyTips": [
+        "안데스 농민은 고도에 따라 다른 작물을 기르며 위험을 나눴다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Moseley (2001) The Incas and Their Ancestors"
+      ]
+    },
+    {
+      "id": "unfree",
+      "name": "예속민",
+      "share": 0.04,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          10,
+          16
+        ],
+        "mind": [
+          4,
+          12
+        ],
+        "charm": [
+          4,
+          11
+        ],
+        "luck": [
+          1,
+          6
+        ]
+      },
+      "jobs": [
+        "신전 봉사",
+        "국가 직물 공방",
+        "농사"
+      ],
+      "meals": [
+        "추뇨(동결건조 감자)",
+        "감자",
+        "퀴노아"
+      ],
+      "historyTips": [
+        "안데스 국가는 특정 공동체 사람들을 국가 직속 노동자로 이주시키기도 했다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Moseley (2001) The Incas and Their Ancestors"
+      ]
+    }
+  ]
+}

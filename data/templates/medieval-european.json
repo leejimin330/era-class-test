@@ -1,0 +1,283 @@
+{
+  "id": "medieval-european",
+  "name": "중세 유럽 왕국·공국(기타)",
+  "classes": [
+    {
+      "id": "ruler",
+      "name": "국왕·공작",
+      "share": 2e-05,
+      "shareConfidence": "low",
+      "lifespan": [
+        30,
+        70
+      ],
+      "statBase": {
+        "body": [
+          6,
+          14
+        ],
+        "mind": [
+          10,
+          18
+        ],
+        "charm": [
+          12,
+          19
+        ],
+        "luck": [
+          17,
+          20
+        ]
+      },
+      "jobs": [
+        "궁정 회의",
+        "전쟁 지휘",
+        "순회 재판"
+      ],
+      "meals": [
+        "구운 사슴고기",
+        "흰 밀빵",
+        "포도주",
+        "향신료 소스"
+      ],
+      "historyTips": [
+        "중세 유럽의 작은 왕국과 공국은 혼인과 동맹으로 세력을 넓혔다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Wickham (2009) The Inheritance of Rome"
+      ]
+    },
+    {
+      "id": "noble",
+      "name": "귀족·기사",
+      "share": 0.012,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          17
+        ],
+        "charm": [
+          10,
+          17
+        ],
+        "luck": [
+          11,
+          18
+        ]
+      },
+      "jobs": [
+        "장원 경영",
+        "기사 훈련",
+        "마상 창시합"
+      ],
+      "meals": [
+        "구운 사슴고기",
+        "흰 밀빵",
+        "포도주",
+        "향신료 소스"
+      ],
+      "historyTips": [
+        "중세 기사의 갑옷과 말은 농가 몇 년 치 수입과 맞먹는 값이었다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Wickham (2009) The Inheritance of Rome"
+      ]
+    },
+    {
+      "id": "priest",
+      "name": "성직자·수도사",
+      "share": 0.015,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          5,
+          11
+        ],
+        "mind": [
+          12,
+          18
+        ],
+        "charm": [
+          9,
+          16
+        ],
+        "luck": [
+          8,
+          15
+        ]
+      },
+      "jobs": [
+        "미사 집전",
+        "수도원 필사",
+        "십일조 관리"
+      ],
+      "meals": [
+        "호밀빵",
+        "맥주",
+        "치즈",
+        "돼지고기 소시지"
+      ],
+      "historyTips": [
+        "수도원은 필사본을 만들며 고전 지식을 보존했다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Wickham (2009) The Inheritance of Rome"
+      ]
+    },
+    {
+      "id": "artisan",
+      "name": "도시 상인·장인",
+      "share": 0.06,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        52
+      ],
+      "statBase": {
+        "body": [
+          9,
+          15
+        ],
+        "mind": [
+          9,
+          15
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          6,
+          13
+        ]
+      },
+      "jobs": [
+        "길드 수공업",
+        "시장 장사",
+        "대성당 건설",
+        "원거리 교역"
+      ],
+      "meals": [
+        "호밀빵",
+        "맥주",
+        "치즈",
+        "돼지고기 소시지"
+      ],
+      "historyTips": [
+        "중세 도시 길드는 가격·품질·도제 수를 엄격히 통제했다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Wickham (2009) The Inheritance of Rome"
+      ]
+    },
+    {
+      "id": "peasant",
+      "name": "자유농",
+      "share": 0.51298,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        50
+      ],
+      "statBase": {
+        "body": [
+          11,
+          17
+        ],
+        "mind": [
+          4,
+          11
+        ],
+        "charm": [
+          5,
+          11
+        ],
+        "luck": [
+          4,
+          12
+        ]
+      },
+      "jobs": [
+        "삼포제 농사",
+        "영주에게 지대·공납 납부",
+        "십일조 납부"
+      ],
+      "meals": [
+        "귀리죽",
+        "호밀빵",
+        "약한 맥주",
+        "양배추 수프"
+      ],
+      "historyTips": [
+        "중세 유럽 농민 상당수는 영주에게 지대와 공납을 바쳤다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Wickham (2009) The Inheritance of Rome"
+      ]
+    },
+    {
+      "id": "unfree",
+      "name": "농노",
+      "share": 0.4,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          10,
+          16
+        ],
+        "mind": [
+          4,
+          12
+        ],
+        "charm": [
+          4,
+          11
+        ],
+        "luck": [
+          1,
+          6
+        ]
+      },
+      "jobs": [
+        "영주 직영지 부역",
+        "가사 노동",
+        "장원 잡역"
+      ],
+      "meals": [
+        "귀리죽",
+        "호밀빵",
+        "약한 맥주",
+        "양배추 수프"
+      ],
+      "historyTips": [
+        "중세 농노는 노예와 달리 땅에 매여 있었고, 영주의 허락 없이 떠날 수 없었다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Wickham (2009) The Inheritance of Rome"
+      ]
+    }
+  ]
+}

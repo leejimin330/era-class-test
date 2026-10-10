@@ -1,0 +1,327 @@
+{
+  "id": "islamic-agrarian",
+  "name": "이슬람 농경 국가(기타)",
+  "classes": [
+    {
+      "id": "ruler",
+      "name": "술탄·아미르",
+      "share": 1e-05,
+      "shareConfidence": "low",
+      "lifespan": [
+        30,
+        70
+      ],
+      "statBase": {
+        "body": [
+          6,
+          14
+        ],
+        "mind": [
+          10,
+          18
+        ],
+        "charm": [
+          12,
+          19
+        ],
+        "luck": [
+          17,
+          20
+        ]
+      },
+      "jobs": [
+        "궁정 의례",
+        "총독 임명",
+        "원정"
+      ],
+      "meals": [
+        "양고기 필라프",
+        "꿀 과자",
+        "셔벗",
+        "대추야자"
+      ],
+      "historyTips": [
+        "이슬람 세계의 군소 왕조들은 칼리파나 대제국의 권위를 빌려 통치했다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Kennedy (2004) The Prophet and the Age of the Caliphates"
+      ]
+    },
+    {
+      "id": "noble",
+      "name": "군사 귀족",
+      "share": 0.01,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          17
+        ],
+        "charm": [
+          10,
+          17
+        ],
+        "luck": [
+          11,
+          18
+        ]
+      },
+      "jobs": [
+        "이크타(봉토) 관리",
+        "군 지휘",
+        "궁정 관직"
+      ],
+      "meals": [
+        "양고기 필라프",
+        "꿀 과자",
+        "셔벗",
+        "대추야자"
+      ],
+      "historyTips": [
+        "이슬람 왕조들은 군인에게 토지의 세금 수입을 주는 '이크타'를 운영했다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Kennedy (2004) The Prophet and the Age of the Caliphates"
+      ]
+    },
+    {
+      "id": "priest",
+      "name": "울라마",
+      "share": 0.01,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          5,
+          11
+        ],
+        "mind": [
+          12,
+          18
+        ],
+        "charm": [
+          9,
+          16
+        ],
+        "luck": [
+          8,
+          15
+        ]
+      },
+      "jobs": [
+        "샤리아 법 해석",
+        "마드라사 교육",
+        "모스크 설교"
+      ],
+      "meals": [
+        "밀빵",
+        "렌즈콩 스튜",
+        "요구르트",
+        "대추야자"
+      ],
+      "historyTips": [
+        "울라마는 이슬람 법학자로서 재판과 교육을 맡았다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Kennedy (2004) The Prophet and the Age of the Caliphates"
+      ]
+    },
+    {
+      "id": "soldier",
+      "name": "군인",
+      "share": 0.02,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          12,
+          18
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          5,
+          13
+        ]
+      },
+      "jobs": [
+        "기병 복무",
+        "국경 수비",
+        "원정"
+      ],
+      "meals": [
+        "밀빵",
+        "렌즈콩 스튜",
+        "요구르트",
+        "대추야자"
+      ],
+      "historyTips": [
+        "노예 출신 군인 '맘루크'는 여러 이슬람 왕조의 핵심 병력이었다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Kennedy (2004) The Prophet and the Age of the Caliphates"
+      ]
+    },
+    {
+      "id": "artisan",
+      "name": "상인·장인",
+      "share": 0.1,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        52
+      ],
+      "statBase": {
+        "body": [
+          9,
+          15
+        ],
+        "mind": [
+          9,
+          15
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          6,
+          13
+        ]
+      },
+      "jobs": [
+        "직조·카펫",
+        "유리·도자기",
+        "바자르 상점",
+        "대상 무역"
+      ],
+      "meals": [
+        "밀빵",
+        "렌즈콩 스튜",
+        "요구르트",
+        "대추야자"
+      ],
+      "historyTips": [
+        "바그다드·카이로·다마스쿠스의 바자르는 장거리 교역망의 중심이었다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Kennedy (2004) The Prophet and the Age of the Caliphates"
+      ]
+    },
+    {
+      "id": "peasant",
+      "name": "농민",
+      "share": 0.82999,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        50
+      ],
+      "statBase": {
+        "body": [
+          11,
+          17
+        ],
+        "mind": [
+          4,
+          11
+        ],
+        "charm": [
+          5,
+          11
+        ],
+        "luck": [
+          4,
+          12
+        ]
+      },
+      "jobs": [
+        "밀·보리 농사",
+        "대추야자 재배",
+        "지세 납부"
+      ],
+      "meals": [
+        "보리빵",
+        "대추야자",
+        "렌즈콩"
+      ],
+      "historyTips": [
+        "이슬람 세계 농민은 밀·보리·대추야자를 기르며 지세를 냈다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Kennedy (2004) The Prophet and the Age of the Caliphates"
+      ]
+    },
+    {
+      "id": "unfree",
+      "name": "노예",
+      "share": 0.03,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          10,
+          16
+        ],
+        "mind": [
+          4,
+          12
+        ],
+        "charm": [
+          4,
+          11
+        ],
+        "luck": [
+          1,
+          6
+        ]
+      },
+      "jobs": [
+        "가사 노동",
+        "농장 노동",
+        "군 노예 훈련"
+      ],
+      "meals": [
+        "보리빵",
+        "대추야자",
+        "렌즈콩"
+      ],
+      "historyTips": [
+        "이슬람 세계의 노예는 가사·군사 등 다양한 역할을 했고, 해방은 종교적 선행으로 권장됐다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Kennedy (2004) The Prophet and the Age of the Caliphates"
+      ]
+    }
+  ]
+}

@@ -1350,7 +1350,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "pastoral-nomad"
+      "classTemplate": "islamic-agrarian"
     },
     {
       "id": "ce1350-golden-horde",
@@ -2250,7 +2250,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -2296,7 +2296,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -2546,7 +2546,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -2592,7 +2592,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -2842,7 +2842,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -2888,7 +2888,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -3138,7 +3138,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -3386,7 +3386,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -3634,7 +3634,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -3680,7 +3680,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -3929,7 +3929,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -4177,7 +4177,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -4223,7 +4223,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -4472,7 +4472,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -4518,7 +4518,7 @@
             ]
           },
           "jobs": [
-            "영주 직영지 노동",
+            "영주 직영지 부역",
             "가사 노동",
             "장원 잡역"
           ],
@@ -4767,7 +4767,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -5015,7 +5015,7 @@
           },
           "jobs": [
             "삼포제 농사",
-            "영주 직영지 부역",
+            "영주에게 지대·공납 납부",
             "십일조 납부"
           ],
           "meals": [
@@ -5044,7 +5044,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "medieval-european"
     },
     {
       "id": "ce1350-delhi",
@@ -6048,7 +6048,7 @@
       "sources": [
         "Dyson (2018) A Population History of India"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "indian-agrarian"
     },
     {
       "id": "ce1350-daiviet",
@@ -7040,7 +7040,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "tribal-farming"
+      "classTemplate": "sea-agrarian"
     },
     {
       "id": "ce1350-mali",
@@ -7709,7 +7709,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "mesoamerican-state"
     },
     {
       "id": "ce1350-andes",
@@ -7720,7 +7720,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "andean-state"
     },
     {
       "id": "ce1350-americas",

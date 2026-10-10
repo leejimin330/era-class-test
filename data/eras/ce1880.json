@@ -998,7 +998,7 @@
             "버터밀크"
           ],
           "historyTips": [
-            "카스트 차별을 받던 계층은 이 시기 '불가촉민'이라 불렸고, 암베드카르 같은 지도자가 차별 철폐 운동을 이끌었다."
+            "카스트 차별을 받던 계층은 마을 우물·사원 출입을 막히는 등 일상적인 차별을 받았다."
           ],
           "sources": [
             "Census of India 1881·1921·1941",
@@ -3322,7 +3322,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "tribal-farming"
+      "classTemplate": "sea-agrarian"
     },
     {
       "id": "ce1880-ottoman",
@@ -4484,8 +4484,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.05999999,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -4577,7 +4577,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.72999999,
+          "share": 0.75,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -4602,7 +4602,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -4819,8 +4819,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.129999978,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -4912,7 +4912,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.469999978,
+          "share": 0.42,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -4937,7 +4937,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -5154,8 +5154,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.149999973,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -5247,7 +5247,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.549999973,
+          "share": 0.48,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -5272,7 +5272,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -5489,8 +5489,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.269999971,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -5582,7 +5582,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.319999971,
+          "share": 0.13,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -5607,7 +5607,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -5824,8 +5824,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.099999974,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -5917,7 +5917,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.619999974,
+          "share": 0.6,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -5942,7 +5942,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -6159,8 +6159,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.119999965,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -6252,7 +6252,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.639999965,
+          "share": 0.6,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -6277,7 +6277,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -6494,8 +6494,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.08999994,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -6587,7 +6587,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.66999994,
+          "share": 0.66,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -6612,7 +6612,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -6829,8 +6829,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.099999783,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -6922,7 +6922,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.669999783,
+          "share": 0.65,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -6947,7 +6947,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -7164,8 +7164,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.1699998,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -7257,7 +7257,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.4399998,
+          "share": 0.35,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -7282,7 +7282,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -7499,8 +7499,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.1299997,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -7592,7 +7592,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.6499997,
+          "share": 0.6,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -7617,7 +7617,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -7834,8 +7834,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.149997,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -7927,7 +7927,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.469997,
+          "share": 0.4,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -7952,7 +7952,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -8169,8 +8169,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.0099996,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -8262,7 +8262,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.7299996,
+          "share": 0.8,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -8287,7 +8287,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -8504,8 +8504,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.10999998,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -8597,7 +8597,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.51999998,
+          "share": 0.49,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -8622,7 +8622,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -8839,8 +8839,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.099999767,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -8932,7 +8932,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.619999767,
+          "share": 0.6,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -8957,7 +8957,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],
@@ -11937,8 +11937,8 @@
         },
         {
           "id": "clerk",
-          "name": "사무원·소상인",
-          "share": 0.08,
+          "name": "사무원·소상인·서비스업",
+          "share": 0.159999,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -12030,7 +12030,7 @@
         {
           "id": "farmer",
           "name": "농민",
-          "share": 0.429999,
+          "share": 0.35,
           "shareConfidence": "mid",
           "lifespan": [
             30,
@@ -12055,7 +12055,7 @@
             ]
           },
           "jobs": [
-            "곡물·감자 농사",
+            "곡물 농사",
             "가축 돌보기",
             "계절 품팔이"
           ],

@@ -2363,7 +2363,7 @@
       "sources": [
         "Dyson (2018) A Population History of India"
       ],
-      "classTemplate": "chiefdom"
+      "classTemplate": "indian-agrarian"
     },
     {
       "id": "ce1800-japan",
@@ -2461,7 +2461,7 @@
             "과일"
           ],
           "historyTips": [
-            "헤이안 귀족 문화에서는 와카(시)를 잘 짓는 것이 출세의 조건이었다."
+            "다이묘는 영지의 쌀 생산량(석고)으로 서열이 매겨졌다."
           ],
           "sources": [
             "Hayami (2001) The Historical Demography of Pre-modern Japan",
@@ -2507,7 +2507,7 @@
             "채소 절임"
           ],
           "historyTips": [
-            "일본 불교 사찰은 장원과 승병을 거느린 큰 세력이었다."
+            "에도 막부는 모든 주민을 사찰에 등록시키는 단가 제도를 운영했다."
           ],
           "sources": [
             "Hayami (2001) The Historical Demography of Pre-modern Japan",
@@ -2681,9 +2681,9 @@
             ]
           },
           "jobs": [
-            "예속 노동",
-            "가사 노동",
-            "장원 잡역"
+            "피혁 가공",
+            "청소·경비 잡역",
+            "거리 공연"
           ],
           "meals": [
             "잡곡밥",
@@ -2691,7 +2691,7 @@
             "소금"
           ],
           "historyTips": [
-            "고대 일본 율령제에는 양민과 천민을 나누는 신분 구분이 있었다."
+            "에도 시대 신분제는 피혁 등 특정 직업 종사자를 세습 차별 신분으로 묶었다."
           ],
           "sources": [
             "Hayami (2001) The Historical Demography of Pre-modern Japan",
@@ -4354,7 +4354,7 @@
       "sources": [
         "McEvedy & Jones (1978) Atlas of World Population History"
       ],
-      "classTemplate": "tribal-farming"
+      "classTemplate": "sea-agrarian"
     },
     {
       "id": "ce1800-ottoman",

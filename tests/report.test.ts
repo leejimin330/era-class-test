@@ -3,7 +3,7 @@ import path from "node:path";
 import { loadDataDir } from "../src/load";
 import { resolveEras } from "../src/validate";
 import { computeOutcomes } from "../src/probability";
-import { renderReport } from "../src/report";
+import { renderReport, coverageOf } from "../src/report";
 
 describe("renderReport", () => {
   const d = loadDataDir(path.join(__dirname, "fixtures", "ok"));
@@ -19,6 +19,10 @@ describe("renderReport", () => {
   it("lists low-confidence items", () => {
     expect(md).toContain("## 신뢰도 low 항목");
     expect(md).toMatch(/수렵채집|무리 구성원/);
+  });
+  it("reports named-polity coverage per era", () => {
+    expect(coverageOf(eras[0])).toBeCloseTo(0.9, 6);
+    expect(md).toContain("이름 있는 정체 커버율 90.0%");
   });
   it("prints tiny probabilities without collapsing to 0", () => {
     expect(md).not.toContain("| 0.000% |");

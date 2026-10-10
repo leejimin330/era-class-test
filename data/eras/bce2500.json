@@ -402,7 +402,7 @@
             "꿀 과자"
           ],
           "historyTips": [
-            "메소포타미아 궁정은 점토판에 쐐기문자로 행정 기록을 남겼다."
+            "고대 서아시아 궁정은 점토판에 쐐기문자로 행정 기록을 남겼다."
           ],
           "sources": [
             "Postgate (1992) Early Mesopotamia",
@@ -448,7 +448,7 @@
             "렌즈콩"
           ],
           "historyTips": [
-            "수메르 신전은 거대한 토지와 노동자를 거느린 경제 중심이었다."
+            "고대 서아시아 신전은 넓은 토지와 노동자를 거느린 경제 중심이었다."
           ],
           "sources": [
             "Postgate (1992) Early Mesopotamia",
@@ -541,7 +541,7 @@
             "렌즈콩"
           ],
           "historyTips": [
-            "메소포타미아 상인들은 아나톨리아까지 주석·직물을 실어 나르며 점토판 편지를 주고받았다."
+            "고대 서아시아 상인들은 주석·직물·곡물을 먼 곳까지 실어 날랐다."
           ],
           "sources": [
             "Postgate (1992) Early Mesopotamia",
@@ -631,7 +631,7 @@
             "대추야자"
           ],
           "historyTips": [
-            "메소포타미아에는 전쟁 포로와 채무 노예가 있었고, 법전에는 노예에 관한 조항도 들어 있었다."
+            "고대 서아시아에는 전쟁 포로와 빚 때문에 예속된 사람들이 있었다."
           ],
           "sources": [
             "Postgate (1992) Early Mesopotamia",
@@ -866,7 +866,7 @@
     },
     {
       "id": "bce2500-south-asia",
-      "name": "인도 아대륙 기타 농경 사회",
+      "name": "남아시아 기타 농경 사회",
       "kind": "region",
       "population": 2,
       "populationConfidence": "low",

@@ -1,0 +1,324 @@
+{
+  "id": "mesoamerican-state",
+  "name": "메소아메리카 도시국가",
+  "classes": [
+    {
+      "id": "ruler",
+      "name": "도시국가 왕",
+      "share": 5e-05,
+      "shareConfidence": "low",
+      "lifespan": [
+        30,
+        70
+      ],
+      "statBase": {
+        "body": [
+          6,
+          14
+        ],
+        "mind": [
+          10,
+          18
+        ],
+        "charm": [
+          12,
+          19
+        ],
+        "luck": [
+          17,
+          20
+        ]
+      },
+      "jobs": [
+        "신전 의례",
+        "전쟁 지휘",
+        "공물 수령"
+      ],
+      "meals": [
+        "카카오 음료",
+        "칠면조 요리",
+        "토르티야"
+      ],
+      "historyTips": [
+        "메소아메리카 도시국가의 왕은 신과 사람을 잇는 존재로 여겨졌다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Coe (2011) The Maya / Smith (2012) The Aztecs"
+      ]
+    },
+    {
+      "id": "noble",
+      "name": "귀족",
+      "share": 0.03,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          17
+        ],
+        "charm": [
+          10,
+          17
+        ],
+        "luck": [
+          11,
+          18
+        ]
+      },
+      "jobs": [
+        "전사 지휘",
+        "관직",
+        "공물 관리"
+      ],
+      "meals": [
+        "카카오 음료",
+        "칠면조 요리",
+        "토르티야"
+      ],
+      "historyTips": [
+        "메소아메리카 귀족은 화려한 깃털 장식으로 신분을 드러냈다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Coe (2011) The Maya / Smith (2012) The Aztecs"
+      ]
+    },
+    {
+      "id": "priest",
+      "name": "사제",
+      "share": 0.02,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          5,
+          11
+        ],
+        "mind": [
+          12,
+          18
+        ],
+        "charm": [
+          9,
+          16
+        ],
+        "luck": [
+          8,
+          15
+        ]
+      },
+      "jobs": [
+        "역법 계산",
+        "신전 제사",
+        "점술"
+      ],
+      "meals": [
+        "토르티야",
+        "콩",
+        "칠리",
+        "호박"
+      ],
+      "historyTips": [
+        "메소아메리카 사제들은 260일 의례력과 365일 태양력을 함께 썼다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Coe (2011) The Maya / Smith (2012) The Aztecs"
+      ]
+    },
+    {
+      "id": "soldier",
+      "name": "전사",
+      "share": 0.04,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          12,
+          18
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          5,
+          13
+        ]
+      },
+      "jobs": [
+        "포로 사로잡기",
+        "호위",
+        "전투"
+      ],
+      "meals": [
+        "토르티야",
+        "콩",
+        "칠리",
+        "호박"
+      ],
+      "historyTips": [
+        "메소아메리카 전쟁에서는 적을 죽이기보다 포로로 잡는 것이 큰 공으로 여겨졌다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Coe (2011) The Maya / Smith (2012) The Aztecs"
+      ]
+    },
+    {
+      "id": "artisan",
+      "name": "장인·상인",
+      "share": 0.05,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        52
+      ],
+      "statBase": {
+        "body": [
+          9,
+          15
+        ],
+        "mind": [
+          9,
+          15
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          6,
+          13
+        ]
+      },
+      "jobs": [
+        "깃털 공예",
+        "흑요석 도구 제작",
+        "시장 장사"
+      ],
+      "meals": [
+        "토르티야",
+        "콩",
+        "칠리",
+        "호박"
+      ],
+      "historyTips": [
+        "카카오 콩은 화폐처럼 쓰이기도 했다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Coe (2011) The Maya / Smith (2012) The Aztecs"
+      ]
+    },
+    {
+      "id": "peasant",
+      "name": "농민",
+      "share": 0.81995,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        50
+      ],
+      "statBase": {
+        "body": [
+          11,
+          17
+        ],
+        "mind": [
+          4,
+          11
+        ],
+        "charm": [
+          5,
+          11
+        ],
+        "luck": [
+          4,
+          12
+        ]
+      },
+      "jobs": [
+        "옥수수 밀파 농사",
+        "공물 납부",
+        "신전 건설 부역"
+      ],
+      "meals": [
+        "아톨레(옥수수죽)",
+        "콩",
+        "칠리"
+      ],
+      "historyTips": [
+        "메소아메리카 농민은 옥수수·콩·호박을 함께 심는 '밀파' 농법을 썼다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Coe (2011) The Maya / Smith (2012) The Aztecs"
+      ]
+    },
+    {
+      "id": "unfree",
+      "name": "예속민",
+      "share": 0.04,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          10,
+          16
+        ],
+        "mind": [
+          4,
+          12
+        ],
+        "charm": [
+          4,
+          11
+        ],
+        "luck": [
+          1,
+          6
+        ]
+      },
+      "jobs": [
+        "가사 노동",
+        "짐 운반",
+        "농사"
+      ],
+      "meals": [
+        "아톨레(옥수수죽)",
+        "콩",
+        "칠리"
+      ],
+      "historyTips": [
+        "메소아메리카의 예속민은 빚이나 형벌로 그렇게 되는 경우가 많았다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Coe (2011) The Maya / Smith (2012) The Aztecs"
+      ]
+    }
+  ]
+}

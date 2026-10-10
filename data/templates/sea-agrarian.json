@@ -1,0 +1,321 @@
+{
+  "id": "sea-agrarian",
+  "name": "동남아시아 농경 국가(기타 왕국들)",
+  "classes": [
+    {
+      "id": "ruler",
+      "name": "왕",
+      "share": 1e-05,
+      "shareConfidence": "low",
+      "lifespan": [
+        30,
+        70
+      ],
+      "statBase": {
+        "body": [
+          6,
+          14
+        ],
+        "mind": [
+          10,
+          18
+        ],
+        "charm": [
+          12,
+          19
+        ],
+        "luck": [
+          17,
+          20
+        ]
+      },
+      "jobs": [
+        "불교·힌두 의례 후원",
+        "무역 독점",
+        "사원 건설"
+      ],
+      "meals": [
+        "쌀밥",
+        "생선 카레",
+        "열대 과일"
+      ],
+      "historyTips": [
+        "동남아 왕들은 인도에서 온 왕권 사상과 의례를 받아들였다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Reid (1988) Southeast Asia in the Age of Commerce"
+      ]
+    },
+    {
+      "id": "noble",
+      "name": "귀족",
+      "share": 0.02,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          7,
+          13
+        ],
+        "mind": [
+          10,
+          17
+        ],
+        "charm": [
+          10,
+          17
+        ],
+        "luck": [
+          11,
+          18
+        ]
+      },
+      "jobs": [
+        "인력 동원 관리",
+        "무역 대리",
+        "지방 통치"
+      ],
+      "meals": [
+        "쌀밥",
+        "생선 카레",
+        "열대 과일"
+      ],
+      "historyTips": [
+        "동남아 국가의 권력은 땅보다 사람(노동력)을 얼마나 거느리느냐에 달려 있었다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Reid (1988) Southeast Asia in the Age of Commerce"
+      ]
+    },
+    {
+      "id": "priest",
+      "name": "승려·브라만",
+      "share": 0.03,
+      "shareConfidence": "low",
+      "lifespan": [
+        28,
+        62
+      ],
+      "statBase": {
+        "body": [
+          5,
+          11
+        ],
+        "mind": [
+          12,
+          18
+        ],
+        "charm": [
+          9,
+          16
+        ],
+        "luck": [
+          8,
+          15
+        ]
+      },
+      "jobs": [
+        "사원 의례",
+        "경전 교육",
+        "탁발"
+      ],
+      "meals": [
+        "쌀밥",
+        "생선 소스",
+        "채소"
+      ],
+      "historyTips": [
+        "동남아 왕국들은 힌두교·불교를 받아들여 거대한 사원을 지었다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Reid (1988) Southeast Asia in the Age of Commerce"
+      ]
+    },
+    {
+      "id": "soldier",
+      "name": "병사",
+      "share": 0.03,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          12,
+          18
+        ],
+        "mind": [
+          5,
+          12
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          5,
+          13
+        ]
+      },
+      "jobs": [
+        "코끼리 부대",
+        "하천 함대",
+        "요새 수비"
+      ],
+      "meals": [
+        "쌀밥",
+        "생선 소스",
+        "채소"
+      ],
+      "historyTips": [
+        "동남아 왕국들은 전투 코끼리를 귀하게 여겼다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Reid (1988) Southeast Asia in the Age of Commerce"
+      ]
+    },
+    {
+      "id": "artisan",
+      "name": "상인·장인",
+      "share": 0.06,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        52
+      ],
+      "statBase": {
+        "body": [
+          9,
+          15
+        ],
+        "mind": [
+          9,
+          15
+        ],
+        "charm": [
+          6,
+          13
+        ],
+        "luck": [
+          6,
+          13
+        ]
+      },
+      "jobs": [
+        "직조",
+        "금속 세공",
+        "향신료 교역"
+      ],
+      "meals": [
+        "쌀밥",
+        "생선 소스",
+        "채소"
+      ],
+      "historyTips": [
+        "동남아는 향신료 무역의 중심지였다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Reid (1988) Southeast Asia in the Age of Commerce"
+      ]
+    },
+    {
+      "id": "peasant",
+      "name": "농민",
+      "share": 0.70999,
+      "shareConfidence": "low",
+      "lifespan": [
+        22,
+        50
+      ],
+      "statBase": {
+        "body": [
+          11,
+          17
+        ],
+        "mind": [
+          4,
+          11
+        ],
+        "charm": [
+          5,
+          11
+        ],
+        "luck": [
+          4,
+          12
+        ]
+      },
+      "jobs": [
+        "논농사",
+        "부역",
+        "하천 어로"
+      ],
+      "meals": [
+        "찹쌀밥",
+        "말린 생선",
+        "채소"
+      ],
+      "historyTips": [
+        "동남아 농민의 삶은 벼농사와 강·바다의 어로에 기대고 있었다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Reid (1988) Southeast Asia in the Age of Commerce"
+      ]
+    },
+    {
+      "id": "unfree",
+      "name": "예속민",
+      "share": 0.15,
+      "shareConfidence": "low",
+      "lifespan": [
+        18,
+        45
+      ],
+      "statBase": {
+        "body": [
+          10,
+          16
+        ],
+        "mind": [
+          4,
+          12
+        ],
+        "charm": [
+          4,
+          11
+        ],
+        "luck": [
+          1,
+          6
+        ]
+      },
+      "jobs": [
+        "채무 노역",
+        "가사 노동",
+        "사원 노동"
+      ],
+      "meals": [
+        "찹쌀밥",
+        "말린 생선",
+        "채소"
+      ],
+      "historyTips": [
+        "동남아의 예속민 상당수는 빚 때문에 노동을 바치는 채무 예속민이었다."
+      ],
+      "sources": [
+        "권역 공용 템플릿 — 해당 문화권 여러 국가의 공통 구조(연구 서술 기반 추정)",
+        "Reid (1988) Southeast Asia in the Age of Commerce"
+      ]
+    }
+  ]
+}
