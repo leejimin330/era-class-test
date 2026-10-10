@@ -1,0 +1,1894 @@
+{
+  "id": "bce500",
+  "group": "history",
+  "year": -500,
+  "name": "기원전 500년의 세계",
+  "yearLabel": "기원전 500년경",
+  "fictional": false,
+  "worldPopulation": 114,
+  "sources": [
+    "McEvedy & Jones (1978) Atlas of World Population History",
+    "Biraben (1980) An Essay Concerning Mankind's Evolution, Population 4",
+    "US Census Bureau, Historical Estimates of World Population (요약표: 기원전 500년 약 1억)",
+    "지역 합산: 아래 정체·권역 추정치 합계(약 1억 1,400만)"
+  ],
+  "polities": [
+    {
+      "id": "bce500-persia",
+      "name": "아케메네스 페르시아",
+      "kind": "polity",
+      "population": 25,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Aperghis (2004) The Seleukid Royal Economy — 아케메네스 말기 3,000만~3,500만 추정",
+        "Devereaux, A Collection of Unmitigated Pedantry — 아케메네스 인구 약 2,500만(대략) 논의"
+      ],
+      "classes": [
+        {
+          "id": "king",
+          "name": "대왕과 왕족",
+          "share": 8e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            65
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "제국 순행",
+            "태수 임명",
+            "왕의 길로 보고 받기",
+            "거대 궁전 건설 지시"
+          ],
+          "meals": [
+            "궁정 연회 요리",
+            "포도주",
+            "구운 양고기",
+            "대추야자 과자"
+          ],
+          "historyTips": [
+            "'왕의 길'은 수사에서 사르디스까지 2,500km 넘게 이어졌고, 헤로도토스는 역참을 갈아타는 전령을 눈도 비도 막지 못한다고 묘사했다.",
+            "다리우스 1세는 베히스툰 비문에 자신의 즉위를 세 언어로 새겨 남겼다."
+          ],
+          "sources": [
+            "Briant (2002) From Cyrus to Alexander: A History of the Persian Empire"
+          ]
+        },
+        {
+          "id": "noble",
+          "name": "페르시아 귀족·태수 가문",
+          "share": 0.005,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            60
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "사트라피(속주) 통치",
+            "기병대 지휘",
+            "사냥 정원(파라다이스) 관리"
+          ],
+          "meals": [
+            "양고기 구이",
+            "밀빵",
+            "포도주",
+            "석류"
+          ],
+          "historyTips": [
+            "다리우스 1세는 제국을 여러 사트라피로 나누고 태수(사트라프)를 두어 세금과 군사를 맡겼다.",
+            "영어 단어 paradise는 페르시아 귀족의 담장 친 정원을 뜻하는 고대 이란어에서 왔다."
+          ],
+          "sources": [
+            "Briant (2002) From Cyrus to Alexander: A History of the Persian Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "magus",
+          "name": "마기(사제)·서기",
+          "share": 0.008,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            60
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "왕실 제사·의례",
+            "궁정 기록 작성(엘람어 점토판)",
+            "꿈 풀이"
+          ],
+          "meals": [
+            "보리빵",
+            "포도주 배급",
+            "대추야자"
+          ],
+          "historyTips": [
+            "헤로도토스는 마기를 메디아 출신 사제 집단으로 기록했다.",
+            "페르세폴리스 행정 문서 상당수는 페르시아어가 아니라 엘람어로 쓰였다."
+          ],
+          "sources": [
+            "Briant (2002) From Cyrus to Alexander: A History of the Persian Empire",
+            "Henkelman — Persepolis Fortification Tablets 배급 기록 연구"
+          ]
+        },
+        {
+          "id": "soldier",
+          "name": "상비군 병사",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            20,
+            45
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "궁술 훈련",
+            "원정 행군",
+            "요새 수비"
+          ],
+          "meals": [
+            "보리빵",
+            "배급 맥주",
+            "말린 대추야자"
+          ],
+          "historyTips": [
+            "헤로도토스는 결원이 생기면 즉시 채워 늘 1만 명을 유지한 정예 부대를 '불사대'라고 불렀다."
+          ],
+          "sources": [
+            "Briant (2002) From Cyrus to Alexander: A History of the Persian Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인·상인",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            50
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "석공(궁전 부조 조각)",
+            "금속 세공",
+            "대상 교역",
+            "직조"
+          ],
+          "meals": [
+            "보리빵",
+            "렌즈콩죽",
+            "대추야자",
+            "양파"
+          ],
+          "historyTips": [
+            "다리우스 1세의 수사 궁전 건립 비문에는 이오니아·이집트·바빌로니아 등 각지 장인이 동원됐다고 적혀 있다.",
+            "다리우스 1세 시기 금화 '다릭'이 발행됐다."
+          ],
+          "sources": [
+            "Briant (2002) From Cyrus to Alexander: A History of the Persian Empire"
+          ]
+        },
+        {
+          "id": "farmer",
+          "name": "농민",
+          "share": 0.779992,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "보리·밀 농사",
+            "관개 수로(카나트) 관리",
+            "부역(도로·궁전 공사)",
+            "대추야자 재배"
+          ],
+          "meals": [
+            "보리빵",
+            "대추야자",
+            "렌즈콩",
+            "운 좋으면 양젖"
+          ],
+          "historyTips": [
+            "이란 고원의 지하 수로 카나트는 증발을 줄이며 먼 산기슭의 물을 끌어오는 관개 기술이다.",
+            "제국 각지는 은·곡물·가축 등으로 공물을 바쳤고, 헤로도토스는 속주별 공물 목록을 남겼다."
+          ],
+          "sources": [
+            "Briant (2002) From Cyrus to Alexander: A History of the Persian Empire",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "kurtash",
+          "name": "예속 노동자(쿠르타스)",
+          "share": 0.107,
+          "shareConfidence": "low",
+          "lifespan": [
+            20,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "궁전 건설 노동",
+            "포도주·맥주 양조",
+            "직조 작업장 노동"
+          ],
+          "meals": [
+            "배급 보리",
+            "배급 맥주",
+            "배급 포도주 조금"
+          ],
+          "historyTips": [
+            "페르세폴리스 성채 문서에는 '쿠르타스'라 불린 노동자 집단에게 보리·포도주·맥주를 배급한 기록이 수천 점 남아 있다.",
+            "같은 문서에는 출산한 여성 노동자에게 추가 배급을 준 기록도 있다."
+          ],
+          "sources": [
+            "Henkelman — Persepolis Fortification Tablets 배급 기록 연구",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce500-zhou",
+      "name": "춘추시대 중국(주 왕실과 열국)",
+      "kind": "polity",
+      "population": 20,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Lewis (2006) The Construction of Space in Early China / Hsu (1965) Ancient China in Transition"
+      ],
+      "classes": [
+        {
+          "id": "lord",
+          "name": "제후(열국의 군주)",
+          "share": 5e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            60
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "회맹 주재",
+            "제사",
+            "전쟁 결정",
+            "경대부와 권력 다툼"
+          ],
+          "meals": [
+            "제사 뒤 고기",
+            "기장술",
+            "장(醬)으로 맛낸 국"
+          ],
+          "historyTips": [
+            "춘추시대에는 주 왕실의 권위가 약해지고, 제·진·초 같은 강국 제후가 '패자'로서 회맹을 주도했다."
+          ],
+          "sources": [
+            "Lewis (2006) The Construction of Space in Early China / Hsu (1965) Ancient China in Transition",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "minister",
+          "name": "경대부(세습 귀족)",
+          "share": 0.003,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            60
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "국정 운영",
+            "전차 부대 지휘",
+            "봉읍 관리"
+          ],
+          "meals": [
+            "고기 요리",
+            "기장밥",
+            "술"
+          ],
+          "historyTips": [
+            "노나라의 삼환처럼 일부 경대부 가문은 군주를 능가하는 실권을 쥐었다."
+          ],
+          "sources": [
+            "Lewis (2006) The Construction of Space in Early China / Hsu (1965) Ancient China in Transition",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "shi",
+          "name": "사(士)",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            55
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              7,
+              14
+            ],
+            "luck": [
+              7,
+              14
+            ]
+          },
+          "jobs": [
+            "전차병 복무",
+            "가신으로 봉사",
+            "예법·문서 담당"
+          ],
+          "meals": [
+            "기장밥",
+            "콩잎국",
+            "말린 고기"
+          ],
+          "historyTips": [
+            "공자(기원전 551~479)도 몰락한 사(士) 계층 출신으로 알려져 있으며, 바로 이 시기에 활동했다."
+          ],
+          "sources": [
+            "Lewis (2006) The Construction of Space in Early China / Hsu (1965) Ancient China in Transition"
+          ]
+        },
+        {
+          "id": "farmer",
+          "name": "농민(서인)",
+          "share": 0.849995,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "조·기장 농사",
+            "뽕나무·양잠",
+            "전쟁 동원",
+            "성벽 쌓기 부역"
+          ],
+          "meals": [
+            "조·기장밥",
+            "콩잎국(곽갱)",
+            "절인 채소",
+            "장(醬)"
+          ],
+          "historyTips": [
+            "노나라는 기원전 594년 '초세무'로 경작지 면적에 따라 세금을 매기기 시작했다고 『춘추』에 전한다.",
+            "맹자가 묘사한 정전제가 실제로 시행됐는지는 지금도 논쟁거리다."
+          ],
+          "sources": [
+            "Lewis (2006) The Construction of Space in Early China / Hsu (1965) Ancient China in Transition",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "공인·상인",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            50
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "청동기 주조",
+            "칠기 제작",
+            "소금·비단 교역"
+          ],
+          "meals": [
+            "조밥",
+            "콩잎국",
+            "생선 절임"
+          ],
+          "historyTips": [
+            "춘추 말기부터 주철 기술이 퍼지며 철제 농기구가 쓰이기 시작했다."
+          ],
+          "sources": [
+            "Lewis (2006) The Construction of Space in Early China / Hsu (1965) Ancient China in Transition",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "servant",
+          "name": "노복·예속민",
+          "share": 0.077,
+          "shareConfidence": "low",
+          "lifespan": [
+            20,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "귀족 가내 노동",
+            "순장 대상이 될 위험",
+            "잡역"
+          ],
+          "meals": [
+            "거친 기장밥",
+            "콩잎",
+            "남은 음식"
+          ],
+          "historyTips": [
+            "춘추시대 일부 제후 무덤에서는 순장 흔적이 발견되며, 진(秦)은 기원전 384년 순장을 금지했다고 전한다."
+          ],
+          "sources": [
+            "Lewis (2006) The Construction of Space in Early China / Hsu (1965) Ancient China in Transition",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce500-india",
+      "name": "갠지스 유역 16대국(마가다·코살라 등)",
+      "kind": "polity",
+      "population": 17,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India — 기원전 200년경 1,500만~3,000만",
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classes": [
+        {
+          "id": "raja",
+          "name": "왕(라자)",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            60
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "궁정 회의",
+            "전쟁과 동맹",
+            "제사 후원",
+            "출가 수행자 후원"
+          ],
+          "meals": [
+            "쌀밥과 기(ghee)",
+            "고기 요리",
+            "우유 과자"
+          ],
+          "historyTips": [
+            "마가다의 빔비사라 왕은 초기 불교 경전에 붓다의 후원자로 등장한다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India: From the Origins to AD 1300",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "brahmin",
+          "name": "브라만 사제",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            60
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "베다 제사",
+            "제자 교육",
+            "왕실 의례 자문"
+          ],
+          "meals": [
+            "쌀밥",
+            "기(ghee)",
+            "우유죽",
+            "과일"
+          ],
+          "historyTips": [
+            "베다는 오랫동안 문자 대신 정교한 암송법으로 전승됐다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India: From the Origins to AD 1300",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "kshatriya",
+          "name": "크샤트리아 전사·귀족",
+          "share": 0.04,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            55
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "전차·코끼리 부대 지휘",
+            "공화정 회의 참석(가나상가)",
+            "영지 관리"
+          ],
+          "meals": [
+            "쌀밥",
+            "고기 요리",
+            "기(ghee)"
+          ],
+          "historyTips": [
+            "붓다가 태어난 샤카족은 왕국이 아니라 귀족 회의가 다스리는 공화정(가나상가)이었다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India: From the Origins to AD 1300"
+          ]
+        },
+        {
+          "id": "trader",
+          "name": "상인·장인 조합원",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            55
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              16
+            ],
+            "charm": [
+              11,
+              17
+            ],
+            "luck": [
+              8,
+              16
+            ]
+          },
+          "jobs": [
+            "대상 교역",
+            "길드(슈레니) 활동",
+            "면직물·도자기 제작"
+          ],
+          "meals": [
+            "쌀밥",
+            "렌즈콩(달)",
+            "우유죽"
+          ],
+          "historyTips": [
+            "초기 불교 경전에는 부유한 상인이 승단에 정원을 기증한 이야기가 자주 나온다.",
+            "이 무렵 갠지스 유역에서 펀치마크 은화가 쓰이기 시작했다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India: From the Origins to AD 1300"
+          ]
+        },
+        {
+          "id": "farmer",
+          "name": "농민·목축민",
+          "share": 0.73999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "벼농사",
+            "소 돌보기",
+            "왕실 세금(수확의 일부) 납부"
+          ],
+          "meals": [
+            "쌀밥",
+            "렌즈콩(달)",
+            "우유·버터밀크",
+            "채소 커리"
+          ],
+          "historyTips": [
+            "갠지스 중류의 벼농사 확대와 철기 보급이 마가다 같은 큰 왕국 성장의 기반이 됐다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India: From the Origins to AD 1300",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "ascetic",
+          "name": "출가 수행자(사문)",
+          "share": 0.01,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            65
+          ],
+          "statBase": {
+            "body": [
+              5,
+              11
+            ],
+            "mind": [
+              12,
+              18
+            ],
+            "charm": [
+              9,
+              16
+            ],
+            "luck": [
+              8,
+              15
+            ]
+          },
+          "jobs": [
+            "탁발",
+            "명상",
+            "토론과 설법"
+          ],
+          "meals": [
+            "탁발로 얻은 밥",
+            "우유죽",
+            "과일"
+          ],
+          "historyTips": [
+            "이 무렵 붓다와 마하비라(자이나교) 등 여러 사문 운동이 브라만 제사 중심 질서에 도전했다(붓다의 정확한 연대는 학계 논쟁 중)."
+          ],
+          "sources": [
+            "Thapar (2002) Early India: From the Origins to AD 1300"
+          ]
+        },
+        {
+          "id": "chandala",
+          "name": "최하층 노동자(찬달라 등)",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            20,
+            45
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              10
+            ],
+            "charm": [
+              4,
+              10
+            ],
+            "luck": [
+              3,
+              10
+            ]
+          },
+          "jobs": [
+            "화장터 일",
+            "청소·운반",
+            "사냥과 잡역"
+          ],
+          "meals": [
+            "거친 곡물죽",
+            "남은 음식",
+            "들에서 얻은 채소"
+          ],
+          "historyTips": [
+            "초기 문헌에는 찬달라가 마을 밖에 살며 화장터 일 등을 맡는 최하층으로 언급되며, 이런 차별은 이후 오랫동안 이어졌다."
+          ],
+          "sources": [
+            "Thapar (2002) Early India: From the Origins to AD 1300",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce500-greece",
+      "name": "그리스 폴리스 세계",
+      "kind": "polity",
+      "population": 5,
+      "populationConfidence": "low",
+      "sources": [
+        "Hansen (2006) The Shotgun Method: The Demography of the Ancient Greek City-State Culture",
+        "Hansen 추정(알렉산드로스 시대 800만~1,000만)에서 페르시아 지배 하 이오니아 제외·시기 보정"
+      ],
+      "classes": [
+        {
+          "id": "king",
+          "name": "스파르타 왕가",
+          "share": 4e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            60
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "전쟁 지휘",
+            "제사",
+            "원로회 참석"
+          ],
+          "meals": [
+            "검은 수프(돼지 피·식초)",
+            "보리빵",
+            "물 탄 포도주"
+          ],
+          "historyTips": [
+            "스파르타는 두 왕가에서 동시에 두 명의 왕을 두었다."
+          ],
+          "sources": [
+            "Cartledge (2002) Sparta and Lakonia",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "aristocrat",
+          "name": "귀족·부유 시민",
+          "share": 0.03,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            60
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "향연(심포시온) 주최",
+            "전차 경주 후원",
+            "삼단노선 비용 부담"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "생선",
+            "물 탄 포도주"
+          ],
+          "historyTips": [
+            "아테네에서는 클레이스테네스가 기원전 508/507년 개혁으로 민주정의 기틀을 놓았다."
+          ],
+          "sources": [
+            "Hansen (2006) The Shotgun Method: The Demography of the Ancient Greek City-State Culture",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "citizen-farmer",
+          "name": "자영농 시민",
+          "share": 0.419996,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            55
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "올리브·포도·보리 농사",
+            "중장보병(호플리테스) 복무",
+            "민회 참석"
+          ],
+          "meals": [
+            "보리죽(마자)",
+            "올리브",
+            "무화과",
+            "치즈",
+            "가끔 생선"
+          ],
+          "historyTips": [
+            "그리스 중장보병은 대부분 자기 비용으로 무장을 마련한 자영농 시민이었다."
+          ],
+          "sources": [
+            "Hansen (2006) The Shotgun Method: The Demography of the Ancient Greek City-State Culture",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "thete",
+          "name": "빈민 노동자",
+          "share": 0.1,
+          "shareConfidence": "low",
+          "lifespan": [
+            20,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              10
+            ],
+            "charm": [
+              4,
+              10
+            ],
+            "luck": [
+              3,
+              10
+            ]
+          },
+          "jobs": [
+            "품팔이",
+            "노꾼",
+            "부두 하역"
+          ],
+          "meals": [
+            "보리죽",
+            "양파",
+            "절인 생선"
+          ],
+          "historyTips": [
+            "아테네 해군이 커지면서 삼단노선의 노꾼이 된 가난한 시민의 정치적 발언권도 커졌다."
+          ],
+          "sources": [
+            "Hansen (2006) The Shotgun Method: The Demography of the Ancient Greek City-State Culture",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "metic",
+          "name": "장인·상인(외국인 거주민 포함)",
+          "share": 0.12,
+          "shareConfidence": "low",
+          "lifespan": [
+            25,
+            55
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              16
+            ],
+            "charm": [
+              11,
+              17
+            ],
+            "luck": [
+              8,
+              16
+            ]
+          },
+          "jobs": [
+            "도자기 굽기",
+            "해상 교역",
+            "대장장이"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브",
+            "생선",
+            "포도주"
+          ],
+          "historyTips": [
+            "아테네의 흑회식·적회식 도자기는 지중해 전역으로 수출됐다."
+          ],
+          "sources": [
+            "Hansen (2006) The Shotgun Method: The Demography of the Ancient Greek City-State Culture",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "slave",
+          "name": "노예·헬롯",
+          "share": 0.33,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "은광 노동",
+            "가사 노동",
+            "스파르타 시민의 농지 경작(헬롯)"
+          ],
+          "meals": [
+            "보리죽",
+            "말린 무화과",
+            "남은 음식"
+          ],
+          "historyTips": [
+            "스파르타의 헬롯은 국가에 예속된 농민으로, 시민보다 훨씬 많아 스파르타 사회는 늘 반란을 경계했다.",
+            "아테네 라우리온 은광은 주로 노예 노동으로 운영됐다."
+          ],
+          "sources": [
+            "Hansen (2006) The Shotgun Method: The Demography of the Ancient Greek City-State Culture",
+            "Scheidel (2007) Demography, in Cambridge Economic History of the Greco-Roman World",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce500-carthage",
+      "name": "카르타고와 서지중해 페니키아 세계",
+      "kind": "polity",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Hoyos (2010) The Carthaginians"
+      ],
+      "classes": [
+        {
+          "id": "magonid",
+          "name": "마고 가문 수장",
+          "share": 2e-06,
+          "shareConfidence": "low",
+          "lifespan": [
+            30,
+            60
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "함대·용병 지휘",
+            "원로원 운영",
+            "식민지 동맹 관리"
+          ],
+          "meals": [
+            "밀빵",
+            "올리브유",
+            "포도주",
+            "생선 소스"
+          ],
+          "historyTips": [
+            "기원전 6~5세기 카르타고 정치는 마고 가문이 주도한 것으로 전해진다."
+          ],
+          "sources": [
+            "Hoyos (2010) The Carthaginians"
+          ]
+        },
+        {
+          "id": "merchant-noble",
+          "name": "상인 귀족",
+          "share": 0.02,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            60
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "해상 무역 투자",
+            "원로원 활동",
+            "농장 경영"
+          ],
+          "meals": [
+            "밀빵",
+            "생선",
+            "올리브",
+            "포도주"
+          ],
+          "historyTips": [
+            "전승에 따르면 카르타고는 기원전 814년 티레에서 온 페니키아인이 세웠다."
+          ],
+          "sources": [
+            "Hoyos (2010) The Carthaginians",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "시민 장인·선원",
+          "share": 0.15,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "자주색 염료 생산",
+            "조선",
+            "항해"
+          ],
+          "meals": [
+            "밀빵",
+            "생선",
+            "콩"
+          ],
+          "historyTips": [
+            "페니키아의 자주색 염료는 뿔고둥 수천 마리에서 조금씩 얻어 매우 비쌌다."
+          ],
+          "sources": [
+            "Hoyos (2010) The Carthaginians"
+          ]
+        },
+        {
+          "id": "libyan-farmer",
+          "name": "리비아계 농민",
+          "share": 0.549998,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "올리브 재배",
+            "공납"
+          ],
+          "meals": [
+            "보리죽",
+            "올리브",
+            "무화과"
+          ],
+          "historyTips": [
+            "카르타고 배후지의 리비아계 농민은 무거운 공납 부담을 졌고 여러 차례 반란을 일으켰다."
+          ],
+          "sources": [
+            "Hoyos (2010) The Carthaginians",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "mercenary",
+          "name": "용병",
+          "share": 0.05,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            40
+          ],
+          "statBase": {
+            "body": [
+              12,
+              18
+            ],
+            "mind": [
+              5,
+              12
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              5,
+              13
+            ]
+          },
+          "jobs": [
+            "원정 전투",
+            "요새 수비",
+            "함대 승선"
+          ],
+          "meals": [
+            "보리빵",
+            "생선 절임",
+            "포도주 배급"
+          ],
+          "historyTips": [
+            "카르타고 군대는 시민보다 이베리아·켈트·리비아 출신 용병 의존도가 높았다."
+          ],
+          "sources": [
+            "Hoyos (2010) The Carthaginians"
+          ]
+        },
+        {
+          "id": "slave",
+          "name": "노예",
+          "share": 0.23,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "농장 노동",
+            "항구 하역",
+            "가사 노동"
+          ],
+          "meals": [
+            "보리죽",
+            "남은 음식",
+            "올리브 조금"
+          ],
+          "historyTips": [
+            "카르타고 농학자 마고의 농업서는 후일 로마 원로원이 라틴어로 번역하게 할 만큼 높이 평가됐다."
+          ],
+          "sources": [
+            "Hoyos (2010) The Carthaginians",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce500-italy",
+      "name": "이탈리아(에트루리아·초기 로마 공화정 등)",
+      "kind": "polity",
+      "population": 4,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Cornell (1995) The Beginnings of Rome"
+      ],
+      "classes": [
+        {
+          "id": "lucumo",
+          "name": "에트루리아 왕(루쿠모)",
+          "share": 1e-05,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            60
+          ],
+          "statBase": {
+            "body": [
+              6,
+              14
+            ],
+            "mind": [
+              10,
+              18
+            ],
+            "charm": [
+              12,
+              19
+            ],
+            "luck": [
+              17,
+              20
+            ]
+          },
+          "jobs": [
+            "도시 통치",
+            "점복 의식 주관",
+            "연회"
+          ],
+          "meals": [
+            "구운 고기",
+            "포도주",
+            "밀빵"
+          ],
+          "historyTips": [
+            "에트루리아 문자는 읽을 수 있지만, 언어 자체는 아직 부분적으로만 이해된다."
+          ],
+          "sources": [
+            "Cornell (1995) The Beginnings of Rome"
+          ]
+        },
+        {
+          "id": "patrician",
+          "name": "귀족(파트리키·에트루리아 귀족)",
+          "share": 0.015,
+          "shareConfidence": "low",
+          "lifespan": [
+            28,
+            60
+          ],
+          "statBase": {
+            "body": [
+              7,
+              13
+            ],
+            "mind": [
+              10,
+              17
+            ],
+            "charm": [
+              10,
+              17
+            ],
+            "luck": [
+              11,
+              18
+            ]
+          },
+          "jobs": [
+            "원로원 활동",
+            "피호민 거느리기",
+            "제사장직"
+          ],
+          "meals": [
+            "밀빵",
+            "포도주",
+            "돼지고기",
+            "올리브"
+          ],
+          "historyTips": [
+            "로마는 전승상 기원전 509년 왕을 몰아내고 공화정을 시작했다."
+          ],
+          "sources": [
+            "Cornell (1995) The Beginnings of Rome",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "plebeian",
+          "name": "평민 농민",
+          "share": 0.71999,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              11,
+              17
+            ],
+            "mind": [
+              4,
+              11
+            ],
+            "charm": [
+              5,
+              11
+            ],
+            "luck": [
+              4,
+              12
+            ]
+          },
+          "jobs": [
+            "밀·보리 농사",
+            "포도·올리브 재배",
+            "민병 복무"
+          ],
+          "meals": [
+            "스펠트밀 죽(풀스)",
+            "콩",
+            "양파",
+            "치즈"
+          ],
+          "historyTips": [
+            "초기 로마인의 주식은 빵보다 곡물을 끓인 죽 '풀스'였다."
+          ],
+          "sources": [
+            "Cornell (1995) The Beginnings of Rome",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        },
+        {
+          "id": "artisan",
+          "name": "장인·상인",
+          "share": 0.08,
+          "shareConfidence": "low",
+          "lifespan": [
+            22,
+            50
+          ],
+          "statBase": {
+            "body": [
+              9,
+              15
+            ],
+            "mind": [
+              9,
+              15
+            ],
+            "charm": [
+              6,
+              13
+            ],
+            "luck": [
+              6,
+              13
+            ]
+          },
+          "jobs": [
+            "청동 세공",
+            "도자기(부케로) 제작",
+            "교역"
+          ],
+          "meals": [
+            "풀스",
+            "콩",
+            "생선"
+          ],
+          "historyTips": [
+            "에트루리아의 검은 광택 도자기 '부케로'는 지중해 곳곳에서 출토된다."
+          ],
+          "sources": [
+            "Cornell (1995) The Beginnings of Rome"
+          ]
+        },
+        {
+          "id": "client-slave",
+          "name": "피호민·노예",
+          "share": 0.185,
+          "shareConfidence": "low",
+          "lifespan": [
+            18,
+            45
+          ],
+          "statBase": {
+            "body": [
+              10,
+              16
+            ],
+            "mind": [
+              4,
+              12
+            ],
+            "charm": [
+              4,
+              11
+            ],
+            "luck": [
+              1,
+              6
+            ]
+          },
+          "jobs": [
+            "귀족 농장 노동",
+            "가사 노동",
+            "채무 노역"
+          ],
+          "meals": [
+            "풀스",
+            "남은 음식",
+            "채소"
+          ],
+          "historyTips": [
+            "초기 로마에는 빚을 갚지 못하면 채권자에게 예속되는 '넥숨' 제도가 있었다."
+          ],
+          "sources": [
+            "Cornell (1995) The Beginnings of Rome",
+            "계급 비율은 정량 사료가 없어 사회 구조 서술 기반 추정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bce500-europe-tribes",
+      "name": "알프스 이북 켈트·게르만 족장 사회",
+      "kind": "region",
+      "population": 9,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce500-south-asia-tribes",
+      "name": "데칸·남인도 부족 농경 사회",
+      "kind": "region",
+      "population": 5,
+      "populationConfidence": "low",
+      "sources": [
+        "Dyson (2018) A Population History of India — 기원전 200년경 1,500만~3,000만",
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce500-steppe",
+      "name": "스키타이 등 유라시아 초원 유목민",
+      "kind": "region",
+      "population": 3,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "bce500-arabia",
+      "name": "아라비아 유목·오아시스 사회",
+      "kind": "region",
+      "population": 1.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "pastoral-nomad"
+    },
+    {
+      "id": "bce500-ssa",
+      "name": "사하라 이남 아프리카 농경 사회",
+      "kind": "region",
+      "population": 7,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Biraben (1980) An Essay Concerning Mankind's Evolution, Population 4"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce500-mesoamerica",
+      "name": "메소아메리카(올멕 후기·사포텍 등)",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce500-americas",
+      "name": "기타 아메리카 원주민 사회",
+      "kind": "region",
+      "population": 4,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce500-northeast-asia",
+      "name": "고조선 등 동북아시아 족장 사회",
+      "kind": "region",
+      "population": 1.5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "chiefdom"
+    },
+    {
+      "id": "bce500-southeast-asia",
+      "name": "동남아시아 농경 사회",
+      "kind": "region",
+      "population": 5,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History"
+      ],
+      "classTemplate": "tribal-farming"
+    },
+    {
+      "id": "bce500-foragers",
+      "name": "전 세계 수렵채집민",
+      "kind": "region",
+      "population": 2,
+      "populationConfidence": "low",
+      "sources": [
+        "McEvedy & Jones (1978) Atlas of World Population History",
+        "Gurven & Kaplan (2007) Longevity Among Hunter-Gatherers"
+      ],
+      "classTemplate": "hunter-gatherer"
+    }
+  ]
+}
